@@ -1,0 +1,1849 @@
+subjectID,first_second_session,combination_of_trials,inserted_position,first_target,second_target,order_of_stimulus,first_event,second_event,third_event,subject,date,subjects'_age,gender,c1,c2,c3,c4,c5,c6,c7,c8,c9,retention_task,age
+1,1,1,#9,6,9,1,flute,pizza,badminton,1,20220709,21,F,0,0,0,0,0,1,0,0,1,2,adults
+1,1,1,#9,4,9,2,popper,violin,hamburger,1,20220709,21,F,0,0,0,1,0,0,0,0,1,2,adults
+1,1,1,#9,0,6,3,baseball,melon soda float,,1,20220709,21,F,0,0,0,0,0,1,0,0,0,2,adults
+1,1,1,#6,6,9,4,cheerleader,orange,saxophone,1,20220709,21,F,0,0,0,0,0,1,0,0,1,1,adults
+1,1,1,#9,0,9,5,ice cream,tambourine,,1,20220709,21,F,0,0,0,0,0,0,0,0,1,2,adults
+1,1,1,#6,4,7,6,cymbal,watermelon,tennis,1,20220709,21,F,0,0,0,1,0,0,1,0,0,1,adults
+1,1,1,#6,6,8,7,chiffon cake,tuba,cap,1,20220709,21,F,0,0,0,0,0,1,0,1,0,1,adults
+1,1,1,#9,0,4,8,balloon,pop corn,,1,20220709,21,F,0,0,0,1,0,0,0,0,0,2,adults
+1,1,1,#6,4,9,9,electric guitar,chocolate parfait,umbrella,1,20220709,21,F,0,0,0,1,0,0,0,0,1,1,adults
+1,1,1,#9,6,7,10,basketball,acoustic guitar,meat,1,20220709,21,F,0,0,0,0,0,1,1,0,0,2,adults
+1,1,1,#9,5,9,11,table tennis,keyboard harmonica,crepe,1,20220709,21,F,0,0,0,0,1,0,0,0,0,2,adults
+1,1,1,#6,5,7,12,corn,handbell,trumpet,1,20220709,21,F,0,0,0,0,1,0,1,0,0,1,adults
+1,2,1,#9,5,8,1,handbell,corn,basketball,1,20220709,21,F,0,0,0,0,1,0,0,1,0,2,adults
+1,2,1,#9,6,8,2,keyboard harmonica,table tennis,crepe,1,20220709,21,F,0,0,0,0,0,1,0,1,0,2,adults
+1,2,1,#6,5,8,3,balloon,violin,meat,1,20220709,21,F,0,0,0,0,1,0,0,1,0,1,adults
+1,2,1,#9,0,7,4,melon soda float,umbrella,,1,20220709,21,F,0,0,0,0,0,0,1,0,0,2,adults
+1,2,1,#9,4,7,5,cheerleader,orange,tennis,1,20220709,21,F,0,0,0,1,0,0,1,0,0,2,adults
+1,2,1,#6,5,9,6,electric guitar,chocolate parfait,cap,1,20220709,21,F,0,0,0,0,1,0,0,0,1,1,adults
+1,2,1,#9,0,5,7,pop corn,saxophone,,1,20220709,21,F,0,0,0,0,1,0,0,0,0,2,adults
+1,2,1,#6,6,7,8,ice cream,flute,baseball,1,20220709,21,F,0,0,0,0,0,1,1,0,0,1,adults
+1,2,1,#9,0,8,9,cymbal,hamburger,,1,20220709,21,F,0,0,0,0,0,0,0,1,0,2,adults
+1,2,1,#9,5,7,10,tuba,soccer ball,chiffon cake,1,20220709,21,F,0,0,0,0,1,0,1,0,0,2,adults
+1,2,1,#6,4,8,11,popper,watermelon,trumpet,1,20220709,21,F,0,0,0,1,0,0,0,1,0,2,adults
+1,2,1,#9,4,8,12,pizza,badminton,tambourine,1,20220709,21,F,0,0,0,1,0,0,0,1,0,2,adults
+2,1,1,#9,4,7,1,cheerleader,orange,tennis,2,20220710,26,M,1,1,1,1,1,1,1,1,1,2,adults
+2,1,1,#9,5,7,2,tuba,soccer ball,chiffon cake,2,20220710,26,M,1,1,1,1,1,1,1,1,1,2,adults
+2,1,1,#6,4,8,3,popper,watermelon,trumpet,2,20220710,26,M,1,1,1,1,1,1,1,1,1,1,adults
+2,1,1,#6,5,9,4,electric guitar,chocolate parfait,cap,2,20220710,26,M,1,1,1,1,1,1,1,1,1,1,adults
+2,1,1,#9,0,8,5,cymbal,hamburger,,2,20220710,26,M,1,1,1,1,1,1,1,1,1,2,adults
+2,1,1,#9,6,8,6,keyboard harmonica,table tennis,crepe,2,20220710,26,M,1,1,1,1,1,1,1,1,1,2,adults
+2,1,1,#9,5,8,7,handbell,corn,basketball,2,20220710,26,M,1,1,1,1,1,1,1,1,1,2,adults
+2,1,1,#6,6,7,8,ice cream,flute,baseball,2,20220710,26,M,1,1,1,1,1,1,1,1,1,1,adults
+2,1,1,#9,0,5,9,pop corn,saxophone,,2,20220710,26,M,1,1,1,1,1,1,1,1,1,2,adults
+2,1,1,#9,4,8,10,pizza,badminton,tambourine,2,20220710,26,M,1,1,1,1,1,1,1,1,1,2,adults
+2,1,1,#6,5,8,11,balloon,violin,meat,2,20220710,26,M,1,1,1,1,1,1,1,1,1,1,adults
+2,1,1,#9,0,7,12,melon soda float,umbrella,,2,20220710,26,M,1,1,1,1,1,1,1,1,1,2,adults
+2,2,1,#6,6,8,1,chiffon cake,tuba,cap,2,20220710,26,M,1,1,1,1,1,1,1,1,1,1,adults
+2,2,1,#9,6,7,2,basketball,acoustic guitar,corn,2,20220710,26,M,1,1,1,1,1,1,1,1,1,2,adults
+2,2,1,#9,0,9,3,ice cream,tambourine,,2,20220710,26,M,1,1,1,1,1,1,1,1,1,2,adults
+2,2,1,#6,6,9,4,cheerleader,orange,saxophone,2,20220710,26,M,1,1,1,1,1,1,1,1,1,1,adults
+2,2,1,#9,5,9,5,table tennis,keyboard harmonica,crepe,2,20220710,26,M,1,1,1,1,1,1,1,1,1,2,adults
+2,2,1,#6,4,7,6,cymbal,watermelon,tennis,2,20220710,26,M,1,1,1,1,1,1,1,1,1,1,adults
+2,2,1,#9,6,9,7,flute,pizza,badminton,2,20220710,26,M,1,1,1,1,1,1,1,1,1,2,adults
+2,2,1,#9,0,4,8,balloon,pop corn,,2,20220710,26,M,1,1,1,1,1,1,1,1,1,2,adults
+2,2,1,#6,4,9,9,electric guitar,chocolate parfait,umbrella,2,20220710,26,M,1,1,1,1,1,1,1,1,1,1,adults
+2,2,1,#9,4,9,10,popper,violin,hamburger,2,20220710,26,M,1,1,1,1,1,1,1,1,1,2,adults
+2,2,1,#9,0,6,11,baseball,melon soda float,,2,20220710,26,M,1,1,1,1,1,1,1,1,1,2,adults
+2,2,1,#6,5,7,12,meat,handbell,trumpet,2,20220710,26,M,1,1,1,1,1,1,1,1,1,1,adults
+3,1,1,#9,5,7,1,tuba,soccer ball,chiffon cake,3,20220711,21,M,1,1,1,1,1,1,1,1,1,2,adults
+3,1,1,#9,4,7,2,cheerleader,orange,tennis,3,20220711,21,M,0,0,0,0,0,0,1,0,0,2,adults
+3,1,1,#6,6,7,3,ice cream,flute,baseball,3,20220711,21,M,0,0,0,0,0,1,0,0,0,1,adults
+3,1,1,#9,0,8,4,cymbal,hamburger,,3,20220711,21,M,0,0,0,0,0,0,0,1,0,2,adults
+3,1,1,#9,4,8,5,pizza,badminton,tambourine,3,20220711,21,M,0,0,0,1,0,0,1,0,0,2,adults
+3,1,1,#9,0,5,6,pop corn,saxophone,,3,20220711,21,M,0,0,0,0,1,0,0,0,0,2,adults
+3,1,1,#6,5,9,7,electric guitar,chocolate parfait,cap,3,20220711,21,M,0,0,0,0,0,1,0,0,1,1,adults
+3,1,1,#6,5,8,8,balloon,violin,meat,3,20220711,21,M,0,0,0,0,1,1,0,0,0,1,adults
+3,1,1,#9,6,8,9,keyboard harmonica,table tennis,crepe,3,20220711,21,M,0,0,0,0,0,0,0,1,0,2,adults
+3,1,1,#9,5,8,10,handbell,corn,basketball,3,20220711,21,M,0,0,0,0,0,0,0,1,0,2,adults
+3,1,1,#9,0,7,11,melon soda float,umbrella,,3,20220711,21,M,0,0,0,0,0,0,1,0,0,2,adults
+3,1,1,#6,4,8,12,popper,watermelon,trumpet,3,20220711,21,M,0,0,0,0,0,1,0,0,0,1,adults
+3,2,1,#9,4,9,1,popper,violin,hamburger,3,20220711,21,M,0,0,0,0,0,0,0,0,1,2,adults
+3,2,1,#6,4,9,2,electric guitar,chocolate parfait,umbrella,3,20220711,21,M,0,0,0,1,0,0,0,0,0,1,adults
+3,2,1,#6,4,7,3,cymbal,watermelon,tennis,3,20220711,21,M,0,0,0,0,0,1,0,0,0,1,adults
+3,2,1,#9,0,9,4,ice cream,tambourine,,3,20220711,21,M,0,0,0,0,0,0,0,0,1,2,adults
+3,2,1,#6,5,7,5,meat,handbell,trumpet,3,20220711,21,M,0,0,0,0,0,1,0,0,0,1,adults
+3,2,1,#9,5,9,6,table tennis,keyboard harmonica,crepe,3,20220711,21,M,0,0,0,0,1,0,0,0,1,2,adults
+3,2,1,#6,6,9,7,cheerleader,orange,saxophone,3,20220711,21,M,0,0,0,0,0,1,0,0,0,1,adults
+3,2,1,#9,0,6,8,baseball,melon soda float,,3,20220711,21,M,0,0,0,0,0,1,0,0,0,2,adults
+3,2,1,#9,6,7,9,basketball,acoustic guitar,corn,3,20220711,21,M,0,0,0,0,0,1,1,0,0,2,adults
+3,2,1,#6,6,8,10,chiffon cake,tuba,cap,3,20220711,21,M,0,0,0,0,0,1,0,0,0,1,adults
+3,2,1,#9,0,4,11,balloon,pop corn,,3,20220711,21,M,0,0,0,1,0,0,0,0,0,2,adults
+3,2,1,#9,6,9,12,flute,pizza,badminton,3,20220711,21,M,0,0,0,0,0,0,0,0,1,2,adults
+4,1,1,#9,5,9,1,table tennis,keyboard harmonica,crepe,4,20220711,21,M,0,0,0,0,0,0,0,0,1,2,adults
+4,1,1,#9,6,7,2,basketball,acoustic guitar,corn,4,20220711,21,M,0,0,0,0,0,1,1,0,0,2,adults
+4,1,1,#9,6,9,3,flute,pizza,badminton,4,20220711,21,M,0,0,0,0,0,1,0,0,1,2,adults
+4,1,1,#6,4,7,4,cymbal,watermelon,tennis,4,20220711,21,M,0,0,0,1,0,0,0,0,0,1,adults
+4,1,1,#9,0,6,5,baseball,melon soda float,,4,20220711,21,M,0,0,0,0,0,1,0,0,0,2,adults
+4,1,1,#6,6,9,6,cheerleader,orange,saxophone,4,20220711,21,M,0,0,0,0,0,1,0,0,0,1,adults
+4,1,1,#9,0,9,7,ice cream,tambourine,,4,20220711,21,M,0,0,0,0,0,0,0,0,1,2,adults
+4,1,1,#9,4,9,8,popper,violin,hamburger,4,20220711,21,M,0,0,0,1,0,0,0,0,1,2,adults
+4,1,1,#6,6,8,9,chiffon cake,tuba,cap,4,20220711,21,M,0,0,0,0,0,1,0,0,0,1,adults
+4,1,1,#9,0,4,10,balloon,pop corn,,4,20220711,21,M,0,0,0,1,0,0,0,0,0,2,adults
+4,1,1,#6,4,9,11,electric guitar,chocolate parfait,umbrella,4,20220711,21,M,0,0,0,1,0,0,0,0,0,1,adults
+4,1,1,#6,5,7,12,meat,handbell,trumpet,4,20220711,21,M,0,0,0,0,1,0,0,0,0,1,adults
+4,2,1,#9,4,7,1,cheerleader,orange,tennis,4,20220711,21,M,0,0,0,1,0,0,1,0,0,2,adults
+4,2,1,#6,5,9,2,electric guitar,chocolate parfait,cap,4,20220711,21,M,0,0,0,0,1,0,0,0,0,1,adults
+4,2,1,#9,0,8,3,cymbal,hamburger,,4,20220711,21,M,0,0,0,0,0,0,0,1,0,2,adults
+4,2,1,#9,6,8,4,keyboard harmonica,table tennis,crepe,4,20220711,21,M,0,0,0,0,0,1,0,1,0,2,adults
+4,2,1,#9,0,5,5,pop corn,saxophone,,4,20220711,21,M,0,0,0,0,1,0,0,0,0,2,adults
+4,2,1,#6,6,7,6,ice cream,flute,baseball,4,20220711,21,M,0,0,0,0,0,1,0,0,0,1,adults
+4,2,1,#6,5,8,7,balloon,violin,meat,4,20220711,21,M,0,0,0,0,1,0,0,0,0,1,adults
+4,2,1,#9,4,8,8,pizza,badminton,tambourine,4,20220711,21,M,0,0,0,1,0,0,0,1,0,2,adults
+4,2,1,#9,5,8,9,handbell,corn,basketball,4,20220711,21,M,0,0,0,0,1,0,0,1,0,2,adults
+4,2,1,#9,0,7,10,melon soda float,umbrella,,4,20220711,21,M,0,0,0,0,0,0,1,0,0,2,adults
+4,2,1,#6,4,8,11,popper,watermelon,trumpet,4,20220711,21,M,0,0,0,1,0,0,0,0,0,1,adults
+4,2,1,#9,5,7,12,tuba,soccer ball,chiffon cake,4,20220711,21,M,0,0,0,0,1,0,0,1,0,2,adults
+5,1,1,#9,0,4,1,balloon,pop corn,,5,20220711,35,F,0,0,0,1,0,0,0,0,0,2,adults
+5,1,1,#9,5,9,2,table tennis,keyboard harmonica,crepe,5,20220711,35,F,0,0,0,0,1,0,0,0,1,2,adults
+5,1,1,#9,4,9,3,popper,violin,hamburger,5,20220711,35,F,0,0,0,1,0,0,0,0,1,2,adults
+5,1,1,#6,4,9,4,electric guitar,chocolate parfait,umbrella,5,20220711,35,F,0,0,0,1,0,0,0,0,1,1,adults
+5,1,1,#6,4,7,5,cymbal,watermelon,tennis,5,20220711,35,F,0,0,0,1,0,0,1,0,0,1,adults
+5,1,1,#9,6,9,6,flute,pizza,badminton,5,20220711,35,F,0,0,0,0,0,1,0,0,1,2,adults
+5,1,1,#9,6,7,7,basketball,acoustic guitar,corn,5,20220711,35,F,0,0,0,0,0,1,1,0,0,2,adults
+5,1,1,#9,0,9,8,ice cream,tambourine,,5,20220711,35,F,0,0,0,0,0,0,0,0,1,2,adults
+5,1,1,#6,5,7,9,meat,handbell,trumpet,5,20220711,35,F,0,0,0,0,1,0,1,0,0,1,adults
+5,1,1,#6,6,8,10,chiffon cake,tuba,cap,5,20220711,35,F,0,0,0,0,0,1,0,1,0,1,adults
+5,1,1,#6,6,9,11,cheerleader,orange,saxophone,5,20220711,35,F,0,0,0,0,0,1,0,0,1,1,adults
+5,1,1,#9,0,6,12,baseball,melon soda float,,5,20220711,35,F,0,0,0,0,0,1,0,0,0,2,adults
+5,2,1,#9,0,7,1,melon soda float,umbrella,,5,20220711,35,F,0,0,0,0,0,0,1,0,0,2,adults
+5,2,1,#9,5,8,2,handbell,corn,basketball,5,20220711,35,F,0,0,0,0,1,0,0,1,0,2,adults
+5,2,1,#9,5,7,3,tuba,soccer ball,chiffon cake,5,20220711,35,F,0,0,0,0,1,0,1,0,0,2,adults
+5,2,1,#6,4,8,4,popper,watermelon,trumpet,5,20220711,35,F,0,0,0,1,0,0,0,1,0,2,adults
+5,2,1,#9,4,8,5,pizza,badminton,tambourine,5,20220711,35,F,0,0,0,1,0,0,0,1,0,2,adults
+5,2,1,#9,4,7,6,cheerleader,orange,tennis,5,20220711,35,F,0,0,0,1,0,0,1,0,0,2,adults
+5,2,1,#6,5,9,7,electric guitar,chocolate parfait,cap,5,20220711,35,F,0,0,0,0,1,0,0,0,1,1,adults
+5,2,1,#9,0,8,8,cymbal,hamburger,,5,20220711,35,F,0,0,0,0,0,0,0,1,0,2,adults
+5,2,1,#6,6,7,9,ice cream,flute,baseball,5,20220711,35,F,0,0,0,0,0,1,1,0,0,1,adults
+5,2,1,#6,5,8,10,balloon,violin,meat,5,20220711,35,F,0,0,0,0,1,0,0,1,0,2,adults
+5,2,1,#9,6,8,11,keyboard harmonica,table tennis,crepe,5,20220711,35,F,0,0,0,0,0,1,0,1,0,2,adults
+5,2,1,#9,0,5,12,pop corn,saxophone,,5,20220711,35,F,0,0,0,0,1,0,0,0,0,2,adults
+6,1,1,#9,4,9,1,popper,violin,hamburger,6,20220712,22,F,0,0,0,1,0,0,0,0,1,2,adults
+6,1,1,#9,0,9,2,ice cream,tambourine,,6,20220712,22,F,0,0,0,0,0,0,0,0,1,2,adults
+6,1,1,#9,6,7,3,basketball,acoustic guitar,corn,6,20220712,22,F,0,0,0,0,0,1,1,0,0,2,adults
+6,1,1,#6,4,9,4,electric guitar,chocolate parfait,umbrella,6,20220712,22,F,0,0,0,1,0,0,0,0,1,1,adults
+6,1,1,#9,0,4,5,balloon,pop corn,,6,20220712,22,F,0,0,0,1,0,0,0,0,0,2,adults
+6,1,1,#9,6,9,6,flute,pizza,badminton,6,20220712,22,F,0,0,0,0,0,1,0,0,1,2,adults
+6,1,1,#6,6,9,7,cheerleader,orange,saxophone,6,20220712,22,F,0,0,0,0,0,1,0,0,1,1,adults
+6,1,1,#6,6,8,8,chiffon cake,tuba,cap,6,20220712,22,F,0,0,0,0,0,1,0,1,0,1,adults
+6,1,1,#6,4,7,9,cymbal,watermelon,tennis,6,20220712,22,F,0,0,0,1,0,0,1,0,0,1,adults
+6,1,1,#9,0,6,10,baseball,melon soda float,,6,20220712,22,F,0,0,0,0,0,1,0,0,0,2,adults
+6,1,1,#6,5,7,11,meat,handbell,trumpet,6,20220712,22,F,0,0,0,0,1,0,1,0,0,1,adults
+6,1,1,#9,5,9,12,table tennis,keyboard harmonica,crepe,6,20220712,22,F,0,0,0,0,1,0,0,0,1,2,adults
+6,2,1,#9,5,7,1,tuba,soccer ball,chiffon cake,6,20220712,22,F,0,0,0,0,1,0,1,0,0,2,adults
+6,2,1,#9,0,5,2,pop corn,saxophone,,6,20220712,22,F,0,0,0,0,1,0,0,0,0,2,adults
+6,2,1,#9,4,8,3,pizza,badminton,tambourine,6,20220712,22,F,0,0,0,1,0,0,0,1,0,2,adults
+6,2,1,#6,5,8,4,balloon,violin,meat,6,20220712,22,F,0,0,0,0,1,0,0,1,0,1,adults
+6,2,1,#9,0,7,5,melon soda float,umbrella,,6,20220712,22,F,0,0,0,0,0,0,1,0,0,2,adults
+6,2,1,#6,4,8,6,popper,watermelon,trumpet,6,20220712,22,F,0,0,0,1,0,0,0,1,0,1,adults
+6,2,1,#6,6,7,7,ice cream,flute,baseball,6,20220712,22,F,0,0,0,0,0,1,0,0,0,1,adults
+6,2,1,#9,0,8,8,cymbal,hamburger,,6,20220712,22,F,0,0,0,0,0,0,0,1,0,2,adults
+6,2,1,#6,5,9,9,electric guitar,chocolate parfait,cap,6,20220712,22,F,0,0,0,0,1,0,0,0,0,1,adults
+6,2,1,#9,5,8,10,handbell,corn,basketball,6,20220712,22,F,0,0,0,0,1,0,0,1,0,2,adults
+6,2,1,#9,6,8,11,keyboard harmonica,table tennis,crepe,6,20220712,22,F,0,0,0,0,0,1,0,1,0,2,adults
+6,2,1,#9,4,7,12,cheerleader,orange,tennis,6,20220712,22,F,0,0,0,1,0,0,1,0,0,2,adults
+7,1,1,#9,0,9,1,ice cream,tambourine,,7,20220713,23,M,0,0,0,0,0,0,0,0,1,2,adults
+7,1,1,#9,4,9,2,popper,violin,hamburger,7,20220713,23,M,0,0,0,0,0,0,0,0,1,2,adults
+7,1,1,#6,6,8,3,chiffon cake,tuba,cap,7,20220713,23,M,0,0,0,0,1,0,0,0,0,1,adults
+7,1,1,#9,0,4,4,balloon,pop corn,,7,20220713,23,M,0,0,0,1,0,0,0,0,0,2,adults
+7,1,1,#9,5,9,5,table tennis,keyboard harmonica,crepe,7,20220713,23,M,0,0,0,0,0,0,0,0,1,2,adults
+7,1,1,#6,5,7,6,meat,handbell,trumpet,7,20220713,23,M,0,0,0,0,1,0,0,0,0,1,adults
+7,1,1,#6,4,9,7,electric guitar,chocolate parfait,umbrella,7,20220713,23,M,0,0,0,1,0,0,0,0,0,1,adults
+7,1,1,#9,6,7,8,basketball,acoustic guitar,corn,7,20220713,23,M,0,0,0,0,1,1,0,0,0,2,adults
+7,1,1,#9,6,9,9,flute,pizza,badminton,7,20220713,23,M,0,0,0,0,0,0,0,0,1,2,adults
+7,1,1,#6,6,9,10,cheerleader,orange,saxophone,7,20220713,23,M,0,0,0,0,0,1,0,0,0,1,adults
+7,1,1,#9,0,6,11,baseball,melon soda float,,7,20220713,23,M,0,0,0,0,0,1,0,0,0,2,adults
+7,1,1,#6,4,7,12,cymbal,watermelon,tennis,7,20220713,23,M,0,0,0,1,0,0,0,0,0,1,adults
+7,2,1,#9,5,8,1,handbell,corn,basketball,7,20220713,23,M,0,0,0,0,0,0,0,1,0,2,adults
+7,2,1,#9,6,8,2,keyboard harmonica,table tennis,crepe,7,20220713,23,M,0,0,0,0,0,0,0,1,0,2,adults
+7,2,1,#9,0,8,3,cymbal,hamburger,,7,20220713,23,M,0,0,0,0,0,0,0,1,0,2,adults
+7,2,1,#6,6,7,4,ice cream,flute,baseball,7,20220713,23,M,0,0,0,0,0,1,0,0,0,1,adults
+7,2,1,#6,4,8,5,popper,watermelon,trumpet,7,20220713,23,M,0,0,0,1,0,0,0,0,0,1,adults
+7,2,1,#6,5,9,6,electric guitar,chocolate parfait,cap,7,20220713,23,M,0,0,0,0,1,0,0,0,0,1,adults
+7,2,1,#9,0,5,7,pop corn,saxophone,,7,20220713,23,M,0,0,0,0,1,0,0,0,0,2,adults
+7,2,1,#9,5,7,8,tuba,soccer ball,chiffon cake,7,20220713,23,M,0,0,0,0,0,0,1,0,0,2,adults
+7,2,1,#6,5,8,9,balloon,violin,meat,7,20220713,23,M,0,0,0,0,1,0,0,0,0,1,adults
+7,2,1,#9,0,7,10,melon soda float,umbrella,,7,20220713,23,M,0,0,0,0,0,0,1,0,0,2,adults
+7,2,1,#9,4,7,11,cheerleader,orange,tennis,7,20220713,23,M,0,0,0,0,0,0,1,0,0,2,adults
+7,2,1,#9,4,8,12,pizza,badminton,tambourine,7,20220713,23,M,0,0,0,0,0,0,0,1,0,2,adults
+8,1,1,#9,0,5,1,pop corn,saxophone,,8,20220714,28,F,1,1,1,1,1,1,1,1,1,2,adults
+8,1,1,#6,5,9,2,electric guitar,chocolate parfait,cap,8,20220714,28,F,0,0,0,0,0,1,0,0,0,1,adults
+8,1,1,#9,5,8,3,handbell,corn,basketball,8,20220714,28,F,0,0,0,0,0,0,0,1,0,2,adults
+8,1,1,#9,6,8,4,keyboard harmonica,table tennis,crepe,8,20220714,28,F,1,1,1,1,1,1,1,1,1,2,adults
+8,1,1,#6,4,8,5,popper,watermelon,trumpet,8,20220714,28,F,0,0,0,0,0,1,0,0,0,1,adults
+8,1,1,#9,5,7,6,tuba,soccer ball,chiffon cake,8,20220714,28,F,1,1,1,1,1,1,1,1,1,2,adults
+8,1,1,#6,5,8,7,balloon,violin,meat,8,20220714,28,F,0,0,0,0,1,0,0,0,0,1,adults
+8,1,1,#9,0,7,8,melon soda float,umbrella,,8,20220714,28,F,1,1,1,1,1,1,1,1,1,2,adults
+8,1,1,#9,4,7,9,cheerleader,orange,tennis,8,20220714,28,F,1,1,1,1,1,1,1,1,1,2,adults
+8,1,1,#6,6,7,10,ice cream,flute,baseball,8,20220714,28,F,0,0,0,0,0,1,0,0,0,1,adults
+8,1,1,#9,0,8,11,cymbal,hamburger,,8,20220714,28,F,0,0,0,0,0,0,0,1,0,2,adults
+8,1,1,#9,4,8,12,pizza,badminton,tambourine,8,20220714,28,F,1,1,1,1,1,1,1,1,1,2,adults
+8,2,1,#6,4,9,1,electric guitar,chocolate parfait,umbrella,8,20220714,28,F,0,0,0,0,1,0,0,0,0,1,adults
+8,2,1,#9,0,4,2,balloon,pop corn,,8,20220714,28,F,1,1,1,1,1,1,1,1,1,2,adults
+8,2,1,#6,6,8,3,chiffon cake,tuba,cap,8,20220714,28,F,0,0,0,0,0,1,0,0,0,1,adults
+8,2,1,#9,6,7,4,basketball,acoustic guitar,corn,8,20220714,28,F,1,1,1,1,1,1,1,1,1,2,adults
+8,2,1,#9,6,9,5,flute,pizza,badminton,8,20220714,28,F,0,0,0,0,0,0,0,0,1,2,adults
+8,2,1,#6,4,7,6,cymbal,watermelon,tennis,8,20220714,28,F,0,0,0,0,0,1,0,0,0,1,adults
+8,2,1,#9,0,9,7,ice cream,tambourine,,8,20220714,28,F,0,0,0,0,0,0,0,0,1,2,adults
+8,2,1,#6,6,9,8,cheerleader,orange,saxophone,8,20220714,28,F,0,0,0,0,0,1,0,0,0,1,adults
+8,2,1,#9,5,9,9,table tennis,keyboard harmonica,crepe,8,20220714,28,F,0,0,0,0,0,0,0,0,1,2,adults
+8,2,1,#6,5,7,10,meat,handbell,trumpet,8,20220714,28,F,0,0,0,0,1,0,0,0,0,1,adults
+8,2,1,#9,0,6,11,baseball,melon soda float,,8,20220714,28,F,1,1,1,1,1,1,1,1,1,2,adults
+8,2,1,#9,4,9,12,popper,violin,hamburger,8,20220714,28,F,0,0,0,0,0,0,0,0,1,2,adults
+9,1,1,#9,0,8,1,cymbal,hamburger,,9,20220714,21,M,0,0,0,0,0,0,0,1,0,2,adults
+9,1,1,#6,5,9,2,electric guitar,chocolate parfait,cap,9,20220714,21,M,0,0,0,0,1,0,0,0,0,1,adults
+9,1,1,#9,5,8,3,handbell,corn,basketball,9,20220714,21,M,0,0,0,0,0,0,0,1,0,2,adults
+9,1,1,#9,0,7,4,melon soda float,umbrella,,9,20220714,21,M,0,0,0,0,0,0,1,0,0,2,adults
+9,1,1,#6,5,8,5,balloon,violin,meat,9,20220714,21,M,0,0,0,0,1,0,0,0,0,1,adults
+9,1,1,#6,6,7,6,ice cream,flute,baseball,9,20220714,21,M,0,0,0,0,0,1,0,0,0,1,adults
+9,1,1,#9,0,5,7,pop corn,saxophone,,9,20220714,21,M,0,0,0,0,1,0,0,0,0,2,adults
+9,1,1,#9,5,7,8,tuba,soccer ball,chiffon cake,9,20220714,21,M,0,0,0,0,1,0,1,0,0,2,adults
+9,1,1,#6,4,8,9,popper,watermelon,trumpet,9,20220714,21,M,0,0,0,0,1,1,0,0,0,1,adults
+9,1,1,#9,4,8,10,pizza,badminton,tambourine,9,20220714,21,M,0,0,0,0,0,0,0,1,0,2,adults
+9,1,1,#9,4,7,11,cheerleader,orange,tennis,9,20220714,21,M,0,0,0,0,0,0,1,0,0,2,adults
+9,1,1,#9,6,8,12,keyboard harmonica,table tennis,crepe,9,20220714,21,M,0,0,0,0,0,1,0,1,0,2,adults
+9,2,1,#9,6,9,1,flute,pizza,badminton,9,20220714,21,M,0,0,0,0,0,0,0,0,1,2,adults
+9,2,1,#9,0,4,2,balloon,pop corn,,9,20220714,21,M,0,0,0,1,0,0,0,0,0,2,adults
+9,2,1,#6,4,9,3,electric guitar,chocolate parfait,umbrella,9,20220714,21,M,0,0,0,0,1,1,0,0,0,1,adults
+9,2,1,#6,6,9,4,cheerleader,orange,saxophone,9,20220714,21,M,0,0,0,0,0,1,0,0,0,1,adults
+9,2,1,#9,0,6,5,baseball,melon soda float,,9,20220714,21,M,0,0,0,0,0,0,1,1,1,2,adults
+9,2,1,#9,4,9,6,popper,violin,hamburger,9,20220714,21,M,0,0,0,0,0,0,0,0,1,2,adults
+9,2,1,#6,6,8,7,chiffon cake,tuba,cap,9,20220714,21,M,0,0,0,0,0,1,0,0,0,1,adults
+9,2,1,#6,4,7,8,cymbal,watermelon,tennis,9,20220714,21,M,0,0,0,0,0,0,1,0,0,1,adults
+9,2,1,#9,0,9,9,ice cream,tambourine,,9,20220714,21,M,0,0,0,0,0,0,0,0,1,2,adults
+9,2,1,#6,5,7,10,meat,handbell,trumpet,9,20220714,21,M,0,0,0,0,1,0,0,0,0,1,adults
+9,2,1,#9,5,9,11,table tennis,keyboard harmonica,crepe,9,20220714,21,M,0,0,0,0,0,0,0,0,1,2,adults
+9,2,1,#9,6,7,12,basketball,acoustic guitar,corn,9,20220714,21,M,0,0,0,0,0,1,1,0,0,2,adults
+10,1,1,#9,4,8,1,pizza,badminton,tambourine,10,20220714,24,M,1,1,1,1,1,1,1,1,1,2,adults
+10,1,1,#6,4,8,2,popper,watermelon,trumpet,10,20220714,24,M,0,0,0,1,0,0,0,0,0,1,adults
+10,1,1,#9,0,7,3,melon soda float,umbrella,,10,20220714,24,M,0,0,0,0,0,0,1,0,0,2,adults
+10,1,1,#6,5,8,4,balloon,violin,meat,10,20220714,24,M,0,0,0,0,1,0,0,0,0,1,adults
+10,1,1,#9,6,8,5,keyboard harmonica,table tennis,crepe,10,20220714,24,M,0,0,0,0,0,1,0,1,0,2,adults
+10,1,1,#9,5,8,6,handbell,corn,basketball,10,20220714,24,M,0,0,0,0,1,0,0,1,0,2,adults
+10,1,1,#6,6,7,7,ice cream,flute,baseball,10,20220714,24,M,0,0,0,0,0,1,0,0,0,1,adults
+10,1,1,#9,4,7,8,cheerleader,orange,tennis,10,20220714,24,M,0,0,0,0,0,0,1,0,0,2,adults
+10,1,1,#9,5,7,9,tuba,soccer ball,chiffon cake,10,20220714,24,M,0,0,0,0,1,0,1,0,0,2,adults
+10,1,1,#9,0,5,10,pop corn,saxophone,,10,20220714,24,M,0,0,0,0,1,0,0,0,0,2,adults
+10,1,1,#6,5,9,11,electric guitar,chocolate parfait,cap,10,20220714,24,M,0,0,0,0,1,0,0,0,0,1,adults
+10,1,1,#9,0,8,12,cymbal,hamburger,,10,20220714,24,M,0,0,0,0,0,0,0,1,0,2,adults
+10,2,1,#6,6,9,1,cheerleader,orange,saxophone,10,20220714,24,M,0,0,0,0,0,1,0,0,0,1,adults
+10,2,1,#6,4,9,2,electric guitar,chocolate parfait,umbrella,10,20220714,24,M,0,0,0,1,0,0,0,0,0,1,adults
+10,2,1,#9,0,4,3,balloon,pop corn,,10,20220714,24,M,0,0,0,1,0,0,0,0,0,2,adults
+10,2,1,#9,5,9,4,table tennis,keyboard harmonica,crepe,10,20220714,24,M,0,0,0,0,0,0,0,0,1,2,adults
+10,2,1,#6,4,7,5,cymbal,watermelon,tennis,10,20220714,24,M,0,0,0,1,0,0,0,0,0,1,adults
+10,2,1,#6,6,8,6,chiffon cake,tuba,cap,10,20220714,24,M,0,0,0,0,0,1,0,0,0,1,adults
+10,2,1,#9,4,9,7,popper,violin,hamburger,10,20220714,24,M,0,0,0,0,0,0,0,0,1,2,adults
+10,2,1,#9,0,6,8,baseball,melon soda float,,10,20220714,24,M,0,0,0,0,0,1,0,0,0,2,adults
+10,2,1,#6,5,7,9,meat,handbell,trumpet,10,20220714,24,M,0,0,0,0,1,0,0,0,0,1,adults
+10,2,1,#9,0,9,10,ice cream,tambourine,,10,20220714,24,M,0,0,0,0,0,0,0,0,1,2,adults
+10,2,1,#9,6,7,11,basketball,acoustic guitar,corn,10,20220714,24,M,0,0,0,0,0,1,1,0,0,2,adults
+10,2,1,#9,6,9,12,flute,pizza,badminton,10,20220714,24,M,0,0,0,0,0,0,0,0,1,2,adults
+11,1,2,#9,4,9,1,trumpet,pop corn,cheerleader,11,20220716,30,M,0,0,0,0,0,0,0,0,1,2,adults
+11,1,2,#6,6,7,2,table tennis,chiffon cake,tuba,11,20220716,30,M,0,0,0,0,0,1,0,0,0,1,adults
+11,1,2,#9,4,7,3,hamburger,balloon,acoustic guitar,11,20220716,30,M,1,1,1,0,1,1,0,1,1,2,adults
+11,1,2,#9,0,6,4,flute,pizza,,11,20220716,30,M,1,1,1,1,1,0,1,1,1,2,adults
+11,1,2,#6,4,9,5,cymbal,tennis,corn,11,20220716,30,M,1,1,1,0,1,1,1,1,0,1,adults
+11,1,2,#9,6,8,6,crepe,tambourine,umbrella,11,20220716,30,M,1,1,1,1,1,0,1,0,1,2,adults
+11,1,2,#6,5,8,7,violin,basketball,watermelon,11,20220716,30,M,1,1,1,1,0,1,1,0,1,1,adults
+11,1,2,#9,6,9,8,soccer ball,electric guitar,melon soda float,11,20220716,30,M,0,0,0,0,0,0,0,0,1,2,adults
+11,1,2,#9,0,5,9,saxophone,meat,,11,20220716,30,M,1,1,1,1,0,1,1,1,1,2,adults
+11,1,2,#6,5,9,10,chocolate parfait,baseball,cap,11,20220716,30,M,1,1,1,1,0,1,1,1,0,1,adults
+11,1,2,#9,4,8,11,popper,orange,handbell,11,20220716,30,M,1,1,1,0,1,1,1,0,1,2,adults
+11,1,2,#9,0,9,12,ice cream,badminton,,11,20220716,30,M,0,0,0,0,0,0,0,0,1,2,adults
+11,2,2,#9,0,8,1,melon soda float,flute,,11,20220716,30,M,1,1,1,1,1,1,1,0,1,2,adults
+11,2,2,#9,5,7,2,cheerleader,violin,orange,11,20220716,30,M,1,1,1,1,0,1,0,1,1,2,adults
+11,2,2,#9,6,7,3,badminton,baseball,ice cream,11,20220716,30,M,1,1,1,1,1,0,0,1,1,2,adults
+11,2,2,#6,4,8,4,corn,acoustic guitar,basketball,11,20220716,30,M,1,1,1,0,1,1,1,0,1,1,adults
+11,2,2,#6,6,9,5,soccer ball,pizza,umbrella,11,20220716,30,M,0,0,0,0,0,1,0,0,0,1,adults
+11,2,2,#9,5,8,6,popper,watermelon,cymbal,11,20220716,30,M,1,1,1,1,0,1,1,0,1,2,adults
+11,2,2,#9,5,9,7,tambourine,chocolate parfait,cap,11,20220716,30,M,0,0,0,0,0,0,0,0,1,2,adults
+11,2,2,#6,4,7,8,hamburger,saxophone,trumpet,11,20220716,30,M,1,1,1,0,1,1,0,1,1,1,adults
+11,2,2,#6,5,7,9,crepe,keyboard harmonica,tuba,11,20220716,30,M,1,1,1,1,0,1,0,1,1,1,adults
+11,2,2,#9,0,4,10,tennis,meat,,11,20220716,30,M,1,1,1,0,1,1,1,1,1,2,adults
+11,2,2,#6,6,8,11,table tennis,electric guitar,chiffon cake,11,20220716,30,M,0,0,0,0,0,1,0,0,0,1,adults
+11,2,2,#9,0,7,12,balloon,pop corn,,11,20220716,30,M,1,1,1,1,1,1,0,1,1,2,adults
+12,1,2,#9,0,9,1,ice cream,badminton,,12,20220719,40,M,0,0,0,0,0,0,0,0,1,2,adults
+12,1,2,#6,5,8,2,violin,basketball,watermelon,12,20220719,40,M,0,0,0,0,1,0,0,0,0,1,adults
+12,1,2,#9,6,8,3,crepe,tambourine,umbrella,12,20220719,40,M,0,0,0,0,0,0,0,1,0,2,adults
+12,1,2,#9,4,9,4,trumpet,pop corn,cheerleader,12,20220719,40,M,0,0,0,0,0,0,0,0,1,2,adults
+12,1,2,#6,5,9,5,chocolate parfait,baseball,cap,12,20220719,40,M,0,0,0,0,1,0,0,0,0,1,adults
+12,1,2,#6,4,9,6,cymbal,tennis,corn,12,20220719,40,M,0,0,0,1,0,0,0,0,0,1,adults
+12,1,2,#9,0,6,7,flute,pizza,,12,20220719,40,M,0,0,0,0,0,1,0,0,0,2,adults
+12,1,2,#9,4,8,8,popper,orange,handbell,12,20220719,40,M,0,0,0,0,0,0,0,1,0,2,adults
+12,1,2,#6,6,7,9,table tennis,chiffon cake,tuba,12,20220719,40,M,0,0,0,0,0,1,0,0,0,1,adults
+12,1,2,#9,0,5,10,saxophone,meat,,12,20220719,40,M,0,0,0,0,1,0,0,0,0,2,adults
+12,1,2,#9,6,9,11,soccer ball,electric guitar,melon soda float,12,20220719,40,M,0,0,0,0,0,0,0,0,1,2,adults
+12,1,2,#9,4,7,12,hamburger,balloon,acoustic guitar,12,20220719,40,M,0,0,0,0,0,0,1,0,0,2,adults
+12,2,2,#9,5,8,1,popper,watermelon,cymbal,12,20220719,40,M,0,0,0,0,0,0,0,1,0,2,adults
+12,2,2,#9,5,9,2,tambourine,chocolate parfait,cap,12,20220719,40,M,0,0,0,0,0,0,0,0,1,2,adults
+12,2,2,#9,5,7,3,cheerleader,violin,orange,12,20220719,40,M,0,0,0,0,0,0,1,0,0,2,adults
+12,2,2,#6,6,9,4,soccer ball,pizza,umbrella,12,20220719,40,M,0,0,0,0,0,1,0,0,0,1,adults
+12,2,2,#9,0,4,5,tennis,meat,,12,20220719,40,M,0,0,0,1,0,0,0,0,0,2,adults
+12,2,2,#9,6,7,6,badminton,baseball,ice cream,12,20220719,40,M,0,0,0,0,0,1,1,0,0,2,adults
+12,2,2,#9,0,7,7,balloon,pop corn,,12,20220719,40,M,0,0,0,0,0,0,1,0,0,2,adults
+12,2,2,#6,6,8,8,table tennis,electric guitar,chiffon cake,12,20220719,40,M,0,0,0,0,0,1,0,0,0,1,adults
+12,2,2,#6,4,8,9,corn,acoustic guitar,basketball,12,20220719,40,M,0,0,0,1,0,0,0,0,0,1,adults
+12,2,2,#9,0,8,10,melon soda float,flute,,12,20220719,40,M,0,0,0,0,0,0,0,1,0,2,adults
+12,2,2,#6,4,7,11,hamburger,saxophone,trumpet,12,20220719,40,M,0,0,0,1,0,0,0,0,0,1,adults
+12,2,2,#6,5,7,12,crepe,keyboard harmonica,tuba,12,20220719,40,M,0,0,0,0,1,0,0,0,0,1,adults
+13,1,3,#9,6,9,1,badminton,flute,pizza,13,20220720,24,M,0,0,0,0,0,0,0,0,1,2,adults
+13,1,3,#9,0,5,2,acoustic guitar,meat,,13,20220720,24,M,0,0,0,0,0,0,0,0,1,2,adults
+13,1,3,#6,4,8,3,umbrella,baseball,crepe,13,20220720,24,M,0,0,0,0,0,1,0,0,0,1,adults
+13,1,3,#9,5,9,4,pop corn,cymbal,basketball,13,20220720,24,M,0,0,0,0,0,0,0,0,1,2,adults
+13,1,3,#9,0,9,5,electric guitar,chiffon cake,,13,20220720,24,M,0,0,0,0,0,0,0,0,1,2,adults
+13,1,3,#9,6,8,6,orange,popper,tennis,13,20220720,24,M,0,0,0,0,0,0,0,0,1,2,adults
+13,1,3,#6,5,8,7,soccer ball,melon soda float,table tennis,13,20220720,24,M,0,0,0,0,0,1,0,0,0,1,adults
+13,1,3,#9,0,8,8,violin,corn,,13,20220720,24,M,0,0,0,0,0,0,0,0,1,2,adults
+13,1,3,#6,4,9,9,cap,ice cream,tuba,13,20220720,24,M,0,0,0,0,0,1,0,0,0,1,adults
+13,1,3,#9,5,8,10,watermelon,balloon,handbell,13,20220720,24,M,0,0,0,0,0,0,0,0,1,2,adults
+13,1,3,#9,4,9,11,chocolate parfait,keyboard harmonica,tambourine,13,20220720,24,M,0,0,0,0,0,0,0,0,1,2,adults
+13,1,3,#6,4,7,12,saxophone,cheerleader,hamburger,13,20220720,24,M,0,0,0,0,0,1,0,0,0,1,adults
+13,2,3,#6,6,9,1,hamburger,tennis,trumpet,13,20220720,24,M,0,0,0,0,0,1,0,0,0,1,adults
+13,2,3,#9,0,7,2,baseball,ice cream,,13,20220720,24,M,0,0,0,0,0,0,0,0,1,2,adults
+13,2,3,#6,6,7,3,cymbal,handbell,pop corn,13,20220720,24,M,0,0,0,0,0,1,0,0,0,1,adults
+13,2,3,#9,0,6,4,badminton,crepe,,13,20220720,24,M,0,0,0,0,0,0,0,0,1,2,adults
+13,2,3,#9,4,8,5,acoustic guitar,popper,meat,13,20220720,24,M,0,0,0,0,0,0,0,0,1,2,adults
+13,2,3,#6,5,9,6,tambourine,chocolate parfait,keyboard harmonica,13,20220720,24,M,0,0,0,0,0,1,0,0,0,1,adults
+13,2,3,#9,0,4,7,basketball,watermelon,,13,20220720,24,M,0,0,0,0,0,0,0,0,1,2,adults
+13,2,3,#9,4,7,8,chiffon cake,electric guitar,table tennis,13,20220720,24,M,0,0,0,0,0,0,0,0,1,2,adults
+13,2,3,#9,6,7,9,orange,violin,saxophone,13,20220720,24,M,0,0,0,0,0,0,0,0,1,2,adults
+13,2,3,#6,6,8,10,umbrella,soccer ball,melon soda float,13,20220720,24,M,0,0,0,0,0,1,0,0,0,1,adults
+13,2,3,#9,5,7,11,corn,balloon,cheerleader,13,20220720,24,M,0,0,0,0,0,0,0,0,1,2,adults
+13,2,3,#6,5,7,12,pizza,cap,tuba,13,20220720,24,M,0,0,0,0,0,1,0,0,0,1,adults
+14,1,2,#9,4,9,1,trumpet,pop corn,cheerleader,14,20220720,21,M,0,0,0,0,0,0,0,0,1,2,adults
+14,1,2,#6,6,7,2,table tennis,chiffon cake,tuba,14,20220720,21,M,0,0,0,0,0,1,0,0,0,1,adults
+14,1,2,#9,4,8,3,popper,orange,handbell,14,20220720,21,M,0,0,0,0,0,0,0,1,0,2,adults
+14,1,2,#6,5,9,4,chocolate parfait,baseball,cap,14,20220720,21,M,0,0,0,0,1,0,0,0,0,1,adults
+14,1,2,#9,0,5,5,saxophone,meat,,14,20220720,21,M,1,1,1,1,0,1,1,1,1,2,adults
+14,1,2,#9,6,9,6,soccer ball,electric guitar,melon soda float,14,20220720,21,M,0,0,0,0,0,0,0,0,1,2,adults
+14,1,2,#6,4,9,7,cymbal,tennis,corn,14,20220720,21,M,1,1,1,0,1,1,0,0,0,1,adults
+14,1,2,#9,6,8,8,crepe,tambourine,umbrella,14,20220720,21,M,0,0,0,0,0,0,0,1,0,2,adults
+14,1,2,#9,4,7,9,hamburger,balloon,acoustic guitar,14,20220720,21,M,0,0,0,0,0,0,1,0,0,2,adults
+14,1,2,#9,0,6,10,flute,pizza,,14,20220720,21,M,1,1,1,1,1,1,1,1,1,2,adults
+14,1,2,#6,5,8,11,violin,basketball,watermelon,14,20220720,21,M,0,0,0,0,1,0,0,0,0,1,adults
+14,1,2,#9,0,9,12,ice cream,badminton,,14,20220720,21,M,0,0,0,0,0,0,0,0,1,2,adults
+14,2,2,#9,0,8,1,melon soda float,flute,,14,20220720,21,M,0,0,0,0,0,0,0,1,0,2,adults
+14,2,2,#9,5,8,2,popper,watermelon,cymbal,14,20220720,21,M,0,0,0,0,0,0,0,1,0,2,adults
+14,2,2,#6,5,7,3,crepe,keyboard harmonica,tuba,14,20220720,21,M,0,0,0,0,1,0,0,0,0,1,adults
+14,2,2,#9,0,7,4,balloon,pop corn,,14,20220720,21,M,1,1,1,1,1,1,0,1,1,2,adults
+14,2,2,#6,6,8,5,table tennis,electric guitar,chiffon cake,14,20220720,21,M,0,0,0,0,0,1,0,0,0,1,adults
+14,2,2,#9,5,7,6,cheerleader,violin,orange,14,20220720,21,M,1,1,1,1,0,1,0,1,1,2,adults
+14,2,2,#9,5,9,7,tambourine,chocolate parfait,cap,14,20220720,21,M,0,0,0,0,0,0,0,0,1,2,adults
+14,2,2,#6,4,7,8,hamburger,saxophone,trumpet,14,20220720,21,M,0,0,0,1,0,0,0,0,0,1,adults
+14,2,2,#9,6,7,9,badminton,baseball,ice cream,14,20220720,21,M,1,1,1,1,1,0,0,1,1,2,adults
+14,2,2,#9,0,4,10,tennis,meat,,14,20220720,21,M,1,1,1,0,1,1,1,1,1,2,adults
+14,2,2,#6,6,9,11,soccer ball,pizza,umbrella,14,20220720,21,M,0,0,0,0,0,1,0,0,0,1,adults
+14,2,2,#6,4,8,12,corn,acoustic guitar,basketball,14,20220720,21,M,0,0,0,1,0,0,0,0,0,1,adults
+15,1,2,#6,6,9,1,soccer ball,pizza,umbrella,15,20220720,19,M,0,0,0,0,0,1,0,0,0,1,adults
+15,1,2,#9,0,7,2,balloon,pop corn,,15,20220720,19,M,1,1,1,1,1,1,1,1,1,2,adults
+15,1,2,#6,6,8,3,table tennis,electric guitar,chiffon cake,15,20220720,19,M,0,0,0,0,0,1,0,0,0,1,adults
+15,1,2,#9,0,4,4,tennis,meat,,15,20220720,19,M,1,1,1,1,1,1,1,1,1,2,adults
+15,1,2,#9,5,9,5,tambourine,chocolate parfait,cap,15,20220720,19,M,0,0,0,0,0,0,0,0,1,2,adults
+15,1,2,#6,4,7,6,hamburger,saxophone,trumpet,15,20220720,19,M,0,0,0,1,0,0,0,0,0,1,adults
+15,1,2,#9,6,7,7,badminton,baseball,ice cream,15,20220720,19,M,0,0,0,0,0,1,1,0,0,2,adults
+15,1,2,#6,4,8,8,corn,acoustic guitar,basketball,15,20220720,19,M,0,0,0,1,0,0,0,0,0,1,adults
+15,1,2,#9,0,8,9,melon soda float,flute,,15,20220720,19,M,0,0,0,0,0,0,0,1,0,2,adults
+15,1,2,#9,5,7,10,cheerleader,violin,orange,15,20220720,19,M,1,1,1,1,1,1,1,1,1,2,adults
+15,1,2,#6,5,7,11,crepe,keyboard harmonica,tuba,15,20220720,19,M,0,0,0,0,1,0,0,0,0,1,adults
+15,1,2,#9,5,8,12,popper,watermelon,cymbal,15,20220720,19,M,1,1,1,1,1,1,1,1,1,2,adults
+15,2,2,#9,4,9,1,trumpet,pop corn,cheerleader,15,20220720,19,M,0,0,0,0,0,0,0,0,1,2,adults
+15,2,2,#9,0,9,2,ice cream,badminton,,15,20220720,19,M,0,0,0,0,0,0,0,0,1,2,adults
+15,2,2,#6,5,8,3,violin,basketball,watermelon,15,20220720,19,M,0,0,0,0,1,0,0,0,0,1,adults
+15,2,2,#9,0,6,4,flute,pizza,,15,20220720,19,M,0,0,0,0,0,1,0,0,0,2,adults
+15,2,2,#6,4,9,5,cymbal,tennis,corn,15,20220720,19,M,0,0,0,1,0,0,0,0,0,1,adults
+15,2,2,#9,6,8,6,crepe,tambourine,umbrella,15,20220720,19,M,0,0,0,0,0,1,0,1,0,2,adults
+15,2,2,#9,4,7,7,hamburger,balloon,acoustic guitar,15,20220720,19,M,1,1,1,1,1,1,1,1,1,2,adults
+15,2,2,#6,6,7,8,table tennis,chiffon cake,tuba,15,20220720,19,M,0,0,0,0,0,1,0,0,0,1,adults
+15,2,2,#9,0,5,9,saxophone,meat,,15,20220720,19,M,0,0,0,0,1,0,0,0,0,2,adults
+15,2,2,#9,6,9,10,soccer ball,electric guitar,melon soda float,15,20220720,19,M,0,0,0,0,0,0,0,0,1,2,adults
+15,2,2,#9,4,8,11,popper,orange,handbell,15,20220720,19,M,0,0,0,0,0,0,0,1,0,2,adults
+15,2,2,#6,5,9,12,chocolate parfait,baseball,cap,15,20220720,19,M,0,0,0,0,1,0,0,0,0,1,adults
+16,1,2,#9,5,7,1,cheerleader,violin,orange,16,20220721,22,M,0,0,0,0,1,0,0,1,0,2,adults
+16,1,2,#6,6,8,2,table tennis,electric guitar,chiffon cake,16,20220721,22,M,0,0,0,0,0,1,0,0,0,1,adults
+16,1,2,#9,5,8,3,popper,watermelon,cymbal,16,20220721,22,M,0,0,0,0,1,0,0,1,0,2,adults
+16,1,2,#6,6,9,4,soccer ball,pizza,umbrella,16,20220721,22,M,0,0,0,0,0,1,0,0,0,1,adults
+16,1,2,#9,0,7,5,balloon,pop corn,,16,20220721,22,M,0,0,0,0,0,0,0,0,1,2,adults
+16,1,2,#9,5,9,6,tambourine,chocolate parfait,cap,16,20220721,22,M,0,0,0,0,0,0,0,0,1,2,adults
+16,1,2,#6,4,7,7,hamburger,saxophone,trumpet,16,20220721,22,M,0,0,0,0,0,1,0,0,0,1,adults
+16,1,2,#9,0,8,8,melon soda float,flute,,16,20220721,22,M,0,0,0,0,0,0,0,1,0,2,adults
+16,1,2,#6,4,8,9,corn,acoustic guitar,basketball,16,20220721,22,M,0,0,0,0,0,1,0,0,0,1,adults
+16,1,2,#9,6,7,10,badminton,baseball,ice cream,16,20220721,22,M,0,0,0,0,0,1,1,0,0,2,adults
+16,1,2,#9,0,4,11,tennis,meat,,16,20220721,22,M,0,0,0,0,0,0,0,0,1,2,adults
+16,1,2,#6,5,7,12,crepe,keyboard harmonica,tuba,16,20220721,22,M,0,0,0,0,1,0,0,0,0,1,adults
+16,2,2,#9,0,9,1,ice cream,badminton,,16,20220721,22,M,0,0,0,0,0,0,0,0,1,2,adults
+16,2,2,#9,4,7,2,hamburger,balloon,acoustic guitar,16,20220721,22,M,0,0,0,0,0,0,0,0,1,2,adults
+16,2,2,#9,6,8,3,crepe,tambourine,umbrella,16,20220721,22,M,0,0,0,0,0,0,0,1,0,2,adults
+16,2,2,#6,5,8,4,violin,basketball,watermelon,16,20220721,22,M,0,0,0,0,1,0,0,0,0,1,adults
+16,2,2,#6,5,9,5,chocolate parfait,baseball,cap,16,20220721,22,M,0,0,0,0,1,0,0,0,0,1,adults
+16,2,2,#9,4,8,6,popper,orange,handbell,16,20220721,22,M,0,0,0,0,0,0,0,1,0,2,adults
+16,2,2,#9,0,6,7,flute,pizza,,16,20220721,22,M,0,0,0,0,0,0,0,1,1,2,adults
+16,2,2,#6,4,9,8,cymbal,tennis,corn,16,20220721,22,M,0,0,0,0,1,1,0,0,0,1,adults
+16,2,2,#9,6,9,9,soccer ball,electric guitar,melon soda float,16,20220721,22,M,0,0,0,0,0,0,0,0,1,2,adults
+16,2,2,#9,0,5,10,saxophone,meat,,16,20220721,22,M,0,0,0,0,0,1,1,1,1,2,adults
+16,2,2,#6,6,7,11,table tennis,chiffon cake,tuba,16,20220721,22,M,0,0,0,0,0,1,0,0,0,1,adults
+16,2,2,#9,4,9,12,trumpet,pop corn,cheerleader,16,20220721,22,M,0,0,0,0,0,0,0,0,1,2,adults
+17,1,3,#9,5,8,1,watermelon,balloon,handbell,17,20220722,20,M,0,0,0,0,0,0,0,0,1,2,adults
+17,1,3,#9,4,9,2,chocolate parfait,keyboard harmonica,tambourine,17,20220722,20,M,0,0,0,0,0,0,0,0,1,2,adults
+17,1,3,#9,6,8,3,orange,popper,tennis,17,20220722,20,M,0,0,0,0,0,0,0,0,1,2,adults
+17,1,3,#6,4,9,4,cap,ice cream,tuba,17,20220722,20,M,0,0,0,0,0,1,0,0,0,1,adults
+17,1,3,#9,0,5,5,acoustic guitar,meat,,17,20220722,20,M,0,0,0,0,0,0,0,0,1,2,adults
+17,1,3,#6,5,8,6,soccer ball,melon soda float,table tennis,17,20220722,20,M,0,0,0,0,0,1,0,0,0,1,adults
+17,1,3,#9,0,8,7,violin,corn,,17,20220722,20,M,0,0,0,0,0,0,0,0,1,2,adults
+17,1,3,#6,4,8,8,umbrella,baseball,crepe,17,20220722,20,M,0,0,0,0,0,1,0,0,0,1,adults
+17,1,3,#6,4,7,9,saxophone,cheerleader,hamburger,17,20220722,20,M,0,0,0,0,0,1,0,0,0,1,adults
+17,1,3,#9,0,9,10,electric guitar,chiffon cake,,17,20220722,20,M,0,0,0,0,0,0,0,0,1,2,adults
+17,1,3,#9,5,9,11,pop corn,cymbal,basketball,17,20220722,20,M,0,0,0,0,0,0,0,0,1,2,adults
+17,1,3,#9,6,9,12,badminton,flute,pizza,17,20220722,20,M,0,0,0,0,0,0,0,0,1,2,adults
+17,2,3,#9,0,6,1,badminton,crepe,,17,20220722,20,M,0,0,0,0,0,0,0,0,1,2,adults
+17,2,3,#9,4,8,2,acoustic guitar,popper,meat,17,20220722,20,M,0,0,0,0,0,0,0,0,1,2,adults
+17,2,3,#9,0,7,3,baseball,ice cream,,17,20220722,20,M,0,0,0,0,0,0,0,0,1,2,adults
+17,2,3,#6,6,7,4,cymbal,handbell,pop corn,17,20220722,20,M,0,0,0,0,0,1,0,0,0,1,adults
+17,2,3,#6,5,9,5,tambourine,chocolate parfait,keyboard harmonica,17,20220722,20,M,0,0,0,0,1,1,0,0,0,1,adults
+17,2,3,#9,6,7,6,orange,violin,saxophone,17,20220722,20,M,0,0,0,0,0,0,0,0,1,2,adults
+17,2,3,#6,6,8,7,umbrella,soccer ball,melon soda float,17,20220722,20,M,0,0,0,0,0,1,0,0,0,1,adults
+17,2,3,#9,0,4,8,basketball,watermelon,,17,20220722,20,M,0,0,0,0,0,0,0,0,1,2,adults
+17,2,3,#9,4,7,9,chiffon cake,electric guitar,table tennis,17,20220722,20,M,0,0,0,0,0,0,0,0,1,2,adults
+17,2,3,#6,6,9,10,hamburger,tennis,trumpet,17,20220722,20,M,0,0,0,0,0,1,0,0,0,1,adults
+17,2,3,#6,5,7,11,pizza,cap,tuba,17,20220722,20,M,0,0,0,0,1,1,0,0,0,1,adults
+17,2,3,#9,5,7,12,corn,balloon,cheerleader,17,20220722,20,M,0,0,0,0,0,0,0,0,1,2,adults
+18,1,3,#9,0,8,1,violin,corn,,18,20220722,19,F,0,0,0,0,0,0,0,1,0,2,adults
+18,1,3,#6,4,9,2,cap,ice cream,tuba,18,20220722,19,F,0,0,1,0,0,0,0,0,0,1,adults
+18,1,3,#9,0,5,3,acoustic guitar,meat,,18,20220722,19,F,0,0,0,1,0,0,0,0,0,2,adults
+18,1,3,#9,4,9,4,chocolate parfait,keyboard harmonica,tambourine,18,20220722,19,F,0,0,0,0,0,0,0,0,1,2,adults
+18,1,3,#9,5,9,5,pop corn,cymbal,basketball,18,20220722,19,F,0,0,0,0,0,0,0,0,1,2,adults
+18,1,3,#6,4,8,6,umbrella,baseball,crepe,18,20220722,19,F,0,0,0,0,0,1,0,0,0,1,adults
+18,1,3,#9,6,8,7,orange,popper,tennis,18,20220722,19,F,0,0,0,0,0,0,0,1,0,2,adults
+18,1,3,#6,5,8,8,soccer ball,melon soda float,table tennis,18,20220722,19,F,0,0,0,0,0,1,0,0,0,1,adults
+18,1,3,#6,4,7,9,saxophone,cheerleader,hamburger,18,20220722,19,F,0,0,0,0,0,1,0,0,0,1,adults
+18,1,3,#9,0,9,10,electric guitar,chiffon cake,,18,20220722,19,F,0,0,0,0,0,0,0,0,1,2,adults
+18,1,3,#9,5,8,11,watermelon,balloon,handbell,18,20220722,19,F,0,0,0,0,0,0,0,1,0,2,adults
+18,1,3,#9,6,9,12,badminton,flute,pizza,18,20220722,19,F,0,0,0,0,0,0,0,0,1,2,adults
+18,2,3,#9,4,7,1,chiffon cake,electric guitar,table tennis,18,20220722,19,F,0,0,0,0,0,0,1,0,0,2,adults
+18,2,3,#9,4,8,2,acoustic guitar,popper,meat,18,20220722,19,F,0,0,0,0,0,0,0,0,1,2,adults
+18,2,3,#6,5,7,3,pizza,cap,tuba,18,20220722,19,F,0,0,0,0,1,0,0,0,0,1,adults
+18,2,3,#9,6,7,4,orange,violin,saxophone,18,20220722,19,F,0,0,0,0,0,1,1,0,0,2,adults
+18,2,3,#6,6,8,5,umbrella,soccer ball,melon soda float,18,20220722,19,F,0,0,0,0,0,1,0,0,0,1,adults
+18,2,3,#9,0,4,6,basketball,watermelon,,18,20220722,19,F,0,0,0,0,0,1,1,1,1,2,adults
+18,2,3,#6,5,9,7,tambourine,chocolate parfait,keyboard harmonica,18,20220722,19,F,0,0,0,0,0,1,0,0,0,1,adults
+18,2,3,#9,5,7,8,corn,balloon,cheerleader,18,20220722,19,F,0,0,0,0,0,0,1,0,0,2,adults
+18,2,3,#9,0,6,9,badminton,crepe,,18,20220722,19,F,0,0,0,0,0,0,0,0,1,2,adults
+18,2,3,#6,6,9,10,hamburger,tennis,trumpet,18,20220722,19,F,0,0,0,0,0,1,0,0,0,2,adults
+18,2,3,#9,0,7,11,baseball,ice cream,,18,20220722,19,F,0,0,0,0,0,0,0,1,1,2,adults
+18,2,3,#6,6,7,12,cymbal,handbell,pop corn,18,20220722,19,F,0,0,0,0,0,1,0,0,0,1,adults
+19,1,3,#9,4,9,1,chocolate parfait,keyboard harmonica,tambourine,19,20220722,22,F,0,0,0,0,0,0,0,0,1,2,adults
+19,1,3,#9,0,5,2,acoustic guitar,meat,,19,20220722,22,F,0,0,0,0,1,0,0,0,0,2,adults
+19,1,3,#6,4,9,3,cap,ice cream,tuba,19,20220722,22,F,0,0,0,1,0,0,0,0,0,1,adults
+19,1,3,#9,0,8,4,violin,corn,,19,20220722,22,F,0,0,0,0,0,0,0,1,0,2,adults
+19,1,3,#9,6,9,5,badminton,flute,pizza,19,20220722,22,F,0,0,0,0,0,0,0,0,1,2,adults
+19,1,3,#9,5,9,6,pop corn,cymbal,basketball,19,20220722,22,F,0,0,0,0,0,0,0,0,1,2,adults
+19,1,3,#6,4,8,7,umbrella,baseball,crepe,19,20220722,22,F,0,0,0,0,0,1,0,0,0,1,adults
+19,1,3,#9,5,8,8,watermelon,balloon,handbell,19,20220722,22,F,0,0,0,0,0,0,0,1,0,2,adults
+19,1,3,#6,5,8,9,soccer ball,melon soda float,table tennis,19,20220722,22,F,0,0,0,0,1,0,0,0,0,1,adults
+19,1,3,#6,4,7,10,saxophone,cheerleader,hamburger,19,20220722,22,F,0,0,0,0,0,1,0,0,0,1,adults
+19,1,3,#9,0,9,11,electric guitar,chiffon cake,,19,20220722,22,F,0,0,0,0,0,0,0,0,1,2,adults
+19,1,3,#9,6,8,12,orange,popper,tennis,19,20220722,22,F,0,0,0,0,0,1,0,1,0,2,adults
+19,2,3,#9,0,4,1,basketball,watermelon,,19,20220722,22,F,0,0,0,1,0,0,0,0,0,2,adults
+19,2,3,#6,5,7,2,pizza,cap,tuba,19,20220722,22,F,0,0,0,0,1,0,0,0,0,1,adults
+19,2,3,#9,4,8,3,acoustic guitar,popper,meat,19,20220722,22,F,0,0,0,1,0,0,0,1,0,2,adults
+19,2,3,#6,6,8,4,umbrella,soccer ball,melon soda float,19,20220722,22,F,0,0,0,0,0,1,0,0,0,1,adults
+19,2,3,#9,5,7,5,corn,balloon,cheerleader,19,20220722,22,F,0,0,0,0,1,0,1,0,0,2,adults
+19,2,3,#9,0,7,6,baseball,ice cream,,19,20220722,22,F,0,0,0,0,0,0,1,0,0,2,adults
+19,2,3,#6,6,9,7,hamburger,tennis,trumpet,19,20220722,22,F,0,0,0,0,0,1,0,0,0,1,adults
+19,2,3,#9,0,6,8,badminton,crepe,,19,20220722,22,F,0,0,0,0,0,1,0,0,0,2,adults
+19,2,3,#9,6,7,9,orange,violin,saxophone,19,20220722,22,F,0,0,0,0,0,1,1,0,0,2,adults
+19,2,3,#6,5,9,10,tambourine,chocolate parfait,keyboard harmonica,19,20220722,22,F,0,0,0,0,1,0,0,0,0,1,adults
+19,2,3,#6,6,7,11,cymbal,handbell,pop corn,19,20220722,22,F,0,0,0,0,0,1,0,0,0,1,adults
+19,2,3,#9,4,7,12,chiffon cake,electric guitar,table tennis,19,20220722,22,F,0,0,0,1,0,0,1,0,0,2,adults
+20,1,3,#6,6,8,1,umbrella,soccer ball,melon soda float,20,20220723,21,M,0,0,0,0,0,1,0,0,0,1,adults
+20,1,3,#9,6,7,2,orange,violin,saxophone,20,20220723,21,M,0,0,0,0,0,1,1,0,0,2,adults
+20,1,3,#9,0,7,3,baseball,ice cream,,20,20220723,21,M,1,1,1,1,1,1,1,1,1,2,adults
+20,1,3,#9,4,8,4,acoustic guitar,popper,meat,20,20220723,21,M,0,0,0,0,0,0,0,1,0,2,adults
+20,1,3,#6,5,7,5,pizza,cap,tuba,20,20220723,21,M,0,0,0,0,1,0,0,0,0,1,adults
+20,1,3,#9,5,7,6,corn,balloon,cheerleader,20,20220723,21,M,1,1,1,1,1,1,1,1,1,2,adults
+20,1,3,#6,5,9,7,tambourine,chocolate parfait,keyboard harmonica,20,20220723,21,M,0,0,0,0,1,0,0,0,0,1,adults
+20,1,3,#6,6,9,8,hamburger,tennis,trumpet,20,20220723,21,M,0,0,0,0,0,1,0,0,0,1,adults
+20,1,3,#9,0,6,9,badminton,crepe,,20,20220723,21,M,0,0,0,0,0,0,0,0,1,2,adults
+20,1,3,#6,6,7,10,cymbal,handbell,pop corn,20,20220723,21,M,0,0,0,0,0,1,0,0,0,1,adults
+20,1,3,#9,4,7,11,chiffon cake,electric guitar,table tennis,20,20220723,21,M,1,1,1,1,1,1,1,1,1,2,adults
+20,1,3,#9,0,4,12,basketball,watermelon,,20,20220723,21,M,0,0,0,0,0,0,0,0,1,2,adults
+20,2,3,#9,0,5,1,acoustic guitar,meat,,20,20220723,21,M,1,1,1,1,1,1,1,1,1,2,adults
+20,2,3,#6,5,8,2,soccer ball,melon soda float,table tennis,20,20220723,21,M,0,0,0,0,1,0,0,0,0,1,adults
+20,2,3,#9,5,8,3,watermelon,balloon,handbell,20,20220723,21,M,0,0,0,0,0,0,0,1,0,2,adults
+20,2,3,#6,4,8,4,umbrella,baseball,crepe,20,20220723,21,M,0,0,0,0,0,1,0,0,0,1,adults
+20,2,3,#9,5,9,5,pop corn,cymbal,basketball,20,20220723,21,M,0,0,0,0,0,0,0,0,1,2,adults
+20,2,3,#9,0,9,6,electric guitar,chiffon cake,,20,20220723,21,M,0,0,0,0,0,0,0,0,1,2,adults
+20,2,3,#9,6,8,7,orange,popper,tennis,20,20220723,21,M,0,0,0,0,0,0,0,1,0,2,adults
+20,2,3,#6,4,9,8,cap,ice cream,tuba,20,20220723,21,M,0,0,0,0,0,1,0,0,0,1,adults
+20,2,3,#9,0,8,9,violin,corn,,20,20220723,21,M,0,0,0,0,0,0,0,1,0,2,adults
+20,2,3,#9,6,9,10,badminton,flute,pizza,20,20220723,21,M,0,0,0,0,0,0,0,0,1,2,adults
+20,2,3,#6,4,7,11,saxophone,cheerleader,hamburger,20,20220723,21,M,0,0,0,0,0,1,0,0,0,2,adults
+20,2,3,#9,4,9,12,chocolate parfait,keyboard harmonica,tambourine,20,20220723,21,M,0,0,0,0,0,0,0,0,1,2,adults
+21,1,3,#6,6,9,1,hamburger,tennis,trumpet,21,20220723,20,F,0,0,0,0,0,1,0,0,0,1,adults
+21,1,3,#9,0,7,2,baseball,ice cream,,21,20220723,20,F,0,0,0,0,0,0,1,0,0,2,adults
+21,1,3,#9,4,8,3,acoustic guitar,popper,meat,21,20220723,20,F,1,1,1,1,1,1,1,1,1,2,adults
+21,1,3,#9,0,6,4,badminton,crepe,,21,20220723,20,F,1,1,1,1,1,1,1,1,1,2,adults
+21,1,3,#6,6,7,5,cymbal,handbell,pop corn,21,20220723,20,F,0,0,0,0,0,1,0,0,0,1,adults
+21,1,3,#6,6,8,6,umbrella,soccer ball,melon soda float,21,20220723,20,F,0,0,0,0,0,1,0,0,0,1,adults
+21,1,3,#9,5,7,7,corn,balloon,cheerleader,21,20220723,20,F,1,1,1,1,1,1,1,1,1,2,adults
+21,1,3,#6,5,9,8,tambourine,chocolate parfait,keyboard harmonica,21,20220723,20,F,0,0,0,0,1,0,0,0,0,1,adults
+21,1,3,#9,6,7,9,orange,violin,saxophone,21,20220723,20,F,0,0,0,0,0,1,1,0,0,2,adults
+21,1,3,#6,5,7,10,pizza,cap,tuba,21,20220723,20,F,0,0,0,0,1,0,0,0,0,1,adults
+21,1,3,#9,0,4,11,basketball,watermelon,,21,20220723,20,F,1,1,1,1,1,1,1,1,1,2,adults
+21,1,3,#9,4,7,12,chiffon cake,electric guitar,table tennis,21,20220723,20,F,1,1,1,1,1,1,1,1,1,2,adults
+21,2,3,#9,0,9,1,electric guitar,chiffon cake,,21,20220723,20,F,0,0,0,0,0,0,0,0,1,2,adults
+21,2,3,#9,6,8,2,orange,popper,tennis,21,20220723,20,F,1,1,1,1,1,1,1,1,1,2,adults
+21,2,3,#6,4,8,3,umbrella,baseball,crepe,21,20220723,20,F,0,0,0,0,0,1,0,0,0,1,adults
+21,2,3,#9,5,8,4,watermelon,balloon,handbell,21,20220723,20,F,0,0,0,0,0,0,0,1,0,2,adults
+21,2,3,#9,6,9,5,badminton,flute,pizza,21,20220723,20,F,1,1,1,1,1,1,1,1,1,2,adults
+21,2,3,#9,5,9,6,pop corn,cymbal,basketball,21,20220723,20,F,0,0,0,0,0,0,0,0,1,2,adults
+21,2,3,#6,4,9,7,cap,ice cream,tuba,21,20220723,20,F,0,0,0,1,0,0,0,0,0,1,adults
+21,2,3,#9,0,8,8,violin,corn,,21,20220723,20,F,0,0,0,0,0,0,0,1,0,2,adults
+21,2,3,#9,4,9,9,chocolate parfait,keyboard harmonica,tambourine,21,20220723,20,F,1,1,1,1,1,1,1,1,1,2,adults
+21,2,3,#9,0,5,10,acoustic guitar,meat,,21,20220723,20,F,1,1,1,1,1,1,1,1,1,2,adults
+21,2,3,#6,5,8,11,soccer ball,melon soda float,table tennis,21,20220723,20,F,0,0,0,0,1,0,0,0,0,1,adults
+21,2,3,#6,4,7,12,saxophone,cheerleader,hamburger,21,20220723,20,F,0,0,0,0,0,1,0,0,0,1,adults
+22,1,3,#9,6,9,1,badminton,flute,pizza,22,20220725,24,M,0,0,0,0,0,1,0,0,1,2,adults
+22,1,3,#6,4,7,2,saxophone,cheerleader,hamburger,22,20220725,24,M,0,0,0,1,0,0,0,0,0,1,adults
+22,1,3,#6,5,8,3,soccer ball,melon soda float,table tennis,22,20220725,24,M,0,0,0,0,1,0,0,0,0,1,adults
+22,1,3,#9,5,8,4,watermelon,balloon,handbell,22,20220725,24,M,0,0,0,0,1,0,0,1,0,2,adults
+22,1,3,#9,4,9,5,chocolate parfait,keyboard harmonica,tambourine,22,20220725,24,M,0,0,0,1,0,0,0,0,1,2,adults
+22,1,3,#9,0,8,6,violin,corn,,22,20220725,24,M,0,0,0,0,0,0,0,1,0,2,adults
+22,1,3,#6,4,9,7,cap,ice cream,tuba,22,20220725,24,M,0,0,0,1,0,0,0,0,0,1,adults
+22,1,3,#9,6,8,8,orange,popper,tennis,22,20220725,24,M,0,0,0,0,0,1,0,1,0,2,adults
+22,1,3,#9,0,9,9,electric guitar,chiffon cake,,22,20220725,24,M,0,0,0,0,0,0,0,0,1,2,adults
+22,1,3,#9,5,9,10,pop corn,cymbal,basketball,22,20220725,24,M,0,0,0,0,1,0,0,0,1,2,adults
+22,1,3,#6,4,8,11,umbrella,baseball,crepe,22,20220725,24,M,0,0,0,1,0,0,0,0,0,1,adults
+22,1,3,#9,0,5,12,acoustic guitar,meat,,22,20220725,24,M,0,0,0,0,1,0,0,0,0,2,adults
+22,2,3,#6,6,9,1,hamburger,tennis,trumpet,22,20220725,24,M,0,0,0,0,0,1,0,0,0,1,adults
+22,2,3,#9,0,7,2,baseball,ice cream,,22,20220725,24,M,0,0,0,0,0,0,1,0,0,2,adults
+22,2,3,#9,6,7,3,orange,violin,saxophone,22,20220725,24,M,0,0,0,0,0,1,1,0,0,2,adults
+22,2,3,#6,5,9,4,tambourine,chocolate parfait,keyboard harmonica,22,20220725,24,M,0,0,0,0,1,0,0,0,0,1,adults
+22,2,3,#9,4,8,5,acoustic guitar,popper,meat,22,20220725,24,M,0,0,0,1,0,0,0,1,0,2,adults
+22,2,3,#6,6,8,6,umbrella,soccer ball,melon soda float,22,20220725,24,M,0,0,0,0,0,1,0,0,0,1,adults
+22,2,3,#9,0,4,7,basketball,watermelon,,22,20220725,24,M,0,0,0,1,0,0,0,0,0,2,adults
+22,2,3,#9,4,7,8,chiffon cake,electric guitar,table tennis,22,20220725,24,M,0,0,0,1,0,0,1,0,0,2,adults
+22,2,3,#6,6,7,9,cymbal,handbell,pop corn,22,20220725,24,M,0,0,0,0,0,1,0,0,0,1,adults
+22,2,3,#9,0,6,10,badminton,crepe,,22,20220725,24,M,0,0,0,0,0,1,0,0,0,2,adults
+22,2,3,#9,5,7,11,corn,balloon,cheerleader,22,20220725,24,M,0,0,0,0,1,0,1,0,0,2,adults
+22,2,3,#6,5,7,12,pizza,cap,tuba,22,20220725,24,M,0,0,0,0,1,0,0,0,0,1,adults
+23,1,3,#9,0,7,1,baseball,ice cream,,23,20220725,22,F,0,0,0,0,0,0,1,0,0,2,adults
+23,1,3,#6,6,7,2,cymbal,handbell,pop corn,23,20220725,22,F,0,0,0,0,0,1,0,0,0,1,adults
+23,1,3,#6,5,7,3,pizza,cap,tuba,23,20220725,22,F,0,0,0,0,1,0,0,0,0,1,adults
+23,1,3,#9,0,4,4,basketball,watermelon,,23,20220725,22,F,1,1,1,1,1,1,1,1,1,2,adults
+23,1,3,#6,6,8,5,umbrella,soccer ball,melon soda float,23,20220725,22,F,0,0,0,0,0,1,0,0,0,1,adults
+23,1,3,#9,4,8,6,acoustic guitar,popper,meat,23,20220725,22,F,1,1,1,1,1,1,1,1,1,2,adults
+23,1,3,#9,4,7,7,chiffon cake,electric guitar,table tennis,23,20220725,22,F,1,1,1,1,1,1,1,1,1,2,adults
+23,1,3,#9,5,7,8,corn,balloon,cheerleader,23,20220725,22,F,1,1,1,1,1,1,1,1,1,2,adults
+23,1,3,#6,5,9,9,tambourine,chocolate parfait,keyboard harmonica,23,20220725,22,F,0,0,0,0,1,0,0,0,0,1,adults
+23,1,3,#6,6,9,10,hamburger,tennis,trumpet,23,20220725,22,F,0,0,0,0,0,1,0,0,0,1,adults
+23,1,3,#9,0,6,11,badminton,crepe,,23,20220725,22,F,1,1,1,1,1,1,1,1,1,2,adults
+23,1,3,#9,6,7,12,orange,violin,saxophone,23,20220725,22,F,1,1,1,1,1,1,1,1,1,2,adults
+23,2,3,#9,0,8,1,violin,corn,,23,20220725,22,F,0,0,0,0,0,0,0,1,0,2,adults
+23,2,3,#9,6,9,2,badminton,flute,pizza,23,20220725,22,F,1,1,1,1,1,1,1,1,1,2,adults
+23,2,3,#9,5,9,3,pop corn,cymbal,basketball,23,20220725,22,F,1,1,1,1,1,1,1,1,1,2,adults
+23,2,3,#6,4,8,4,umbrella,baseball,crepe,23,20220725,22,F,0,0,0,0,0,1,0,0,0,1,adults
+23,2,3,#9,5,8,5,watermelon,balloon,handbell,23,20220725,22,F,1,1,1,1,1,1,1,1,1,2,adults
+23,2,3,#6,5,8,6,soccer ball,melon soda float,table tennis,23,20220725,22,F,0,0,0,0,1,0,0,0,0,1,adults
+23,2,3,#9,0,5,7,acoustic guitar,meat,,23,20220725,22,F,1,1,1,1,1,1,1,1,1,2,adults
+23,2,3,#6,4,9,8,cap,ice cream,tuba,23,20220725,22,F,0,0,0,0,0,1,0,0,0,1,adults
+23,2,3,#6,4,7,9,saxophone,cheerleader,hamburger,23,20220725,22,F,0,0,0,0,0,1,0,0,0,1,adults
+23,2,3,#9,0,9,10,electric guitar,chiffon cake,,23,20220725,22,F,0,0,0,0,0,0,0,0,1,2,adults
+23,2,3,#9,6,8,11,orange,popper,tennis,23,20220725,22,F,1,1,1,1,1,1,1,1,1,2,adults
+23,2,3,#9,4,9,12,chocolate parfait,keyboard harmonica,tambourine,23,20220725,22,F,0,0,0,0,0,0,0,0,1,2,adults
+24,1,3,#9,0,4,1,basketball,watermelon,,24,20220725,24,M,0,0,0,1,0,0,0,0,0,2,adults
+24,1,3,#6,5,7,2,pizza,cap,tuba,24,20220725,24,M,0,0,0,0,1,0,0,0,0,1,adults
+24,1,3,#9,4,8,3,acoustic guitar,popper,meat,24,20220725,24,M,0,0,0,1,0,0,0,1,0,2,adults
+24,1,3,#9,0,7,4,baseball,ice cream,,24,20220725,24,M,0,0,0,0,0,0,1,0,0,2,adults
+24,1,3,#9,6,7,5,orange,violin,saxophone,24,20220725,24,M,0,0,0,0,0,1,1,0,0,2,adults
+24,1,3,#6,6,8,6,umbrella,soccer ball,melon soda float,24,20220725,24,M,0,0,0,0,0,1,0,0,0,1,adults
+24,1,3,#6,6,7,7,cymbal,handbell,pop corn,24,20220725,24,M,0,0,0,0,0,1,0,0,0,1,adults
+24,1,3,#9,4,7,8,chiffon cake,electric guitar,table tennis,24,20220725,24,M,0,0,0,1,0,0,1,0,0,2,adults
+24,1,3,#6,6,9,9,hamburger,tennis,trumpet,24,20220725,24,M,0,0,0,0,0,1,0,0,0,1,adults
+24,1,3,#9,0,6,10,badminton,crepe,,24,20220725,24,M,0,0,0,0,0,1,0,0,0,2,adults
+24,1,3,#9,5,7,11,corn,balloon,cheerleader,24,20220725,24,M,0,0,0,0,1,0,1,0,0,2,adults
+24,1,3,#6,5,9,12,tambourine,chocolate parfait,keyboard harmonica,24,20220725,24,M,0,0,0,0,1,0,0,0,0,1,adults
+24,2,3,#9,6,9,1,badminton,flute,pizza,24,20220725,24,M,0,0,0,0,0,1,0,0,1,2,adults
+24,2,3,#6,4,7,2,saxophone,cheerleader,hamburger,24,20220725,24,M,0,0,0,1,0,0,0,0,0,1,adults
+24,2,3,#9,4,9,3,chocolate parfait,keyboard harmonica,tambourine,24,20220725,24,M,0,0,0,1,0,0,0,0,1,2,adults
+24,2,3,#9,0,5,4,acoustic guitar,meat,,24,20220725,24,M,0,0,0,0,1,0,0,0,0,2,adults
+24,2,3,#6,5,8,5,soccer ball,melon soda float,table tennis,24,20220725,24,M,0,0,0,0,1,0,0,0,0,1,adults
+24,2,3,#9,5,9,6,pop corn,cymbal,basketball,24,20220725,24,M,0,0,0,0,1,0,0,0,1,2,adults
+24,2,3,#6,4,9,7,cap,ice cream,tuba,24,20220725,24,M,0,0,0,1,0,0,0,0,0,1,adults
+24,2,3,#9,0,8,8,violin,corn,,24,20220725,24,M,0,0,0,0,0,0,0,1,0,2,adults
+24,2,3,#6,4,8,9,umbrella,baseball,crepe,24,20220725,24,M,0,0,0,1,0,0,0,0,0,1,adults
+24,2,3,#9,5,8,10,watermelon,balloon,handbell,24,20220725,24,M,0,0,0,0,1,0,0,1,0,2,adults
+24,2,3,#9,0,9,11,electric guitar,chiffon cake,,24,20220725,24,M,0,0,0,0,0,0,0,0,1,2,adults
+24,2,3,#9,6,8,12,orange,popper,tennis,24,20220725,24,M,0,0,0,0,0,1,0,1,0,2,adults
+25,1,2,#9,6,8,1,crepe,tambourine,umbrella,25,20220726,20,F,0,0,0,0,0,1,0,1,0,2,adults
+25,1,2,#6,5,8,2,violin,basketball,watermelon,25,20220726,20,F,0,0,0,0,1,0,0,0,0,1,adults
+25,1,2,#9,6,9,3,soccer ball,electric guitar,melon soda float,25,20220726,20,F,0,0,0,0,0,0,0,0,1,2,adults
+25,1,2,#6,4,9,4,cymbal,tennis,corn,25,20220726,20,F,0,0,0,0,0,1,0,0,0,1,adults
+25,1,2,#9,0,6,5,flute,pizza,,25,20220726,20,F,1,1,1,1,1,1,1,1,1,2,adults
+25,1,2,#9,4,8,6,popper,orange,handbell,25,20220726,20,F,0,0,0,0,0,0,0,1,1,2,adults
+25,1,2,#6,6,7,7,table tennis,chiffon cake,tuba,25,20220726,20,F,0,0,0,0,0,1,0,0,0,1,adults
+25,1,2,#9,0,5,8,saxophone,meat,,25,20220726,20,F,1,1,1,1,1,1,1,1,1,2,adults
+25,1,2,#6,5,9,9,chocolate parfait,baseball,cap,25,20220726,20,F,0,0,0,0,0,1,0,0,0,1,adults
+25,1,2,#9,4,9,10,trumpet,pop corn,cheerleader,25,20220726,20,F,0,0,0,0,0,0,0,0,1,2,adults
+25,1,2,#9,0,9,11,ice cream,badminton,,25,20220726,20,F,0,0,0,0,0,0,0,0,1,2,adults
+25,1,2,#9,4,7,12,hamburger,balloon,acoustic guitar,25,20220726,20,F,0,0,0,0,0,0,0,1,1,2,adults
+25,2,2,#9,0,4,1,tennis,meat,,25,20220726,20,F,1,1,1,1,1,1,1,1,1,2,adults
+25,2,2,#6,5,7,2,crepe,keyboard harmonica,tuba,25,20220726,20,F,0,0,0,0,1,0,0,0,0,1,adults
+25,2,2,#6,4,7,3,hamburger,saxophone,trumpet,25,20220726,20,F,1,1,1,1,1,1,0,0,0,1,adults
+25,2,2,#9,6,7,4,badminton,baseball,ice cream,25,20220726,20,F,0,0,0,0,0,0,0,0,1,2,adults
+25,2,2,#6,4,8,5,corn,acoustic guitar,basketball,25,20220726,20,F,0,0,0,0,0,1,0,0,0,1,adults
+25,2,2,#6,6,8,6,table tennis,electric guitar,chiffon cake,25,20220726,20,F,0,0,0,0,0,1,0,0,0,1,adults
+25,2,2,#9,5,7,7,cheerleader,violin,orange,25,20220726,20,F,0,0,0,0,0,0,1,1,1,2,adults
+25,2,2,#9,5,9,8,tambourine,chocolate parfait,cap,25,20220726,20,F,0,0,0,0,0,0,0,0,1,2,adults
+25,2,2,#9,0,7,9,balloon,pop corn,,25,20220726,20,F,0,0,0,0,0,0,0,0,1,2,adults
+25,2,2,#6,6,9,10,soccer ball,pizza,umbrella,25,20220726,20,F,0,0,0,0,0,1,0,0,0,1,adults
+25,2,2,#9,5,8,11,popper,watermelon,cymbal,25,20220726,20,F,0,0,0,0,0,0,0,1,0,2,adults
+25,2,2,#9,0,8,12,melon soda float,flute,,25,20220726,20,F,0,0,0,0,0,0,0,1,0,2,adults
+26,1,2,#9,6,7,1,badminton,baseball,ice cream,26,20220726,22,M,0,0,0,0,0,1,1,0,0,2,adults
+26,1,2,#9,0,7,2,balloon,pop corn,,26,20220726,22,M,0,0,0,0,0,0,1,0,0,2,adults
+26,1,2,#6,6,8,3,table tennis,electric guitar,chiffon cake,26,20220726,22,M,0,0,0,0,1,0,0,0,0,1,adults
+26,1,2,#6,4,7,4,hamburger,saxophone,trumpet,26,20220726,22,M,0,0,0,0,0,1,0,0,0,1,adults
+26,1,2,#6,5,7,5,crepe,keyboard harmonica,tuba,26,20220726,22,M,0,0,0,0,1,0,0,0,0,1,adults
+26,1,2,#9,5,8,6,popper,watermelon,cymbal,26,20220726,22,M,0,0,0,0,0,0,0,1,0,2,adults
+26,1,2,#9,5,9,7,tambourine,chocolate parfait,cap,26,20220726,22,M,0,0,0,0,0,0,0,0,1,2,adults
+26,1,2,#9,0,4,8,tennis,meat,,26,20220726,22,M,0,0,0,0,0,0,0,0,1,2,adults
+26,1,2,#6,6,9,9,soccer ball,pizza,umbrella,26,20220726,22,M,0,0,0,0,0,1,0,0,0,1,adults
+26,1,2,#9,5,7,10,cheerleader,violin,orange,26,20220726,22,M,0,0,0,0,0,0,0,0,1,2,adults
+26,1,2,#9,0,8,11,melon soda float,flute,,26,20220726,22,M,0,0,0,0,0,0,0,1,0,2,adults
+26,1,2,#6,4,8,12,corn,acoustic guitar,basketball,26,20220726,22,M,0,0,0,1,0,0,0,0,0,1,adults
+26,2,2,#9,0,5,1,saxophone,meat,,26,20220726,22,M,0,0,0,0,1,0,0,0,0,2,adults
+26,2,2,#6,6,7,2,table tennis,chiffon cake,tuba,26,20220726,22,M,0,0,0,0,0,1,0,0,0,1,adults
+26,2,2,#9,4,9,3,trumpet,pop corn,cheerleader,26,20220726,22,M,0,0,0,0,0,0,0,0,1,2,adults
+26,2,2,#9,6,9,4,soccer ball,electric guitar,melon soda float,26,20220726,22,M,0,0,0,0,0,0,0,0,1,2,adults
+26,2,2,#6,5,8,5,violin,basketball,watermelon,26,20220726,22,M,0,0,0,0,1,0,0,0,0,1,adults
+26,2,2,#9,0,6,6,flute,pizza,,26,20220726,22,M,0,0,0,0,0,1,0,0,0,2,adults
+26,2,2,#9,4,8,7,popper,orange,handbell,26,20220726,22,M,0,0,0,0,0,0,0,1,0,2,adults
+26,2,2,#6,5,9,8,chocolate parfait,baseball,cap,26,20220726,22,M,0,0,0,0,1,0,0,0,0,1,adults
+26,2,2,#9,4,7,9,hamburger,balloon,acoustic guitar,26,20220726,22,M,0,0,0,0,0,0,1,0,0,2,adults
+26,2,2,#9,0,9,10,ice cream,badminton,,26,20220726,22,M,0,0,0,0,0,0,0,0,1,2,adults
+26,2,2,#6,4,9,11,cymbal,tennis,corn,26,20220726,22,M,0,0,0,1,0,0,0,0,0,1,adults
+26,2,2,#9,6,8,12,crepe,tambourine,umbrella,26,20220726,22,M,0,0,0,0,0,0,0,1,0,2,adults
+27,1,2,#9,4,7,1,hamburger,balloon,acoustic guitar,27,20220726,23,F,0,0,0,0,0,0,0,0,1,2,adults
+27,1,2,#6,6,7,2,table tennis,chiffon cake,tuba,27,20220726,23,F,0,0,0,0,0,1,0,0,0,1,adults
+27,1,2,#9,4,9,3,trumpet,pop corn,cheerleader,27,20220726,23,F,0,0,0,0,0,0,0,0,1,2,adults
+27,1,2,#9,0,9,4,ice cream,badminton,,27,20220726,23,F,0,0,0,0,0,0,0,0,1,2,adults
+27,1,2,#6,5,8,5,violin,basketball,watermelon,27,20220726,23,F,0,0,0,0,1,0,0,0,0,1,adults
+27,1,2,#9,0,6,6,flute,pizza,,27,20220726,23,F,0,0,0,0,0,0,0,0,1,2,adults
+27,1,2,#9,4,8,7,popper,orange,handbell,27,20220726,23,F,0,0,0,0,0,0,0,0,1,2,adults
+27,1,2,#6,5,9,8,chocolate parfait,baseball,cap,27,20220726,23,F,0,0,0,0,1,0,0,0,0,1,adults
+27,1,2,#6,4,9,9,cymbal,tennis,corn,27,20220726,23,F,0,0,0,0,0,1,0,0,0,1,adults
+27,1,2,#9,6,9,10,soccer ball,electric guitar,melon soda float,27,20220726,23,F,0,0,0,0,0,0,0,0,1,2,adults
+27,1,2,#9,0,5,11,saxophone,meat,,27,20220726,23,F,0,0,0,0,0,0,0,0,1,2,adults
+27,1,2,#9,6,8,12,crepe,tambourine,umbrella,27,20220726,23,F,0,0,0,0,0,0,0,0,1,2,adults
+27,2,2,#9,5,9,1,tambourine,chocolate parfait,cap,27,20220726,23,F,0,0,0,0,0,0,0,0,1,2,adults
+27,2,2,#9,0,7,2,balloon,pop corn,,27,20220726,23,F,0,0,0,0,0,0,0,0,1,2,adults
+27,2,2,#6,5,7,3,crepe,keyboard harmonica,tuba,27,20220726,23,F,0,0,0,0,1,1,0,0,0,1,adults
+27,2,2,#9,5,8,4,popper,watermelon,cymbal,27,20220726,23,F,0,0,0,0,0,0,0,0,1,2,adults
+27,2,2,#9,0,8,5,melon soda float,flute,,27,20220726,23,F,0,0,0,0,0,0,0,0,1,2,adults
+27,2,2,#9,5,7,6,cheerleader,violin,orange,27,20220726,23,F,0,0,0,0,0,0,0,0,1,2,adults
+27,2,2,#6,6,9,7,soccer ball,pizza,umbrella,27,20220726,23,F,0,0,0,0,0,1,0,0,0,1,adults
+27,2,2,#6,4,8,8,corn,acoustic guitar,basketball,27,20220726,23,F,0,0,0,0,0,1,0,0,0,1,adults
+27,2,2,#9,6,7,9,badminton,baseball,ice cream,27,20220726,23,F,0,0,0,0,0,0,0,0,1,2,adults
+27,2,2,#9,0,4,10,tennis,meat,,27,20220726,23,F,0,0,0,0,0,0,0,0,1,2,adults
+27,2,2,#6,6,8,11,table tennis,electric guitar,chiffon cake,27,20220726,23,F,0,0,0,0,0,1,0,0,0,1,adults
+27,2,2,#6,4,7,12,hamburger,saxophone,trumpet,27,20220726,23,F,0,0,0,0,0,1,0,0,0,1,adults
+28,1,2,#9,6,7,1,badminton,baseball,ice cream,28,20220727,24,F,0,0,0,0,0,1,1,0,0,2,adults
+28,1,2,#6,4,7,2,hamburger,saxophone,trumpet,28,20220727,24,F,0,0,0,0,0,1,0,0,0,1,adults
+28,1,2,#9,0,8,3,melon soda float,flute,,28,20220727,24,F,0,0,0,0,0,0,0,1,0,2,adults
+28,1,2,#6,4,8,4,corn,acoustic guitar,basketball,28,20220727,24,F,0,0,0,0,0,1,0,0,0,1,adults
+28,1,2,#6,6,9,5,soccer ball,pizza,umbrella,28,20220727,24,F,0,0,0,0,0,1,0,0,0,1,adults
+28,1,2,#9,0,4,6,tennis,meat,,28,20220727,24,F,0,0,0,1,0,0,0,0,0,2,adults
+28,1,2,#6,5,7,7,crepe,keyboard harmonica,tuba,28,20220727,24,F,0,0,0,0,1,0,0,0,0,1,adults
+28,1,2,#9,5,8,8,popper,watermelon,cymbal,28,20220727,24,F,1,1,1,1,1,1,1,1,1,2,adults
+28,1,2,#6,6,8,9,table tennis,electric guitar,chiffon cake,28,20220727,24,F,0,0,0,0,0,1,0,0,0,1,adults
+28,1,2,#9,0,7,10,balloon,pop corn,,28,20220727,24,F,0,0,0,0,0,0,1,0,0,2,adults
+28,1,2,#9,5,9,11,tambourine,chocolate parfait,cap,28,20220727,24,F,0,0,0,0,0,0,0,0,1,2,adults
+28,1,2,#9,5,7,12,cheerleader,violin,orange,28,20220727,24,F,1,1,1,1,1,1,1,1,1,2,adults
+28,2,2,#9,0,5,1,saxophone,meat,,28,20220727,24,F,0,0,0,0,1,0,0,0,0,2,adults
+28,2,2,#9,6,8,2,crepe,tambourine,umbrella,28,20220727,24,F,0,0,0,0,0,1,0,1,0,2,adults
+28,2,2,#9,4,7,3,hamburger,balloon,acoustic guitar,28,20220727,24,F,0,0,0,1,0,0,1,0,0,2,adults
+28,2,2,#6,6,7,4,table tennis,chiffon cake,tuba,28,20220727,24,F,0,0,0,0,0,1,0,0,0,1,adults
+28,2,2,#9,4,9,5,trumpet,pop corn,cheerleader,28,20220727,24,F,0,0,0,0,0,0,0,0,1,2,adults
+28,2,2,#9,0,6,6,flute,pizza,,28,20220727,24,F,0,0,0,0,0,1,0,0,0,2,adults
+28,2,2,#9,4,8,7,popper,orange,handbell,28,20220727,24,F,0,0,0,1,0,0,0,1,0,2,adults
+28,2,2,#6,5,9,8,chocolate parfait,baseball,cap,28,20220727,24,F,0,0,0,0,1,0,0,0,0,1,adults
+28,2,2,#6,5,8,9,violin,basketball,watermelon,28,20220727,24,F,0,0,0,0,0,1,0,0,0,1,adults
+28,2,2,#9,6,9,10,soccer ball,electric guitar,melon soda float,28,20220727,24,F,0,0,0,0,0,1,0,0,1,2,adults
+28,2,2,#6,4,9,11,cymbal,tennis,corn,28,20220727,24,F,0,0,0,0,0,1,0,0,0,1,adults
+28,2,2,#9,0,9,12,ice cream,badminton,,28,20220727,24,F,0,0,0,0,0,0,0,0,1,2,adults
+29,1,3,#6,5,9,1,tambourine,chocolate parfait,keyboard harmonica,29,20220727,21,F,0,0,0,0,1,0,0,0,0,1,adults
+29,1,3,#9,5,7,2,corn,balloon,cheerleader,29,20220727,21,F,0,0,0,0,0,0,0,0,1,2,adults
+29,1,3,#9,0,6,3,badminton,crepe,,29,20220727,21,F,0,0,0,0,0,0,0,0,1,2,adults
+29,1,3,#6,6,7,4,cymbal,handbell,pop corn,29,20220727,21,F,0,0,0,0,0,1,0,0,0,1,adults
+29,1,3,#9,0,7,5,baseball,ice cream,,29,20220727,21,F,0,0,0,0,0,0,0,0,1,2,adults
+29,1,3,#9,4,8,6,acoustic guitar,popper,meat,29,20220727,21,F,0,0,0,0,0,0,0,1,0,2,adults
+29,1,3,#9,4,7,7,chiffon cake,electric guitar,table tennis,29,20220727,21,F,0,0,0,0,0,0,0,0,1,2,adults
+29,1,3,#6,6,9,8,hamburger,tennis,trumpet,29,20220727,21,F,0,0,0,0,0,1,0,0,0,1,adults
+29,1,3,#6,5,7,9,pizza,cap,tuba,29,20220727,21,F,0,0,0,0,1,0,0,0,0,1,adults
+29,1,3,#9,6,7,10,orange,violin,saxophone,29,20220727,21,F,0,0,0,0,0,0,0,0,1,2,adults
+29,1,3,#6,6,8,11,umbrella,soccer ball,melon soda float,29,20220727,21,F,0,0,0,0,0,1,0,0,0,1,adults
+29,1,3,#9,0,4,12,basketball,watermelon,,29,20220727,21,F,0,0,0,0,0,0,0,0,1,2,adults
+29,2,3,#6,4,7,1,saxophone,cheerleader,hamburger,29,20220727,21,F,0,0,0,0,0,1,0,0,0,1,adults
+29,2,3,#9,6,9,2,badminton,flute,pizza,29,20220727,21,F,0,0,0,0,0,0,0,0,1,2,adults
+29,2,3,#9,6,8,3,orange,popper,tennis,29,20220727,21,F,0,0,0,0,0,0,0,1,0,2,adults
+29,2,3,#6,4,8,4,umbrella,baseball,crepe,29,20220727,21,F,0,0,0,0,0,1,0,0,0,1,adults
+29,2,3,#9,5,8,5,watermelon,balloon,handbell,29,20220727,21,F,0,0,0,0,0,0,0,1,0,2,adults
+29,2,3,#9,0,9,6,electric guitar,chiffon cake,,29,20220727,21,F,0,0,0,0,0,0,0,0,1,2,adults
+29,2,3,#9,5,9,7,pop corn,cymbal,basketball,29,20220727,21,F,0,0,0,0,0,0,0,0,1,2,adults
+29,2,3,#6,5,8,8,soccer ball,melon soda float,table tennis,29,20220727,21,F,0,0,0,0,1,0,0,0,0,1,adults
+29,2,3,#9,0,8,9,violin,corn,,29,20220727,21,F,0,0,0,0,0,0,0,1,0,2,adults
+29,2,3,#6,4,9,10,cap,ice cream,tuba,29,20220727,21,F,0,0,0,0,0,1,0,0,0,1,adults
+29,2,3,#9,0,5,11,acoustic guitar,meat,,29,20220727,21,F,0,0,0,0,0,0,0,0,1,2,adults
+29,2,3,#9,4,9,12,chocolate parfait,keyboard harmonica,tambourine,29,20220727,21,F,0,0,0,0,0,0,0,0,1,2,adults
+30,1,2,#9,5,7,1,cheerleader,violin,orange,30,20220727,22,F,0,0,0,0,1,0,1,0,0,2,adults
+30,1,2,#6,5,7,2,crepe,keyboard harmonica,tuba,30,20220727,22,F,0,0,0,0,1,0,1,0,0,1,adults
+30,1,2,#9,5,8,3,popper,watermelon,cymbal,30,20220727,22,F,0,0,0,0,1,0,0,1,0,2,adults
+30,1,2,#9,0,8,4,melon soda float,flute,,30,20220727,22,F,0,0,0,0,0,0,0,1,0,2,adults
+30,1,2,#6,4,7,5,hamburger,saxophone,trumpet,30,20220727,22,F,0,0,0,1,0,0,1,0,0,1,adults
+30,1,2,#9,5,9,6,tambourine,chocolate parfait,cap,30,20220727,22,F,0,0,0,0,1,0,0,0,1,2,adults
+30,1,2,#9,0,7,7,balloon,pop corn,,30,20220727,22,F,0,0,0,0,0,0,1,0,0,2,adults
+30,1,2,#6,6,9,8,soccer ball,pizza,umbrella,30,20220727,22,F,0,0,0,0,0,1,0,0,1,1,adults
+30,1,2,#9,0,4,9,tennis,meat,,30,20220727,22,F,0,0,0,1,0,0,0,0,0,2,adults
+30,1,2,#9,6,7,10,badminton,baseball,ice cream,30,20220727,22,F,0,0,0,0,1,1,0,0,0,2,adults
+30,1,2,#6,4,8,11,corn,acoustic guitar,basketball,30,20220727,22,F,0,0,0,1,0,0,0,1,0,1,adults
+30,1,2,#6,6,8,12,table tennis,electric guitar,chiffon cake,30,20220727,22,F,0,0,0,0,0,1,0,1,0,1,adults
+30,2,2,#9,0,9,1,ice cream,badminton,,30,20220727,22,F,0,0,0,0,0,0,0,0,1,2,adults
+30,2,2,#6,5,8,2,violin,basketball,watermelon,30,20220727,22,F,0,0,0,0,1,0,0,1,0,1,adults
+30,2,2,#9,6,8,3,crepe,tambourine,umbrella,30,20220727,22,F,0,0,0,0,0,1,0,1,0,2,adults
+30,2,2,#9,4,9,4,trumpet,pop corn,cheerleader,30,20220727,22,F,0,0,0,1,0,0,0,0,1,2,adults
+30,2,2,#6,5,9,5,chocolate parfait,baseball,cap,30,20220727,22,F,0,0,0,0,1,0,0,0,1,1,adults
+30,2,2,#9,0,5,6,saxophone,meat,,30,20220727,22,F,0,0,0,0,1,0,0,0,0,1,adults
+30,2,2,#6,6,7,7,table tennis,chiffon cake,tuba,30,20220727,22,F,0,0,0,0,0,1,1,0,0,1,adults
+30,2,2,#9,4,7,8,hamburger,balloon,acoustic guitar,30,20220727,22,F,0,0,0,1,0,0,1,0,0,2,adults
+30,2,2,#9,0,6,9,flute,pizza,,30,20220727,22,F,0,0,0,0,0,1,0,0,0,2,adults
+30,2,2,#6,4,9,10,cymbal,tennis,corn,30,20220727,22,F,0,0,0,1,0,0,0,0,1,1,adults
+30,2,2,#9,6,9,11,soccer ball,electric guitar,melon soda float,30,20220727,22,F,0,0,0,0,0,1,0,0,1,2,adults
+30,2,2,#9,4,8,12,popper,orange,handbell,30,20220727,22,F,0,0,0,1,0,0,0,1,0,2,adults
+31,1,2,#9,0,4,1,tennis,meat,,31,20220728,32,F,1,1,1,1,1,1,1,1,1,2,adults
+31,1,2,#6,5,7,2,crepe,keyboard harmonica,tuba,31,20220728,32,F,0,0,0,0,0,1,0,0,0,1,adults
+31,1,2,#9,5,8,3,popper,watermelon,cymbal,31,20220728,32,F,0,0,0,0,0,0,0,1,0,2,adults
+31,1,2,#6,6,9,4,soccer ball,pizza,umbrella,31,20220728,32,F,0,0,0,0,0,1,0,0,0,1,adults
+31,1,2,#9,0,7,5,balloon,pop corn,,31,20220728,32,F,0,0,0,0,0,0,1,0,0,2,adults
+31,1,2,#9,5,9,6,tambourine,chocolate parfait,cap,31,20220728,32,F,0,0,0,0,0,0,0,0,1,2,adults
+31,1,2,#6,4,8,7,corn,acoustic guitar,basketball,31,20220728,32,F,0,0,0,0,0,1,0,0,0,1,adults
+31,1,2,#9,0,8,8,melon soda float,flute,,31,20220728,32,F,0,0,0,0,0,0,0,1,0,2,adults
+31,1,2,#9,5,7,9,cheerleader,violin,orange,31,20220728,32,F,0,0,0,0,0,0,0,0,1,2,adults
+31,1,2,#6,6,8,10,table tennis,electric guitar,chiffon cake,31,20220728,32,F,0,0,0,0,0,1,0,0,0,1,adults
+31,1,2,#6,4,7,11,hamburger,saxophone,trumpet,31,20220728,32,F,0,0,0,1,0,1,0,0,0,1,adults
+31,1,2,#9,6,7,12,badminton,baseball,ice cream,31,20220728,32,F,0,0,0,0,0,0,0,0,1,2,adults
+31,2,2,#9,0,9,1,ice cream,badminton,,31,20220728,32,F,0,0,0,0,0,0,0,0,1,2,adults
+31,2,2,#6,4,9,2,cymbal,tennis,corn,31,20220728,32,F,0,0,0,0,0,1,0,0,0,1,adults
+31,2,2,#9,0,6,3,flute,pizza,,31,20220728,32,F,1,1,1,1,1,1,1,1,1,2,adults
+31,2,2,#9,4,9,4,trumpet,pop corn,cheerleader,31,20220728,32,F,0,0,0,0,0,0,0,0,1,2,adults
+31,2,2,#6,6,7,5,table tennis,chiffon cake,tuba,31,20220728,32,F,0,0,0,0,0,1,0,0,0,1,adults
+31,2,2,#6,5,8,6,violin,basketball,watermelon,31,20220728,32,F,0,0,0,0,1,1,0,0,0,1,adults
+31,2,2,#9,6,9,7,soccer ball,electric guitar,melon soda float,31,20220728,32,F,0,0,0,0,0,0,0,0,1,2,adults
+31,2,2,#9,4,8,8,popper,orange,handbell,31,20220728,32,F,0,0,0,0,0,0,0,1,1,2,adults
+31,2,2,#6,5,9,9,chocolate parfait,baseball,cap,31,20220728,32,F,0,0,0,0,1,1,0,0,0,1,adults
+31,2,2,#9,4,7,10,hamburger,balloon,acoustic guitar,31,20220728,32,F,0,0,0,0,0,0,1,0,0,2,adults
+31,2,2,#9,6,8,11,crepe,tambourine,umbrella,31,20220728,32,F,0,0,0,0,0,0,0,1,0,2,adults
+31,2,2,#9,0,5,12,saxophone,meat,,31,20220728,32,F,0,0,0,0,0,0,0,0,1,2,adults
+32,1,1,#9,0,7,1,melon soda float,umbrella,,32,20220728,23,F,0,0,0,0,0,0,1,0,0,2,adults
+32,1,1,#9,4,7,2,cheerleader,orange,tennis,32,20220728,23,F,0,0,0,1,0,0,1,0,0,2,adults
+32,1,1,#9,5,7,3,tuba,soccer ball,chiffon cake,32,20220728,23,F,0,0,0,1,0,0,1,0,0,2,adults
+32,1,1,#6,4,8,4,popper,watermelon,trumpet,32,20220728,23,F,0,0,0,1,0,0,0,0,0,1,adults
+32,1,1,#9,4,8,5,pizza,badminton,tambourine,32,20220728,23,F,0,0,0,1,0,0,0,1,0,2,adults
+32,1,1,#9,0,5,6,pop corn,saxophone,,32,20220728,23,F,0,0,0,0,1,0,0,0,0,2,adults
+32,1,1,#6,5,9,7,electric guitar,chocolate parfait,cap,32,20220728,23,F,0,0,0,0,1,0,0,0,0,1,adults
+32,1,1,#6,5,8,8,balloon,violin,meat,32,20220728,23,F,0,0,0,0,1,0,0,0,0,1,adults
+32,1,1,#6,6,7,9,ice cream,flute,baseball,32,20220728,23,F,0,0,0,0,0,1,0,0,0,1,adults
+32,1,1,#9,0,8,10,cymbal,hamburger,,32,20220728,23,F,0,0,0,0,0,0,0,1,0,2,adults
+32,1,1,#9,6,8,11,keyboard harmonica,table tennis,crepe,32,20220728,23,F,0,0,0,0,0,0,0,1,0,2,adults
+32,1,1,#9,5,8,12,handbell,corn,basketball,32,20220728,23,F,0,0,0,0,0,0,0,1,0,2,adults
+32,2,1,#6,6,9,1,cheerleader,orange,saxophone,32,20220728,23,F,0,0,0,0,0,1,0,0,0,1,adults
+32,2,1,#9,6,9,2,flute,pizza,badminton,32,20220728,23,F,0,0,0,0,0,0,0,0,1,2,adults
+32,2,1,#6,5,7,3,meat,handbell,trumpet,32,20220728,23,F,0,0,0,0,1,0,0,0,0,1,adults
+32,2,1,#6,6,8,4,chiffon cake,tuba,cap,32,20220728,23,F,0,0,0,0,0,1,0,0,0,1,adults
+32,2,1,#9,6,7,5,basketball,acoustic guitar,meat,32,20220728,23,F,0,0,0,0,0,1,1,0,0,2,adults
+32,2,1,#9,5,9,6,table tennis,keyboard harmonica,crepe,32,20220728,23,F,0,0,0,0,0,0,0,0,1,2,adults
+32,2,1,#9,0,4,7,balloon,pop corn,,32,20220728,23,F,0,0,0,1,0,0,0,0,0,2,adults
+32,2,1,#6,4,9,8,electric guitar,chocolate parfait,umbrella,32,20220728,23,F,0,0,0,1,0,0,0,0,0,1,adults
+32,2,1,#9,4,9,9,popper,violin,hamburger,32,20220728,23,F,0,0,0,0,0,0,0,0,1,2,adults
+32,2,1,#9,0,6,10,baseball,melon soda float,,32,20220728,23,F,0,0,0,0,0,1,0,0,0,2,adults
+32,2,1,#6,4,7,11,cymbal,watermelon,tennis,32,20220728,23,F,0,0,0,1,0,0,0,0,0,1,adults
+32,2,1,#9,0,9,12,ice cream,tambourine,,32,20220728,23,F,0,0,0,0,0,0,0,0,1,2,adults
+33,1,3,#6,6,8,1,umbrella,soccer ball,melon soda float,33,20220729,19,M,0,0,0,0,0,1,0,0,0,1,adults
+33,1,3,#9,6,7,2,orange,violin,saxophone,33,20220729,19,M,1,1,1,1,1,1,1,1,1,2,adults
+33,1,3,#6,5,9,3,tambourine,chocolate parfait,keyboard harmonica,33,20220729,19,M,0,0,0,0,1,0,0,0,0,1,adults
+33,1,3,#6,6,7,4,cymbal,handbell,pop corn,33,20220729,19,M,0,0,0,0,0,1,0,0,0,1,adults
+33,1,3,#9,0,7,5,baseball,ice cream,,33,20220729,19,M,1,1,1,1,1,1,1,1,1,2,adults
+33,1,3,#9,4,8,6,acoustic guitar,popper,meat,33,20220729,19,M,0,0,0,0,0,0,0,1,0,2,adults
+33,1,3,#9,0,6,7,badminton,crepe,,33,20220729,19,M,1,1,1,1,1,1,1,1,1,2,adults
+33,1,3,#6,6,9,8,hamburger,tennis,trumpet,33,20220729,19,M,0,0,0,0,0,1,0,0,0,1,adults
+33,1,3,#6,5,7,9,pizza,cap,tuba,33,20220729,19,M,0,0,0,0,1,0,0,0,0,1,adults
+33,1,3,#9,0,4,10,basketball,watermelon,,33,20220729,19,M,1,1,1,1,1,1,1,1,1,2,adults
+33,1,3,#9,4,7,11,chiffon cake,electric guitar,table tennis,33,20220729,19,M,0,0,0,1,0,0,1,0,0,2,adults
+33,1,3,#9,5,7,12,corn,balloon,cheerleader,33,20220729,19,M,0,0,0,1,0,0,1,0,0,2,adults
+33,2,3,#9,6,8,1,orange,popper,tennis,33,20220729,19,M,0,0,0,0,0,0,0,1,0,2,adults
+33,2,3,#9,6,9,2,badminton,flute,pizza,33,20220729,19,M,0,0,0,0,0,0,0,0,1,2,adults
+33,2,3,#6,4,7,3,saxophone,cheerleader,hamburger,33,20220729,19,M,0,0,0,0,0,1,0,0,0,1,adults
+33,2,3,#9,4,9,4,chocolate parfait,keyboard harmonica,tambourine,33,20220729,19,M,0,0,1,0,0,0,0,0,1,2,adults
+33,2,3,#9,0,5,5,acoustic guitar,meat,,33,20220729,19,M,1,1,1,1,1,1,1,1,1,2,adults
+33,2,3,#6,5,8,6,soccer ball,melon soda float,table tennis,33,20220729,19,M,0,0,0,0,1,0,0,0,0,1,adults
+33,2,3,#9,0,8,7,violin,corn,,33,20220729,19,M,0,0,0,0,0,0,0,1,0,2,adults
+33,2,3,#6,4,8,8,umbrella,baseball,crepe,33,20220729,19,M,0,0,0,0,0,1,0,0,0,1,adults
+33,2,3,#9,5,9,9,pop corn,cymbal,basketball,33,20220729,19,M,0,0,0,0,0,0,0,0,1,2,adults
+33,2,3,#9,0,9,10,electric guitar,chiffon cake,,33,20220729,19,M,0,0,0,0,0,0,0,0,1,2,adults
+33,2,3,#9,5,8,11,watermelon,balloon,handbell,33,20220729,19,M,0,0,0,0,0,0,0,1,0,2,adults
+33,2,3,#6,4,9,12,cap,ice cream,tuba,33,20220729,19,M,0,0,0,0,0,1,0,0,0,1,adults
+34,1,1,#9,0,7,1,melon soda float,umbrella,,34,20220729,27,F,0,0,0,0,0,0,1,0,0,2,adults
+34,1,1,#9,4,7,2,cheerleader,orange,tennis,34,20220729,27,F,0,0,0,0,0,0,1,0,0,2,adults
+34,1,1,#9,5,7,3,tuba,soccer ball,chiffon cake,34,20220729,27,F,0,0,0,0,0,0,1,0,0,2,adults
+34,1,1,#6,4,8,4,popper,watermelon,trumpet,34,20220729,27,F,0,0,0,1,0,0,0,0,0,1,adults
+34,1,1,#9,4,8,5,pizza,badminton,tambourine,34,20220729,27,F,0,0,0,1,0,0,0,0,0,2,adults
+34,1,1,#9,0,5,6,pop corn,saxophone,,34,20220729,27,F,0,0,0,0,1,0,0,0,0,2,adults
+34,1,1,#6,5,9,7,electric guitar,chocolate parfait,cap,34,20220729,27,F,0,0,0,0,1,0,0,0,0,1,adults
+34,1,1,#6,5,8,8,balloon,violin,meat,34,20220729,27,F,0,0,0,0,1,0,0,0,0,1,adults
+34,1,1,#6,6,7,9,ice cream,flute,baseball,34,20220729,27,F,0,0,0,0,0,1,0,0,0,1,adults
+34,1,1,#9,0,8,10,cymbal,hamburger,,34,20220729,27,F,0,0,0,0,0,0,0,1,0,2,adults
+34,1,1,#9,6,8,11,keyboard harmonica,table tennis,crepe,34,20220729,27,F,0,0,0,0,0,0,0,1,0,2,adults
+34,1,1,#9,5,8,12,handbell,corn,basketball,34,20220729,27,F,0,0,0,0,0,0,0,1,0,2,adults
+34,2,1,#6,6,9,1,cheerleader,orange,saxophone,34,20220729,27,F,0,0,0,0,0,1,0,0,0,1,adults
+34,2,1,#9,6,9,2,flute,pizza,badminton,34,20220729,27,F,0,0,0,0,0,0,0,0,1,2,adults
+34,2,1,#6,5,7,3,meat,handbell,trumpet,34,20220729,27,F,0,0,0,0,0,1,0,0,0,1,adults
+34,2,1,#6,6,8,4,chiffon cake,tuba,cap,34,20220729,27,F,0,0,0,0,0,1,0,0,0,1,adults
+34,2,1,#9,6,7,5,basketball,acoustic guitar,meat,34,20220729,27,F,0,0,0,0,0,0,1,0,0,2,adults
+34,2,1,#9,5,9,6,table tennis,keyboard harmonica,crepe,34,20220729,27,F,0,0,0,0,0,0,0,0,1,2,adults
+34,2,1,#9,0,4,7,balloon,pop corn,,34,20220729,27,F,0,0,0,1,0,0,0,0,0,2,adults
+34,2,1,#6,4,9,8,electric guitar,chocolate parfait,umbrella,34,20220729,27,F,0,0,0,1,0,0,0,0,0,1,adults
+34,2,1,#9,4,9,9,popper,violin,hamburger,34,20220729,27,F,0,0,0,0,0,0,0,0,1,2,adults
+34,2,1,#9,0,6,10,baseball,melon soda float,,34,20220729,27,F,0,0,0,0,0,1,0,0,0,2,adults
+34,2,1,#6,4,7,11,cymbal,watermelon,tennis,34,20220729,27,F,0,0,0,1,0,0,0,0,0,1,adults
+34,2,1,#9,0,9,12,ice cream,tambourine,,34,20220729,27,F,0,0,0,0,0,0,0,0,1,2,adults
+35,1,2,#9,0,9,1,ice cream,badminton,,35,20220730,22,F,0,0,0,0,0,0,0,0,1,2,adults
+35,1,2,#6,4,9,2,cymbal,tennis,corn,35,20220730,22,F,0,0,0,0,0,1,0,0,0,1,adults
+35,1,2,#9,6,8,3,crepe,tambourine,umbrella,35,20220730,22,F,0,0,0,0,0,0,0,0,1,2,adults
+35,1,2,#6,5,8,4,violin,basketball,watermelon,35,20220730,22,F,0,0,0,0,0,1,0,0,0,1,adults
+35,1,2,#9,6,9,5,soccer ball,electric guitar,melon soda float,35,20220730,22,F,0,0,0,0,0,0,0,0,1,2,adults
+35,1,2,#9,0,5,6,saxophone,meat,,35,20220730,22,F,0,0,0,0,0,0,0,1,1,2,adults
+35,1,2,#6,6,7,7,table tennis,chiffon cake,tuba,35,20220730,22,F,0,0,0,0,0,1,0,0,0,1,adults
+35,1,2,#9,4,8,8,popper,orange,handbell,35,20220730,22,F,0,0,0,0,0,0,0,1,0,2,adults
+35,1,2,#6,5,9,9,chocolate parfait,baseball,cap,35,20220730,22,F,0,0,0,0,0,1,0,0,0,1,adults
+35,1,2,#9,4,9,10,trumpet,pop corn,cheerleader,35,20220730,22,F,0,0,0,0,0,0,0,0,1,2,adults
+35,1,2,#9,0,6,11,flute,pizza,,35,20220730,22,F,0,0,0,0,0,0,0,0,1,2,adults
+35,1,2,#9,4,7,12,hamburger,balloon,acoustic guitar,35,20220730,22,F,0,0,0,0,0,0,0,0,1,2,adults
+35,2,2,#9,5,7,1,cheerleader,violin,orange,35,20220730,22,F,0,0,0,0,0,0,0,0,1,2,adults
+35,2,2,#6,6,8,2,table tennis,electric guitar,chiffon cake,35,20220730,22,F,0,0,0,0,0,1,0,0,0,1,adults
+35,2,2,#9,0,7,3,balloon,pop corn,,35,20220730,22,F,0,0,0,0,0,0,1,0,0,2,adults
+35,2,2,#9,6,7,4,badminton,baseball,ice cream,35,20220730,22,F,0,0,0,0,0,0,0,0,1,2,adults
+35,2,2,#6,4,8,5,corn,acoustic guitar,basketball,35,20220730,22,F,0,0,0,0,0,1,0,0,0,2,adults
+35,2,2,#9,0,8,6,melon soda float,flute,,35,20220730,22,F,0,0,0,0,0,0,0,0,1,2,adults
+35,2,2,#6,4,7,7,hamburger,saxophone,trumpet,35,20220730,22,F,0,0,0,0,0,1,0,0,0,1,adults
+35,2,2,#6,6,9,8,soccer ball,pizza,umbrella,35,20220730,22,F,0,0,0,0,0,1,0,0,0,1,adults
+35,2,2,#9,5,8,9,popper,watermelon,cymbal,35,20220730,22,F,0,0,0,0,0,0,0,0,1,2,adults
+35,2,2,#6,5,7,10,crepe,keyboard harmonica,tuba,35,20220730,22,F,0,0,0,0,0,1,0,0,0,1,adults
+35,2,2,#9,0,4,11,tennis,meat,,35,20220730,22,F,0,0,0,0,0,0,0,0,1,2,adults
+35,2,2,#9,5,9,12,tambourine,chocolate parfait,cap,35,20220730,22,F,0,0,0,0,0,0,0,0,1,2,adults
+37,1,3,#9,6,7,1,orange,violin,saxophone,36,20220803,22,F,0,0,0,0,0,1,1,0,0,2,adults
+37,1,3,#9,0,7,2,baseball,ice cream,,36,20220803,22,F,0,0,0,0,0,0,1,0,0,2,adults
+37,1,3,#6,6,9,3,hamburger,tennis,trumpet,36,20220803,22,F,0,0,0,0,0,1,0,0,0,1,adults
+37,1,3,#9,0,6,4,badminton,crepe,,36,20220803,22,F,0,0,0,0,0,1,0,0,0,2,adults
+37,1,3,#9,5,7,5,corn,balloon,cheerleader,36,20220803,22,F,0,0,0,0,0,0,1,0,0,2,adults
+37,1,3,#6,6,8,6,umbrella,soccer ball,melon soda float,36,20220803,22,F,0,0,0,0,0,1,0,0,0,1,adults
+37,1,3,#6,6,7,7,cymbal,handbell,pop corn,36,20220803,22,F,0,0,0,0,0,1,0,0,0,1,adults
+37,1,3,#9,4,7,8,chiffon cake,electric guitar,table tennis,36,20220803,22,F,0,0,0,1,0,0,1,0,0,2,adults
+37,1,3,#9,0,4,9,basketball,watermelon,,36,20220803,22,F,0,0,0,1,0,0,0,0,0,2,adults
+37,1,3,#6,5,9,10,tambourine,chocolate parfait,keyboard harmonica,36,20220803,22,F,0,0,0,0,1,0,0,0,0,1,adults
+37,1,3,#9,4,8,11,acoustic guitar,popper,meat,36,20220803,22,F,0,0,0,1,0,0,0,1,0,2,adults
+37,1,3,#6,5,7,12,pizza,cap,tuba,36,20220803,22,F,0,0,0,0,1,0,0,0,0,1,adults
+37,2,3,#9,0,9,1,electric guitar,chiffon cake,,36,20220803,22,F,0,0,0,0,0,0,0,0,1,2,adults
+37,2,3,#9,5,9,2,pop corn,cymbal,basketball,36,20220803,22,F,0,0,0,0,0,0,0,0,1,2,adults
+37,2,3,#9,4,9,3,chocolate parfait,keyboard harmonica,tambourine,36,20220803,22,F,0,0,0,0,0,0,0,0,1,2,adults
+37,2,3,#6,4,7,4,saxophone,cheerleader,hamburger,36,20220803,22,F,0,0,0,0,0,1,0,0,0,1,adults
+37,2,3,#6,4,8,5,umbrella,baseball,crepe,36,20220803,22,F,0,0,0,0,0,1,0,0,0,1,adults
+37,2,3,#9,5,8,6,watermelon,balloon,handbell,36,20220803,22,F,0,0,0,0,0,0,0,1,0,2,adults
+37,2,3,#6,5,8,7,soccer ball,melon soda float,table tennis,36,20220803,22,F,0,0,0,0,1,0,0,0,0,1,adults
+37,2,3,#9,0,5,8,acoustic guitar,meat,,36,20220803,22,F,0,0,0,0,1,0,0,0,0,2,adults
+37,2,3,#9,6,9,9,badminton,flute,pizza,36,20220803,22,F,0,0,0,0,0,0,0,0,1,2,adults
+37,2,3,#9,6,8,10,orange,popper,tennis,36,20220803,22,F,0,0,0,0,0,0,0,1,0,2,adults
+37,2,3,#6,4,9,11,cap,ice cream,tuba,36,20220803,22,F,0,0,0,0,0,1,0,0,0,1,adults
+37,2,3,#9,0,8,12,violin,corn,,36,20220803,22,F,0,0,0,0,0,0,0,1,0,2,adults
+1,2,1,#9,0,9,1,ice cream,tambourine,,1,2018/8/24,86,F,0,0,0,0,0,0,0,0,1,2,children
+1,2,1,#6,6,9,2,cheerleader,orange,saxophone,1,2018/8/24,86,F,0,0,0,0,0,1,0,0,1,1,children
+1,2,1,#9,6,9,3,flute,pizza,badminton,1,2018/8/24,86,F,0,0,0,0,0,1,0,0,1,2,children
+1,2,1,#6,4,7,4,cymbal,watermelon,tennis,1,2018/8/24,86,F,0,0,0,1,0,0,1,0,0,1,children
+1,2,1,#6,4,9,5,electric guitar,chocolate parfait,umbrella,1,2018/8/24,86,F,0,0,0,1,0,0,0,0,1,1,children
+1,2,1,#9,0,4,6,balloon,pop corn,,1,2018/8/24,86,F,0,0,0,1,0,0,0,0,0,2,children
+1,2,1,#9,5,9,7,table tennis,keyboard harmonica,crepe,1,2018/8/24,86,F,0,0,0,0,1,0,0,0,1,2,children
+1,2,1,#6,5,7,8,meat,handbell,trumpet,1,2018/8/24,86,F,0,0,0,0,1,0,1,0,0,1,children
+1,2,1,#6,6,8,9,chiffon cake,tuba,cap,1,2018/8/24,86,F,0,0,0,0,0,1,0,1,0,1,children
+1,2,1,#9,6,7,10,basketball,acoustic guitar,meat,1,2018/8/24,86,F,0,0,0,0,0,1,1,0,0,2,children
+1,2,1,#9,0,6,11,baseball,melon soda float,,1,2018/8/24,86,F,0,0,0,0,0,1,0,0,1,2,children
+1,2,1,#9,4,9,12,popper,violin,hamburger,1,2018/8/24,86,F,0,0,0,1,0,0,0,0,1,2,children
+2,2,2,#6,6,9,1,soccer ball,pizza,umbrella,2,2018/8/25,86,F,0,0,0,0,0,1,0,0,0,1,children
+2,2,2,#9,5,7,2,cheerleader,violin,orange,2,2018/8/25,86,F,0,0,0,0,0,0,0,0,1,2,children
+2,2,2,#9,6,7,3,badminton,baseball,ice cream,2,2018/8/25,86,F,0,0,0,0,0,0,0,0,1,2,children
+2,2,2,#6,4,7,4,hamburger,saxophone,trumpet,2,2018/8/25,86,F,0,0,0,0,1,0,0,0,0,1,children
+2,2,2,#9,0,8,5,melon soda float,flute,,2,2018/8/25,86,F,0,0,0,0,0,0,0,0,1,2,children
+2,2,2,#6,4,8,6,corn,acoustic guitar,basketball,2,2018/8/25,86,F,0,0,0,0,0,1,0,0,0,1,children
+2,2,2,#6,5,7,7,crepe,keyboard harmonica,tuba,2,2018/8/25,86,F,0,0,0,0,0,1,0,0,0,1,children
+2,2,2,#9,0,7,8,balloon,pop corn,,2,2018/8/25,86,F,0,0,0,0,0,0,0,0,1,2,children
+2,2,2,#6,6,8,9,table tennis,electric guitar,chiffon cake,2,2018/8/25,86,F,0,0,0,0,0,1,0,0,0,1,children
+2,2,2,#9,5,8,10,popper,watermelon,cymbal,2,2018/8/25,86,F,0,0,0,0,0,0,0,0,1,2,children
+2,2,2,#9,5,9,11,tambourine,chocolate parfait,cap,2,2018/8/25,86,F,0,0,0,0,0,0,0,0,1,2,children
+2,2,2,#9,0,4,12,tennis,meat,,2,2018/8/25,86,F,0,0,0,0,0,0,0,0,1,2,children
+3,1,2,#6,6,7,1,table tennis,chiffon cake,tuba,3,2018/8/26,87,M,0,0,0,0,0,1,0,0,0,1,children
+3,1,2,#9,4,9,2,trumpet,pop corn,cheerleader,3,2018/8/26,87,M,0,0,0,0,0,0,0,0,1,2,children
+3,1,2,#9,6,9,3,soccer ball,electric guitar,melon soda float,3,2018/8/26,87,M,0,0,0,0,0,0,0,0,1,2,children
+3,1,2,#6,4,9,4,cymbal,tennis,corn,3,2018/8/26,87,M,0,0,0,0,0,1,0,0,0,1,children
+3,1,2,#9,0,6,5,flute,pizza,,3,2018/8/26,87,M,0,0,0,0,0,0,0,0,1,2,children
+3,1,2,#6,5,8,6,violin,basketball,watermelon,3,2018/8/26,87,M,0,0,0,0,0,1,0,0,0,1,children
+3,1,2,#9,0,9,7,ice cream,badminton,,3,2018/8/26,87,M,0,0,0,0,0,0,0,0,1,2,children
+3,1,2,#9,4,8,8,popper,orange,handbell,3,2018/8/26,87,M,0,0,0,0,0,0,0,0,1,2,children
+3,1,2,#6,5,9,9,chocolate parfait,baseball,cap,3,2018/8/26,87,M,0,0,0,0,0,1,0,0,0,1,children
+3,1,2,#9,4,7,10,hamburger,balloon,acoustic guitar,3,2018/8/26,87,M,0,0,0,0,0,0,0,0,1,2,children
+3,1,2,#9,6,8,11,crepe,tambourine,umbrella,3,2018/8/26,87,M,0,0,0,0,0,0,0,0,1,2,children
+3,1,2,#9,0,5,12,saxophone,meat,,3,2018/8/26,87,M,0,0,0,0,0,0,0,0,1,2,children
+4,1,3,#9,0,5,1,acoustic guitar,meat,,4,2018/8/26,85,M,0,0,0,0,0,0,0,0,1,2,children
+4,1,3,#9,4,9,2,chocolate parfait,keyboard harmonica,tambourine,4,2018/8/26,85,M,0,0,0,0,0,0,0,0,1,2,children
+4,1,3,#6,4,7,3,saxophone,cheerleader,hamburger,4,2018/8/26,85,M,0,0,0,0,0,1,0,0,0,1,children
+4,1,3,#6,4,8,4,umbrella,baseball,crepe,4,2018/8/26,85,M,0,0,0,0,0,1,0,0,0,1,children
+4,1,3,#9,0,8,5,violin,corn,,4,2018/8/26,85,M,0,0,0,0,0,0,0,0,1,2,children
+4,1,3,#6,5,8,6,soccer ball,melon soda float,table tennis,4,2018/8/26,85,M,0,0,0,0,0,1,0,0,0,1,children
+4,1,3,#9,5,9,7,pop corn,cymbal,basketball,4,2018/8/26,85,M,0,0,0,0,0,0,0,0,1,2,children
+4,1,3,#9,6,9,8,badminton,flute,pizza,4,2018/8/26,85,M,0,0,0,0,0,0,0,0,1,2,children
+4,1,3,#9,6,8,9,orange,popper,tennis,4,2018/8/26,85,M,0,0,0,0,0,0,0,0,1,2,children
+4,1,3,#6,4,9,10,cap,ice cream,tuba,4,2018/8/26,85,M,0,0,0,0,0,1,0,0,0,1,children
+4,1,3,#9,5,8,11,watermelon,balloon,handbell,4,2018/8/26,85,M,0,0,0,0,0,0,0,0,1,2,children
+4,1,3,#9,0,9,12,electric guitar,chiffon cake,,4,2018/8/26,85,M,0,0,0,0,0,0,0,0,1,2,children
+5,2,3,#9,4,8,1,acoustic guitar,popper,meat,5,2018/8/27,85,M,0,0,0,0,0,0,0,0,1,2,children
+5,2,3,#9,4,7,2,chiffon cake,electric guitar,table tennis,5,2018/8/27,85,M,0,0,0,0,0,0,0,0,1,2,children
+5,2,3,#9,0,4,3,basketball,watermelon,,5,2018/8/27,85,M,0,0,0,0,0,0,0,0,1,2,children
+5,2,3,#6,5,7,4,pizza,cap,tuba,5,2018/8/27,85,M,0,0,0,0,0,1,0,0,0,1,children
+5,2,3,#9,6,7,5,orange,violin,saxophone,5,2018/8/27,85,M,0,0,0,0,0,0,0,0,1,2,children
+5,2,3,#9,0,6,6,badminton,crepe,,5,2018/8/27,85,M,0,0,0,0,0,0,0,0,1,2,children
+5,2,3,#6,6,9,7,hamburger,tennis,trumpet,5,2018/8/27,85,M,0,0,0,0,0,1,0,0,0,1,children
+5,2,3,#6,5,9,8,tambourine,chocolate parfait,keyboard harmonica,5,2018/8/27,85,M,0,0,0,0,0,1,0,0,0,1,children
+5,2,3,#9,5,7,9,corn,balloon,cheerleader,5,2018/8/27,85,M,0,0,0,0,0,0,0,0,1,2,children
+5,2,3,#9,0,7,10,baseball,ice cream,,5,2018/8/27,85,M,0,0,0,0,0,0,0,0,1,2,children
+5,2,3,#6,6,7,11,cymbal,handbell,pop corn,5,2018/8/27,85,M,0,0,0,0,0,1,0,0,0,1,children
+5,2,3,#6,6,8,12,umbrella,soccer ball,melon soda float,5,2018/8/27,85,M,0,0,0,0,0,1,0,0,0,1,children
+6,1,1,#9,0,4,1,balloon,pop corn,,6,2018/8/28,85,F,0,0,0,1,0,0,0,0,0,2,children
+6,1,1,#6,4,9,2,electric guitar,chocolate parfait,umbrella,6,2018/8/28,85,F,0,0,0,1,0,0,0,0,1,1,children
+6,1,1,#9,6,7,3,basketball,acoustic guitar,meat,6,2018/8/28,85,F,0,0,0,0,0,1,1,0,0,2,children
+6,1,1,#9,0,6,4,baseball,melon soda float,,6,2018/8/28,85,F,0,0,0,0,0,1,0,0,0,2,children
+6,1,1,#6,6,9,5,cheerleader,orange,saxophone,6,2018/8/28,85,F,0,0,0,0,1,0,0,0,1,1,children
+6,1,1,#6,6,8,6,chiffon cake,tuba,cap,6,2018/8/28,85,F,0,0,0,0,0,1,0,1,0,1,children
+6,1,1,#6,5,7,7,corn,handbell,trumpet,6,2018/8/28,85,F,0,0,0,0,1,0,1,0,0,1,children
+6,1,1,#9,0,9,8,ice cream,tambourine,,6,2018/8/28,85,F,0,0,0,0,0,0,0,0,1,2,children
+6,1,1,#9,4,9,9,popper,violin,hamburger,6,2018/8/28,85,F,0,0,0,1,0,0,0,0,1,2,children
+6,1,1,#9,5,9,10,table tennis,keyboard harmonica,crepe,6,2018/8/28,85,F,0,0,0,0,1,0,0,0,1,2,children
+6,1,1,#6,4,7,11,cymbal,watermelon,tennis,6,2018/8/28,85,F,0,0,0,1,0,0,1,0,0,2,children
+6,1,1,#9,6,9,12,flute,pizza,badminton,6,2018/8/28,85,F,0,0,0,0,1,0,0,0,1,2,children
+7,1,3,#6,4,8,1,umbrella,baseball,crepe,7,2018/8/31,86,M,0,0,1,0,0,0,0,0,0,1,children
+7,1,3,#9,5,8,2,watermelon,balloon,handbell,7,2018/8/31,86,M,0,0,0,0,1,0,0,0,0,1,children
+7,1,3,#9,0,9,3,electric guitar,chiffon cake,,7,2018/8/31,86,M,0,0,0,0,0,0,0,0,1,2,children
+7,1,3,#9,5,9,4,pop corn,cymbal,basketball,7,2018/8/31,86,M,0,0,0,0,0,0,0,0,1,2,children
+7,1,3,#6,5,8,5,soccer ball,melon soda float,table tennis,7,2018/8/31,86,M,0,0,0,0,1,0,0,0,0,1,children
+7,1,3,#9,0,8,6,violin,corn,,7,2018/8/31,86,M,0,0,0,0,0,0,0,1,0,2,children
+7,1,3,#9,4,9,7,chocolate parfait,keyboard harmonica,tambourine,7,2018/8/31,86,M,0,0,0,0,0,0,0,0,1,2,children
+7,1,3,#9,0,5,8,acoustic guitar,meat,,7,2018/8/31,86,M,0,0,0,0,1,0,0,0,0,2,children
+7,1,3,#6,4,9,9,cap,ice cream,tuba,7,2018/8/31,86,M,0,0,0,1,0,0,0,0,0,1,children
+7,1,3,#9,6,8,10,orange,popper,tennis,7,2018/8/31,86,M,0,0,0,0,0,0,0,1,0,2,children
+7,1,3,#9,6,9,11,badminton,flute,pizza,7,2018/8/31,86,M,0,0,0,0,0,0,0,0,1,2,children
+7,1,3,#6,4,7,12,saxophone,cheerleader,hamburger,7,2018/8/31,86,M,0,0,0,1,0,0,0,0,0,1,children
+8,1,2,#9,4,9,1,trumpet,pop corn,cheerleader,8,2018/9/8,84,M,0,0,0,0,0,0,0,0,1,2,children
+8,1,2,#9,0,6,2,flute,pizza,,8,2018/9/8,84,M,0,0,0,0,0,0,0,0,1,2,children
+8,1,2,#6,5,8,3,violin,basketball,watermelon,8,2018/9/8,84,M,0,0,0,0,0,1,0,0,0,1,children
+8,1,2,#9,6,9,4,soccer ball,electric guitar,melon soda float,8,2018/9/8,84,M,0,0,0,0,0,0,0,0,1,2,children
+8,1,2,#9,0,5,5,saxophone,meat,,8,2018/9/8,84,M,0,0,0,0,0,0,0,0,1,2,children
+8,1,2,#6,5,9,6,chocolate parfait,baseball,cap,8,2018/9/8,84,M,0,0,0,0,0,1,0,0,0,1,children
+8,1,2,#9,4,7,7,hamburger,balloon,acoustic guitar,8,2018/9/8,84,M,0,0,0,0,0,0,0,0,1,2,children
+8,1,2,#9,6,8,8,crepe,tambourine,umbrella,8,2018/9/8,84,M,0,0,0,0,0,0,0,0,1,2,children
+8,1,2,#6,4,9,9,cymbal,tennis,corn,8,2018/9/8,84,M,0,0,0,0,0,1,0,0,0,1,children
+8,1,2,#6,6,7,10,table tennis,chiffon cake,tuba,8,2018/9/8,84,M,0,0,0,0,0,1,0,0,0,1,children
+8,1,2,#9,4,8,11,popper,orange,handbell,8,2018/9/8,84,M,0,0,0,0,0,0,0,0,1,2,children
+8,1,2,#9,0,9,12,ice cream,badminton,,8,2018/9/8,84,M,0,0,0,0,0,0,0,0,1,2,children
+9,2,1,#9,0,5,1,pop corn,saxophone,,9,2018/9/9,84,M,0,0,0,0,1,0,0,0,0,2,children
+9,2,1,#9,6,8,2,keyboard harmonica,table tennis,crepe,9,2018/9/9,84,M,0,0,0,0,0,1,0,1,0,2,children
+9,2,1,#6,4,8,3,popper,watermelon,trumpet,9,2018/9/9,84,M,0,0,0,1,0,0,0,1,0,1,children
+9,2,1,#6,5,9,4,electric guitar,chocolate parfait,cap,9,2018/9/9,84,M,0,0,0,0,1,0,0,0,1,1,children
+9,2,1,#9,0,8,5,cymbal,hamburger,,9,2018/9/9,84,M,0,0,0,0,0,0,0,1,0,2,children
+9,2,1,#6,6,7,6,ice cream,flute,baseball,9,2018/9/9,84,M,0,0,0,0,0,1,1,0,0,1,children
+9,2,1,#9,4,7,7,cheerleader,orange,tennis,9,2018/9/9,84,M,0,0,0,1,0,0,1,0,0,2,children
+9,2,1,#9,5,7,8,tuba,soccer ball,chiffon cake,9,2018/9/9,84,M,0,0,0,0,1,0,1,0,0,2,children
+9,2,1,#6,5,8,9,balloon,violin,meat,9,2018/9/9,84,M,0,0,0,0,1,0,0,1,0,1,children
+9,2,1,#9,0,7,10,melon soda float,umbrella,,9,2018/9/9,84,M,0,0,0,0,0,0,1,0,0,2,children
+9,2,1,#9,5,8,11,handbell,corn,basketball,9,2018/9/9,84,M,0,0,0,0,1,0,0,1,0,2,children
+9,2,1,#9,4,8,12,pizza,badminton,tambourine,9,2018/9/9,84,M,0,0,0,1,0,0,0,1,0,2,children
+10,2,2,#9,0,7,1,balloon,pop corn,,10,2018/9/9,86,M,0,0,0,0,0,0,1,0,0,1,children
+10,2,2,#6,6,9,2,soccer ball,pizza,umbrella,10,2018/9/9,86,M,0,0,0,0,0,1,0,0,0,1,children
+10,2,2,#9,5,8,3,popper,watermelon,cymbal,10,2018/9/9,86,M,0,0,0,0,1,0,0,0,0,1,children
+10,2,2,#9,0,8,4,melon soda float,flute,,10,2018/9/9,86,M,0,0,0,0,0,0,0,1,0,1,children
+10,2,2,#6,4,7,5,hamburger,saxophone,trumpet,10,2018/9/9,86,M,0,0,0,1,0,0,0,0,0,1,children
+10,2,2,#9,5,9,6,tambourine,chocolate parfait,cap,10,2018/9/9,86,M,0,0,0,0,1,0,0,0,0,1,children
+10,2,2,#9,0,4,7,tennis,meat,,10,2018/9/9,86,M,0,0,0,1,0,0,0,0,0,1,children
+10,2,2,#6,6,8,8,table tennis,electric guitar,chiffon cake,10,2018/9/9,86,M,0,0,0,0,0,1,0,1,0,1,children
+10,2,2,#9,5,7,9,cheerleader,violin,orange,10,2018/9/9,86,M,0,0,0,0,1,0,1,0,0,1,children
+10,2,2,#6,5,7,10,crepe,keyboard harmonica,tuba,10,2018/9/9,86,M,0,0,0,0,1,0,1,0,0,1,children
+10,2,2,#6,4,8,11,corn,acoustic guitar,basketball,10,2018/9/9,86,M,0,0,0,1,0,0,0,1,0,1,children
+10,2,2,#9,6,7,12,badminton,baseball,ice cream,10,2018/9/9,86,M,0,0,0,0,0,1,1,0,0,1,children
+11,1,1,#9,6,7,1,basketball,acoustic guitar,meat,11,2018/9/9,86,M,0,0,0,0,0,1,0,1,0,2,children
+11,1,1,#6,4,9,2,electric guitar,chocolate parfait,umbrella,11,2018/9/9,86,M,0,0,0,0,0,1,0,0,0,1,children
+11,1,1,#6,4,7,3,cymbal,watermelon,tennis,11,2018/9/9,86,M,0,0,0,0,0,0,0,1,0,1,children
+11,1,1,#9,0,6,4,baseball,melon soda float,,11,2018/9/9,86,M,0,0,0,0,0,1,0,0,0,2,children
+11,1,1,#9,4,9,5,popper,violin,hamburger,11,2018/9/9,86,M,0,0,0,0,0,0,0,0,1,2,children
+11,1,1,#9,5,9,6,table tennis,keyboard harmonica,crepe,11,2018/9/9,86,M,0,0,0,1,0,0,0,0,0,2,children
+11,1,1,#6,6,9,7,cheerleader,orange,saxophone,11,2018/9/9,86,M,0,1,1,1,1,1,0,0,0,1,children
+11,1,1,#6,6,8,8,chiffon cake,tuba,cap,11,2018/9/9,86,M,0,0,0,1,0,0,0,0,0,1,children
+11,1,1,#9,0,4,9,balloon,pop corn,,11,2018/9/9,86,M,0,0,0,0,1,0,0,0,0,2,children
+11,1,1,#9,6,9,10,flute,pizza,badminton,11,2018/9/9,86,M,0,0,0,0,0,0,0,0,1,2,children
+11,1,1,#6,5,7,11,corn,handbell,trumpet,11,2018/9/9,86,M,0,0,0,0,0,0,0,0,1,1,children
+11,1,1,#9,0,9,12,ice cream,tambourine,,11,2018/9/9,86,M,0,0,0,0,0,1,0,0,0,2,children
+12,1,3,#6,4,8,1,umbrella,baseball,crepe,12,2018/9/10,85,M,0,1,0,0,0,0,0,0,0,1,children
+12,1,3,#6,4,7,2,saxophone,cheerleader,hamburger,12,2018/9/10,85,M,0,1,0,0,0,0,0,0,0,1,children
+12,1,3,#9,4,9,3,chocolate parfait,keyboard harmonica,tambourine,12,2018/9/10,85,M,0,0,1,0,0,0,0,0,0,2,children
+12,1,3,#9,6,8,4,orange,popper,tennis,12,2018/9/10,85,M,0,0,1,0,0,0,0,0,0,2,children
+12,1,3,#6,5,8,5,soccer ball,melon soda float,table tennis,12,2018/9/10,85,M,0,1,0,0,0,0,0,0,0,1,children
+12,1,3,#9,5,8,6,watermelon,balloon,handbell,12,2018/9/10,85,M,0,1,0,0,0,0,0,0,0,2,children
+12,1,3,#9,0,9,7,electric guitar,chiffon cake,,12,2018/9/10,85,M,0,1,0,0,0,0,0,0,0,2,children
+12,1,3,#9,5,9,8,pop corn,cymbal,basketball,12,2018/9/10,85,M,0,1,0,0,0,0,0,0,0,2,children
+12,1,3,#6,4,9,9,cap,ice cream,tuba,12,2018/9/10,85,M,0,1,0,0,0,0,0,0,0,1,children
+12,1,3,#9,0,8,10,violin,corn,,12,2018/9/10,85,M,0,1,0,0,0,0,0,0,0,2,children
+12,1,3,#9,6,9,11,badminton,flute,pizza,12,2018/9/10,85,M,0,1,0,0,0,0,0,0,0,2,children
+12,1,3,#9,0,5,12,acoustic guitar,meat,,12,2018/9/10,85,M,0,1,0,0,0,0,0,0,0,2,children
+13,2,1,#6,6,7,1,ice cream,flute,baseball,13,2018/9/15,85,F,0,0,0,0,0,1,0,0,0,1,children
+13,2,1,#9,4,7,2,cheerleader,orange,tennis,13,2018/9/15,85,F,0,0,0,0,0,0,0,0,1,2,children
+13,2,1,#9,6,8,3,keyboard harmonica,table tennis,crepe,13,2018/9/15,85,F,0,0,0,0,0,0,0,0,1,2,children
+13,2,1,#6,4,8,4,popper,watermelon,trumpet,13,2018/9/15,85,F,0,0,0,0,0,0,1,0,0,1,children
+13,2,1,#9,0,7,5,melon soda float,umbrella,,13,2018/9/15,85,F,0,0,0,0,0,0,0,0,1,2,children
+13,2,1,#6,5,8,6,balloon,violin,meat,13,2018/9/15,85,F,0,0,0,0,0,1,0,0,0,1,children
+13,2,1,#9,4,8,7,pizza,badminton,tambourine,13,2018/9/15,85,F,0,0,0,0,0,0,0,0,1,2,children
+13,2,1,#9,0,5,8,pop corn,saxophone,,13,2018/9/15,85,F,0,0,0,0,0,0,0,0,1,2,children
+13,2,1,#6,5,9,9,electric guitar,chocolate parfait,cap,13,2018/9/15,85,F,0,0,0,0,0,1,0,0,0,1,children
+13,2,1,#9,0,8,10,cymbal,hamburger,,13,2018/9/15,85,F,0,0,0,0,0,0,0,0,1,2,children
+13,2,1,#9,5,7,11,tuba,soccer ball,chiffon cake,13,2018/9/15,85,F,0,0,0,0,0,0,0,0,1,2,children
+13,2,1,#9,5,8,12,handbell,corn,basketball,13,2018/9/15,85,F,0,0,0,0,0,0,0,0,1,2,children
+14,2,3,#9,4,7,1,chiffon cake,electric guitar,table tennis,14,2018/9/15,85,F,0,0,0,0,0,0,0,0,1,2,children
+14,2,3,#9,5,7,2,corn,balloon,cheerleader,14,2018/9/15,85,F,0,0,0,0,0,0,0,0,1,2,children
+14,2,3,#6,6,8,3,umbrella,soccer ball,melon soda float,14,2018/9/15,85,F,0,0,0,0,0,1,0,0,0,1,children
+14,2,3,#9,0,4,4,basketball,watermelon,,14,2018/9/15,85,F,0,0,0,0,0,0,0,0,1,2,children
+14,2,3,#6,5,7,5,pizza,cap,tuba,14,2018/9/15,85,F,0,0,0,0,0,1,0,0,0,1,children
+14,2,3,#9,6,7,6,orange,violin,saxophone,14,2018/9/15,85,F,0,0,0,0,0,0,0,0,1,2,children
+14,2,3,#6,5,9,7,tambourine,chocolate parfait,keyboard harmonica,14,2018/9/15,85,F,0,0,0,0,0,1,0,0,0,1,children
+14,2,3,#6,6,9,8,hamburger,tennis,trumpet,14,2018/9/15,85,F,0,0,0,0,0,1,0,0,0,1,children
+14,2,3,#9,0,7,9,baseball,ice cream,,14,2018/9/15,85,F,0,0,0,0,0,0,0,0,1,2,children
+14,2,3,#9,4,8,10,acoustic guitar,popper,meat,14,2018/9/15,85,F,0,0,0,0,0,0,0,0,1,2,children
+14,2,3,#9,0,6,11,badminton,crepe,,14,2018/9/15,85,F,0,0,0,0,0,0,0,0,1,2,children
+14,2,3,#6,6,7,12,cymbal,handbell,pop corn,14,2018/9/15,85,F,0,0,0,0,0,1,0,0,0,1,children
+15,2,2,#9,0,7,1,balloon,pop corn,,15,2018/9/16,86,F,0,0,0,0,0,0,1,0,0,2,children
+15,2,2,#9,6,7,2,badminton,baseball,ice cream,15,2018/9/16,86,F,0,0,0,0,0,1,1,0,0,2,children
+15,2,2,#9,0,4,3,tennis,meat,,15,2018/9/16,86,F,0,0,0,1,0,0,0,0,0,2,children
+15,2,2,#6,6,8,4,table tennis,electric guitar,chiffon cake,15,2018/9/16,86,F,0,0,0,0,1,0,0,1,0,1,children
+15,2,2,#6,4,8,5,corn,acoustic guitar,basketball,15,2018/9/16,86,F,0,0,0,1,0,0,0,1,0,1,children
+15,2,2,#9,5,9,6,tambourine,chocolate parfait,cap,15,2018/9/16,86,F,0,0,0,0,0,1,0,0,1,2,children
+15,2,2,#6,4,7,7,hamburger,saxophone,trumpet,15,2018/9/16,86,F,0,0,0,1,0,1,0,0,0,1,children
+15,2,2,#6,6,9,8,soccer ball,pizza,umbrella,15,2018/9/16,86,F,0,0,0,0,1,0,0,0,1,1,children
+15,2,2,#9,5,7,9,cheerleader,violin,orange,15,2018/9/16,86,F,0,0,0,1,0,0,1,0,0,2,children
+15,2,2,#6,5,7,10,crepe,keyboard harmonica,tuba,15,2018/9/16,86,F,0,0,0,0,1,0,1,0,0,1,children
+15,2,2,#9,5,8,11,popper,watermelon,cymbal,15,2018/9/16,86,F,0,0,0,0,1,0,0,1,0,2,children
+15,2,2,#9,0,8,12,melon soda float,flute,,15,2018/9/16,86,F,0,0,0,0,0,0,0,1,0,2,children
+16,2,2,#9,0,8,1,melon soda float,flute,,16,2018/9/24,84,F,0,0,0,0,0,0,0,1,0,2,children
+16,2,2,#6,4,7,2,hamburger,saxophone,trumpet,16,2018/9/24,84,F,0,0,0,1,0,0,1,0,0,1,children
+16,2,2,#6,6,9,3,soccer ball,pizza,umbrella,16,2018/9/24,84,F,0,0,0,0,0,1,0,0,1,1,children
+16,2,2,#9,0,7,4,balloon,pop corn,,16,2018/9/24,84,F,0,0,0,0,0,0,1,0,0,2,children
+16,2,2,#6,5,7,5,crepe,keyboard harmonica,tuba,16,2018/9/24,84,F,0,0,0,0,1,0,1,0,0,1,children
+16,2,2,#9,0,4,6,tennis,meat,,16,2018/9/24,84,F,0,0,0,1,0,0,0,0,0,2,children
+16,2,2,#6,6,8,7,table tennis,electric guitar,chiffon cake,16,2018/9/24,84,F,0,0,0,0,0,1,0,1,0,1,children
+16,2,2,#9,5,7,8,cheerleader,violin,orange,16,2018/9/24,84,F,0,0,0,0,1,0,1,0,0,2,children
+16,2,2,#9,6,7,9,badminton,baseball,ice cream,16,2018/9/24,84,F,0,0,0,0,0,1,1,0,0,2,children
+16,2,2,#6,4,8,10,corn,acoustic guitar,basketball,16,2018/9/24,84,F,0,0,0,1,0,0,0,1,0,1,children
+16,2,2,#9,5,9,11,tambourine,chocolate parfait,cap,16,2018/9/24,84,F,0,0,0,0,0,0,0,0,1,2,children
+16,2,2,#9,5,8,12,popper,watermelon,cymbal,16,2018/9/24,84,F,0,0,0,0,1,0,0,1,0,2,children
+17,2,1,#9,0,7,1,melon soda float,umbrella,,17,2018/9/29,124,F,0,0,0,0,0,0,1,0,0,1,children
+17,2,1,#6,5,8,2,balloon,violin,meat,17,2018/9/29,124,F,0,0,0,1,0,0,0,0,0,1,children
+17,2,1,#9,4,8,3,pizza,badminton,tambourine,17,2018/9/29,124,F,0,0,0,1,0,0,0,1,0,2,children
+17,2,1,#9,0,8,4,cymbal,hamburger,,17,2018/9/29,124,F,0,0,0,0,0,0,0,1,0,2,children
+17,2,1,#9,5,7,5,tuba,soccer ball,chiffon cake,17,2018/9/29,124,F,0,0,0,0,1,0,1,0,0,1,children
+17,2,1,#6,4,8,6,popper,watermelon,trumpet,17,2018/9/29,124,F,0,0,0,1,0,0,0,1,0,1,children
+17,2,1,#6,5,9,7,electric guitar,chocolate parfait,cap,17,2018/9/29,124,F,0,0,1,0,0,0,0,1,0,2,children
+17,2,1,#9,4,7,8,cheerleader,orange,tennis,17,2018/9/29,124,F,0,0,0,1,0,0,1,0,0,1,children
+17,2,1,#6,6,7,9,ice cream,flute,baseball,17,2018/9/29,124,F,0,0,0,0,0,1,1,0,0,1,children
+17,2,1,#9,5,8,10,handbell,corn,basketball,17,2018/9/29,124,F,0,0,0,1,0,0,1,0,0,2,children
+17,2,1,#9,6,8,11,keyboard harmonica,table tennis,crepe,17,2018/9/29,124,F,0,0,0,0,0,1,0,1,0,2,children
+17,2,1,#9,0,5,12,pop corn,saxophone,,17,2018/9/29,124,F,0,0,0,0,1,0,0,0,0,2,children
+18,1,3,#9,6,8,1,orange,popper,tennis,18,2018/10/13,94,F,0,0,0,0,0,1,0,1,0,2,children
+18,1,3,#9,4,9,2,chocolate parfait,keyboard harmonica,tambourine,18,2018/10/13,94,F,0,0,0,1,0,0,0,0,1,2,children
+18,1,3,#9,5,9,3,pop corn,cymbal,basketball,18,2018/10/13,94,F,0,0,0,0,1,0,0,0,1,2,children
+18,1,3,#6,4,8,4,umbrella,baseball,crepe,18,2018/10/13,94,F,0,0,0,1,0,0,0,1,0,1,children
+18,1,3,#6,4,7,5,saxophone,cheerleader,hamburger,18,2018/10/13,94,F,0,0,0,1,0,0,1,0,0,1,children
+18,1,3,#9,0,9,6,electric guitar,chiffon cake,,18,2018/10/13,94,F,0,0,0,0,0,0,0,0,1,2,children
+18,1,3,#9,5,8,7,watermelon,balloon,handbell,18,2018/10/13,94,F,0,0,0,0,1,0,0,1,0,2,children
+18,1,3,#6,5,8,8,soccer ball,melon soda float,table tennis,18,2018/10/13,94,F,0,0,0,0,1,0,0,1,0,1,children
+18,1,3,#9,0,8,9,violin,corn,,18,2018/10/13,94,F,0,0,0,0,0,0,0,1,0,2,children
+18,1,3,#6,4,9,10,cap,ice cream,tuba,18,2018/10/13,94,F,0,0,0,1,0,0,0,0,1,1,children
+18,1,3,#9,0,5,11,acoustic guitar,meat,,18,2018/10/13,94,F,0,0,0,0,1,0,0,0,0,2,children
+18,1,3,#9,6,9,12,badminton,flute,pizza,18,2018/10/13,94,F,0,0,0,0,0,1,0,0,1,2,children
+19,2,3,#9,4,8,1,acoustic guitar,popper,meat,19,2018/10/29,93,F,0,0,0,1,0,0,0,1,0,2,children
+19,2,3,#6,6,8,2,umbrella,soccer ball,melon soda float,19,2018/10/29,93,F,0,0,0,0,0,1,0,1,0,1,children
+19,2,3,#9,6,7,3,orange,violin,saxophone,19,2018/10/29,93,F,0,0,0,0,0,1,1,0,0,2,children
+19,2,3,#6,5,9,4,tambourine,chocolate parfait,keyboard harmonica,19,2018/10/29,93,F,0,0,0,0,1,0,0,0,1,2,children
+19,2,3,#6,6,9,5,hamburger,tennis,trumpet,19,2018/10/29,93,F,0,0,0,0,0,1,0,0,1,1,children
+19,2,3,#9,0,7,6,baseball,ice cream,,19,2018/10/29,93,F,0,0,0,0,0,0,1,0,0,2,children
+19,2,3,#6,6,7,7,cymbal,handbell,pop corn,19,2018/10/29,93,F,0,0,0,0,0,1,1,0,0,1,children
+19,2,3,#9,0,6,8,badminton,crepe,,19,2018/10/29,93,F,0,0,0,0,0,1,0,0,0,2,children
+19,2,3,#9,5,7,9,corn,balloon,cheerleader,19,2018/10/29,93,F,0,0,0,0,1,0,1,0,0,2,children
+19,2,3,#6,5,7,10,pizza,cap,tuba,19,2018/10/29,93,F,0,0,0,0,1,0,1,0,0,1,children
+19,2,3,#9,0,4,11,basketball,watermelon,,19,2018/10/29,93,F,0,0,0,1,0,0,0,0,0,2,children
+19,2,3,#9,4,7,12,chiffon cake,electric guitar,table tennis,19,2018/10/29,93,F,0,0,0,1,0,0,1,0,0,2,children
+20,2,1,#6,4,9,1,electric guitar,chocolate parfait,umbrella,20,2018/10/31,93,M,0,0,0,1,0,0,0,0,1,1,children
+20,2,1,#9,0,4,2,balloon,pop corn,,20,2018/10/31,93,M,0,0,0,1,0,0,0,0,0,2,children
+20,2,1,#9,5,9,3,table tennis,keyboard harmonica,crepe,20,2018/10/31,93,M,0,0,0,0,1,0,0,0,1,2,children
+20,2,1,#9,4,9,4,popper,violin,hamburger,20,2018/10/31,93,M,0,0,0,1,0,0,0,0,1,2,children
+20,2,1,#6,6,8,5,chiffon cake,tuba,cap,20,2018/10/31,93,M,0,0,0,0,0,1,0,1,0,1,children
+20,2,1,#6,4,7,6,cymbal,watermelon,tennis,20,2018/10/31,93,M,0,0,0,1,0,0,1,0,0,1,children
+20,2,1,#9,0,9,7,ice cream,tambourine,,20,2018/10/31,93,M,0,0,0,0,0,0,0,0,1,2,children
+20,2,1,#6,6,9,8,cheerleader,orange,saxophone,20,2018/10/31,93,M,0,0,0,0,0,1,0,0,1,1,children
+20,2,1,#9,6,9,9,flute,pizza,badminton,20,2018/10/31,93,M,0,0,0,0,0,1,0,0,1,2,children
+20,2,1,#9,6,7,10,basketball,acoustic guitar,meat,20,2018/10/31,93,M,0,0,0,0,0,1,1,0,0,2,children
+20,2,1,#9,0,6,11,baseball,melon soda float,,20,2018/10/31,93,M,0,0,0,0,0,1,0,0,0,2,children
+20,2,1,#6,5,7,12,meat,handbell,trumpet,20,2018/10/31,93,M,0,0,0,0,1,0,1,0,0,1,children
+21,1,2,#9,6,8,1,crepe,tambourine,umbrella,21,2018/11/2,94,F,0,0,0,0,0,0,0,1,0,2,children
+21,1,2,#9,0,5,2,saxophone,meat,,21,2018/11/2,94,F,0,0,0,0,1,0,0,0,0,2,children
+21,1,2,#6,5,9,3,chocolate parfait,baseball,cap,21,2018/11/2,94,F,0,0,0,0,0,1,0,0,0,1,children
+21,1,2,#9,4,7,4,hamburger,balloon,acoustic guitar,21,2018/11/2,94,F,0,0,0,0,0,0,1,0,0,2,children
+21,1,2,#9,6,9,5,soccer ball,electric guitar,melon soda float,21,2018/11/2,94,F,0,0,0,0,0,0,0,0,1,2,children
+21,1,2,#9,4,9,6,trumpet,pop corn,cheerleader,21,2018/11/2,94,F,0,0,0,0,0,0,0,0,1,2,children
+21,1,2,#6,6,7,7,table tennis,chiffon cake,tuba,21,2018/11/2,94,F,0,0,0,0,0,1,0,0,0,1,children
+21,1,2,#9,4,8,8,popper,orange,handbell,21,2018/11/2,94,F,0,0,0,0,0,0,0,1,0,2,children
+21,1,2,#9,0,9,9,ice cream,badminton,,21,2018/11/2,94,F,0,0,0,0,0,0,0,0,1,2,children
+21,1,2,#6,5,8,10,violin,basketball,watermelon,21,2018/11/2,94,F,0,0,0,0,1,0,0,0,0,1,children
+21,1,2,#9,0,6,11,flute,pizza,,21,2018/11/2,94,F,0,0,0,0,0,1,0,0,0,2,children
+21,1,2,#6,4,9,12,cymbal,tennis,corn,21,2018/11/2,94,F,0,0,0,1,0,0,0,0,0,2,children
+22,2,3,#9,0,6,1,badminton,crepe,,22,2018/11/2,93,M,0,0,0,0,0,0,0,0,1,2,children
+22,2,3,#9,6,7,2,orange,violin,saxophone,22,2018/11/2,93,M,0,0,0,0,0,0,0,0,1,2,children
+22,2,3,#9,0,7,3,baseball,ice cream,,22,2018/11/2,93,M,0,0,0,0,0,0,0,0,1,2,children
+22,2,3,#6,6,9,4,hamburger,tennis,trumpet,22,2018/11/2,93,M,0,0,0,0,0,1,0,0,0,1,children
+22,2,3,#6,5,7,5,pizza,cap,tuba,22,2018/11/2,93,M,0,0,0,0,0,1,0,0,0,1,children
+22,2,3,#9,4,8,6,acoustic guitar,popper,meat,22,2018/11/2,93,M,0,0,0,0,0,0,0,0,1,2,children
+22,2,3,#6,6,8,7,umbrella,soccer ball,melon soda float,22,2018/11/2,93,M,0,0,0,0,0,1,0,0,0,1,children
+22,2,3,#9,0,4,8,basketball,watermelon,,22,2018/11/2,93,M,0,0,0,0,0,0,0,0,1,2,children
+22,2,3,#6,5,9,9,tambourine,chocolate parfait,keyboard harmonica,22,2018/11/2,93,M,0,0,0,0,0,1,0,0,0,1,children
+22,2,3,#6,6,7,10,cymbal,handbell,pop corn,22,2018/11/2,93,M,0,0,0,0,0,1,0,0,0,1,children
+22,2,3,#9,4,7,11,chiffon cake,electric guitar,table tennis,22,2018/11/2,93,M,0,0,0,0,0,0,0,0,1,2,children
+22,2,3,#9,5,7,12,corn,balloon,cheerleader,22,2018/11/2,93,M,0,0,0,0,0,0,0,0,1,2,children
+23,1,3,#9,6,8,1,orange,popper,tennis,23,2018/11/2,93,F,0,0,0,0,0,1,0,1,0,2,children
+23,1,3,#6,4,9,2,cap,ice cream,tuba,23,2018/11/2,93,F,0,0,0,1,0,0,0,0,1,1,children
+23,1,3,#9,5,9,3,pop corn,cymbal,basketball,23,2018/11/2,93,F,0,0,0,0,1,0,0,0,1,2,children
+23,1,3,#9,0,9,4,electric guitar,chiffon cake,,23,2018/11/2,93,F,0,0,0,0,0,0,0,0,1,2,children
+23,1,3,#9,5,8,5,watermelon,balloon,handbell,23,2018/11/2,93,F,0,0,0,0,1,0,0,1,0,2,children
+23,1,3,#6,5,8,6,soccer ball,melon soda float,table tennis,23,2018/11/2,93,F,0,0,0,0,1,0,0,1,0,1,children
+23,1,3,#9,0,5,7,acoustic guitar,meat,,23,2018/11/2,93,F,0,0,0,0,1,0,0,0,0,2,children
+23,1,3,#9,6,9,8,badminton,flute,pizza,23,2018/11/2,93,F,0,0,0,0,0,1,0,0,1,2,children
+23,1,3,#9,0,8,9,violin,corn,,23,2018/11/2,93,F,0,0,0,0,0,0,0,1,0,2,children
+23,1,3,#6,4,8,10,umbrella,baseball,crepe,23,2018/11/2,93,F,0,0,0,1,0,0,0,1,0,1,children
+23,1,3,#6,4,7,11,saxophone,cheerleader,hamburger,23,2018/11/2,93,F,0,0,0,1,0,0,1,0,0,1,children
+23,1,3,#9,4,9,12,chocolate parfait,keyboard harmonica,tambourine,23,2018/11/2,93,F,0,0,0,1,0,0,0,0,1,2,children
+24,2,1,#9,5,9,1,table tennis,keyboard harmonica,crepe,24,2018/11/3,92,F,1,1,1,1,1,1,1,1,1,2,children
+24,2,1,#9,6,7,2,basketball,acoustic guitar,meat,24,2018/11/3,92,F,1,1,1,1,1,1,1,1,1,2,children
+24,2,1,#9,0,6,3,baseball,melon soda float,,24,2018/11/3,92,F,1,1,1,1,1,1,1,1,1,2,children
+24,2,1,#6,6,9,4,cheerleader,orange,saxophone,24,2018/11/3,92,F,1,1,1,1,1,1,0,0,0,1,children
+24,2,1,#9,0,9,5,ice cream,tambourine,,24,2018/11/3,92,F,1,1,1,1,1,1,1,1,1,2,children
+24,2,1,#6,4,7,6,cymbal,watermelon,tennis,24,2018/11/3,92,F,1,1,1,1,1,1,0,0,0,1,children
+24,2,1,#6,4,9,7,electric guitar,chocolate parfait,umbrella,24,2018/11/3,92,F,1,1,1,1,1,1,0,0,0,1,children
+24,2,1,#9,0,4,8,balloon,pop corn,,24,2018/11/3,92,F,1,1,1,1,1,1,1,1,1,2,children
+24,2,1,#9,6,9,9,flute,pizza,badminton,24,2018/11/3,92,F,1,1,1,1,1,1,1,1,1,2,children
+24,2,1,#6,5,7,10,meat,handbell,trumpet,24,2018/11/3,92,F,1,1,1,1,1,1,0,0,0,1,children
+24,2,1,#6,6,8,11,chiffon cake,tuba,cap,24,2018/11/3,92,F,1,1,1,1,1,1,0,0,0,1,children
+24,2,1,#9,4,9,12,popper,violin,hamburger,24,2018/11/3,92,F,1,1,1,1,1,1,1,1,1,2,children
+25,2,1,#9,6,9,1,flute,pizza,badminton,25,2018/11/4,94,F,0,0,0,0,0,0,0,0,1,2,children
+25,2,1,#6,4,7,2,cymbal,watermelon,tennis,25,2018/11/4,94,F,0,0,0,0,0,1,0,0,0,1,children
+25,2,1,#9,0,9,3,ice cream,tambourine,,25,2018/11/4,94,F,0,0,0,0,0,0,0,0,1,2,children
+25,2,1,#9,6,7,4,basketball,acoustic guitar,meat,25,2018/11/4,94,F,0,0,0,0,0,0,0,0,1,2,children
+25,2,1,#6,6,8,5,chiffon cake,tuba,cap,25,2018/11/4,94,F,0,0,0,0,0,1,0,0,0,1,children
+25,2,1,#9,0,4,6,balloon,pop corn,,25,2018/11/4,94,F,0,0,0,0,0,0,0,0,1,2,children
+25,2,1,#9,5,9,7,table tennis,keyboard harmonica,crepe,25,2018/11/4,94,F,0,0,0,0,0,0,0,0,1,2,children
+25,2,1,#6,5,7,8,meat,handbell,trumpet,25,2018/11/4,94,F,0,0,0,0,0,1,0,0,0,1,children
+25,2,1,#9,0,6,9,baseball,melon soda float,,25,2018/11/4,94,F,0,0,0,0,0,0,0,0,1,2,children
+25,2,1,#6,6,9,10,cheerleader,orange,saxophone,25,2018/11/4,94,F,0,0,0,0,0,1,0,0,0,1,children
+25,2,1,#6,4,9,11,electric guitar,chocolate parfait,umbrella,25,2018/11/4,94,F,0,0,0,0,0,1,0,0,0,1,children
+25,2,1,#9,4,9,12,popper,violin,hamburger,25,2018/11/4,94,F,0,0,0,0,0,0,0,0,1,2,children
+26,2,1,#9,0,7,1,melon soda float,umbrella,,26,2018/11/5,91,F,0,0,0,0,0,0,1,0,0,2,children
+26,2,1,#6,5,8,2,balloon,violin,meat,26,2018/11/5,91,F,0,0,0,0,0,1,0,0,0,1,children
+26,2,1,#9,6,8,3,keyboard harmonica,table tennis,crepe,26,2018/11/5,91,F,0,0,0,0,0,1,0,0,0,2,children
+26,2,1,#9,4,7,4,cheerleader,orange,tennis,26,2018/11/5,91,F,0,0,0,0,0,0,0,0,1,2,children
+26,2,1,#9,5,7,5,tuba,soccer ball,chiffon cake,26,2018/11/5,91,F,0,0,0,0,0,0,1,0,0,2,children
+26,2,1,#6,4,8,6,popper,watermelon,trumpet,26,2018/11/5,91,F,0,0,0,0,0,1,0,0,0,1,children
+26,2,1,#9,4,8,7,pizza,badminton,tambourine,26,2018/11/5,91,F,0,0,0,0,0,0,0,0,1,2,children
+26,2,1,#9,5,8,8,handbell,corn,basketball,26,2018/11/5,91,F,0,0,0,0,0,0,0,0,1,2,children
+26,2,1,#6,5,9,9,electric guitar,chocolate parfait,cap,26,2018/11/5,91,F,0,0,0,0,1,0,0,0,0,1,children
+26,2,1,#9,0,8,10,cymbal,hamburger,,26,2018/11/5,91,F,0,0,0,0,0,0,0,1,0,2,children
+26,2,1,#6,6,7,11,ice cream,flute,baseball,26,2018/11/5,91,F,0,0,0,0,0,1,0,0,0,1,children
+26,2,1,#9,0,5,12,pop corn,saxophone,,26,2018/11/5,91,F,0,0,0,0,0,0,0,0,1,2,children
+27,2,1,#9,0,5,1,pop corn,saxophone,,27,2018/11/5,91,F,0,0,0,0,0,0,0,0,1,2,children
+27,2,1,#6,6,7,2,ice cream,flute,baseball,27,2018/11/5,91,F,0,0,0,0,0,1,0,0,0,1,children
+27,2,1,#9,0,8,3,cymbal,hamburger,,27,2018/11/5,91,F,0,0,0,0,0,0,0,0,1,2,children
+27,2,1,#9,6,8,4,keyboard harmonica,table tennis,crepe,27,2018/11/5,91,F,0,0,0,0,0,0,0,0,1,2,children
+27,2,1,#9,4,7,5,cheerleader,orange,tennis,27,2018/11/5,91,F,0,0,0,0,0,0,0,0,1,2,children
+27,2,1,#6,5,9,6,electric guitar,chocolate parfait,cap,27,2018/11/5,91,F,0,0,0,0,0,1,0,0,0,1,children
+27,2,1,#6,4,8,7,popper,watermelon,trumpet,27,2018/11/5,91,F,0,0,0,0,0,1,0,0,0,1,children
+27,2,1,#9,0,7,8,melon soda float,umbrella,,27,2018/11/5,91,F,0,0,0,0,0,0,0,0,1,2,children
+27,2,1,#6,5,8,9,balloon,violin,meat,27,2018/11/5,91,F,0,0,0,0,0,1,0,0,0,1,children
+27,2,1,#9,4,8,10,pizza,badminton,tambourine,27,2018/11/5,91,F,0,0,0,0,0,0,0,0,1,2,children
+27,2,1,#9,5,8,11,handbell,corn,basketball,27,2018/11/5,91,F,0,0,0,0,0,0,0,0,1,2,children
+27,2,1,#9,5,7,12,tuba,soccer ball,chiffon cake,27,2018/11/5,91,F,0,0,0,0,0,0,0,0,1,2,children
+28,1,2,#9,4,7,1,hamburger,balloon,acoustic guitar,28,2018/11/7,91,F,0,0,0,0,0,0,0,0,1,2,children
+28,1,2,#6,5,9,2,chocolate parfait,baseball,cap,28,2018/11/7,91,F,0,0,0,0,0,0,0,0,1,2,children
+28,1,2,#6,5,8,3,violin,basketball,watermelon,28,2018/11/7,91,F,0,0,0,0,0,0,0,0,1,2,children
+28,1,2,#9,0,9,4,ice cream,badminton,,28,2018/11/7,91,F,0,0,0,0,0,0,0,0,1,2,children
+28,1,2,#9,4,9,5,trumpet,pop corn,cheerleader,28,2018/11/7,91,F,0,0,0,0,0,0,0,0,1,2,children
+28,1,2,#9,0,6,6,flute,pizza,,28,2018/11/7,91,F,0,0,0,0,0,0,0,0,1,2,children
+28,1,2,#6,4,9,7,cymbal,tennis,corn,28,2018/11/7,91,F,0,0,0,0,0,0,0,0,1,2,children
+28,1,2,#9,6,9,8,soccer ball,electric guitar,melon soda float,28,2018/11/7,91,F,0,0,0,0,0,0,0,0,1,2,children
+28,1,2,#9,4,8,9,popper,orange,handbell,28,2018/11/7,91,F,0,0,0,0,0,0,0,0,1,2,children
+28,1,2,#6,6,7,10,table tennis,chiffon cake,tuba,28,2018/11/7,91,F,0,0,0,0,0,0,0,0,1,2,children
+28,1,2,#9,0,5,11,saxophone,meat,,28,2018/11/7,91,F,0,0,0,0,0,0,0,0,1,2,children
+28,1,2,#9,6,8,12,crepe,tambourine,umbrella,28,2018/11/7,91,F,0,0,0,0,0,0,0,0,1,2,children
+29,1,3,#9,5,9,1,pop corn,cymbal,basketball,29,2018/11/11,91,F,0,0,0,0,1,0,0,0,1,2,children
+29,1,3,#6,4,9,2,cap,ice cream,tuba,29,2018/11/11,91,F,0,0,0,1,0,0,0,0,1,1,children
+29,1,3,#9,6,8,3,orange,popper,tennis,29,2018/11/11,91,F,0,0,0,0,0,1,0,1,0,2,children
+29,1,3,#9,4,9,4,chocolate parfait,keyboard harmonica,tambourine,29,2018/11/11,91,F,0,0,0,1,0,0,0,0,1,2,children
+29,1,3,#9,0,5,5,acoustic guitar,meat,,29,2018/11/11,91,F,0,0,0,0,1,0,0,0,0,2,children
+29,1,3,#6,5,8,6,soccer ball,melon soda float,table tennis,29,2018/11/11,91,F,0,0,0,0,1,0,0,0,1,1,children
+29,1,3,#9,0,8,7,violin,corn,,29,2018/11/11,91,F,0,0,0,0,0,0,0,1,0,2,children
+29,1,3,#6,4,8,8,umbrella,baseball,crepe,29,2018/11/11,91,F,0,0,0,0,1,0,0,0,0,1,children
+29,1,3,#6,4,7,9,saxophone,cheerleader,hamburger,29,2018/11/11,91,F,0,0,0,0,1,0,1,0,0,1,children
+29,1,3,#9,0,9,10,electric guitar,chiffon cake,,29,2018/11/11,91,F,0,0,0,0,0,0,0,0,1,2,children
+29,1,3,#9,5,8,11,watermelon,balloon,handbell,29,2018/11/11,91,F,0,0,0,0,1,0,0,1,0,2,children
+29,1,3,#9,6,9,12,badminton,flute,pizza,29,2018/11/11,91,F,0,0,0,0,0,1,0,0,1,2,children
+30,2,3,#9,4,8,1,acoustic guitar,popper,meat,30,2018/11/11,94,M,0,0,0,0,0,0,0,0,1,2,children
+30,2,3,#9,4,7,2,chiffon cake,electric guitar,table tennis,30,2018/11/11,94,M,0,0,0,0,0,0,0,0,1,2,children
+30,2,3,#9,6,7,3,orange,violin,saxophone,30,2018/11/11,94,M,0,0,0,0,0,0,0,0,1,2,children
+30,2,3,#6,5,9,4,tambourine,chocolate parfait,keyboard harmonica,30,2018/11/11,94,M,0,0,0,0,0,1,0,0,0,1,children
+30,2,3,#9,5,7,5,corn,balloon,cheerleader,30,2018/11/11,94,M,0,0,0,0,0,0,0,0,1,2,children
+30,2,3,#9,0,6,6,badminton,crepe,,30,2018/11/11,94,M,0,0,0,0,0,0,0,0,1,2,children
+30,2,3,#6,6,7,7,cymbal,handbell,pop corn,30,2018/11/11,94,M,0,0,0,0,0,1,0,0,0,1,children
+30,2,3,#6,6,8,8,umbrella,soccer ball,melon soda float,30,2018/11/11,94,M,0,0,0,0,0,1,0,0,0,1,children
+30,2,3,#9,0,4,9,basketball,watermelon,,30,2018/11/11,94,M,0,0,0,0,0,0,0,0,1,2,children
+30,2,3,#6,5,7,10,pizza,cap,tuba,30,2018/11/11,94,M,0,0,0,0,0,1,0,0,0,1,children
+30,2,3,#6,6,9,11,hamburger,tennis,trumpet,30,2018/11/11,94,M,0,0,0,0,0,1,0,0,0,1,children
+30,2,3,#9,0,7,12,baseball,ice cream,,30,2018/11/11,94,M,0,0,0,0,0,0,0,0,1,2,children
+31,2,2,#6,6,9,1,soccer ball,pizza,umbrella,31,2018/11/18,92,M,0,0,0,0,0,1,0,0,0,1,children
+31,2,2,#9,5,8,2,popper,watermelon,cymbal,31,2018/11/18,92,M,0,0,0,0,1,0,0,1,0,2,children
+31,2,2,#6,5,7,3,crepe,keyboard harmonica,tuba,31,2018/11/18,92,M,0,0,0,0,1,0,0,0,0,1,children
+31,2,2,#9,0,7,4,balloon,pop corn,,31,2018/11/18,92,M,0,0,0,0,0,0,1,0,0,2,children
+31,2,2,#9,5,9,5,tambourine,chocolate parfait,cap,31,2018/11/18,92,M,0,0,0,0,0,0,0,0,1,2,children
+31,2,2,#6,4,8,6,corn,acoustic guitar,basketball,31,2018/11/18,92,M,0,0,0,1,0,0,0,0,0,1,children
+31,2,2,#9,0,8,7,melon soda float,flute,,31,2018/11/18,92,M,0,0,0,0,0,0,0,1,0,2,children
+31,2,2,#9,5,7,8,cheerleader,violin,orange,31,2018/11/18,92,M,0,0,0,0,0,0,1,0,0,2,children
+31,2,2,#9,6,7,9,badminton,baseball,ice cream,31,2018/11/18,92,M,0,0,0,0,0,0,1,0,0,2,children
+31,2,2,#6,4,7,10,hamburger,saxophone,trumpet,31,2018/11/18,92,M,0,0,0,1,0,0,0,0,0,1,children
+31,2,2,#6,6,8,11,table tennis,electric guitar,chiffon cake,31,2018/11/18,92,M,0,0,0,0,0,1,0,0,0,1,children
+31,2,2,#9,0,4,12,tennis,meat,,31,2018/11/18,92,M,0,0,0,1,0,0,0,0,0,2,children
+32,2,1,#9,5,8,1,handbell,corn,basketball,32,2018/11/22,91,M,0,0,0,0,0,0,0,0,1,2,children
+32,2,1,#9,5,7,2,tuba,soccer ball,chiffon cake,32,2018/11/22,91,M,0,0,0,0,0,0,0,0,1,2,children
+32,2,1,#9,0,8,3,cymbal,hamburger,,32,2018/11/22,91,M,0,0,0,0,0,0,0,0,1,2,children
+32,2,1,#6,6,7,4,ice cream,flute,baseball,32,2018/11/22,91,M,0,0,0,0,0,1,0,0,0,1,children
+32,2,1,#9,0,5,5,pop corn,saxophone,,32,2018/11/22,91,M,0,0,0,0,0,0,0,0,1,2,children
+32,2,1,#9,4,8,6,pizza,badminton,tambourine,32,2018/11/22,91,M,0,0,0,0,0,0,0,0,1,2,children
+32,2,1,#6,4,8,7,popper,watermelon,trumpet,32,2018/11/22,91,M,0,0,0,0,0,1,0,0,0,1,children
+32,2,1,#9,0,7,8,melon soda float,umbrella,,32,2018/11/22,91,M,0,0,0,0,0,0,0,0,1,2,children
+32,2,1,#9,4,7,9,cheerleader,orange,tennis,32,2018/11/22,91,M,0,0,0,0,0,0,0,0,1,2,children
+32,2,1,#6,5,9,10,electric guitar,chocolate parfait,cap,32,2018/11/22,91,M,0,0,0,0,0,1,0,0,0,1,children
+32,2,1,#6,5,8,11,balloon,violin,meat,32,2018/11/22,91,M,0,0,0,0,0,1,0,0,0,1,children
+32,2,1,#9,6,8,12,keyboard harmonica,table tennis,crepe,32,2018/11/22,91,M,0,0,0,0,0,0,0,0,1,2,children
+33,1,2,#9,0,6,1,flute,pizza,,33,2018/11/25,95,M,0,0,0,0,0,0,0,1,0,2,children
+33,1,2,#9,4,8,2,popper,orange,handbell,33,2018/11/25,95,M,0,0,0,0,0,0,0,1,0,2,children
+33,1,2,#9,6,9,3,soccer ball,electric guitar,melon soda float,33,2018/11/25,95,M,0,0,0,0,0,0,0,0,1,2,children
+33,1,2,#6,4,9,4,cymbal,tennis,corn,33,2018/11/25,95,M,0,0,0,1,0,0,0,0,0,1,children
+33,1,2,#9,6,8,5,crepe,tambourine,umbrella,33,2018/11/25,95,M,0,0,0,0,0,0,0,1,0,2,children
+33,1,2,#9,0,5,6,saxophone,meat,,33,2018/11/25,95,M,0,0,0,0,1,0,0,0,0,2,children
+33,1,2,#6,6,7,7,table tennis,chiffon cake,tuba,33,2018/11/25,95,M,0,0,0,0,1,0,0,0,0,1,children
+33,1,2,#9,4,9,8,trumpet,pop corn,cheerleader,33,2018/11/25,95,M,0,0,0,0,0,0,0,0,1,2,children
+33,1,2,#9,0,9,9,ice cream,badminton,,33,2018/11/25,95,M,0,0,0,0,0,0,0,0,1,2,children
+33,1,2,#9,4,7,10,hamburger,balloon,acoustic guitar,33,2018/11/25,95,M,0,0,0,0,0,0,1,0,0,2,children
+33,1,2,#6,5,9,11,chocolate parfait,baseball,cap,33,2018/11/25,95,M,0,0,0,0,1,0,0,0,0,1,children
+33,1,2,#6,5,8,12,violin,basketball,watermelon,33,2018/11/25,95,M,0,0,0,0,1,0,0,0,0,1,children
+34,1,2,#9,4,9,1,trumpet,pop corn,cheerleader,34,2018/11/26,91,M,0,0,0,0,0,0,0,0,1,2,children
+34,1,2,#9,6,8,2,crepe,tambourine,umbrella,34,2018/11/26,91,M,0,0,0,0,0,0,0,1,0,2,children
+34,1,2,#9,4,8,3,popper,orange,handbell,34,2018/11/26,91,M,0,0,0,0,0,0,0,1,0,2,children
+34,1,2,#6,6,7,4,table tennis,chiffon cake,tuba,34,2018/11/26,91,M,0,0,0,0,0,1,0,0,0,1,children
+34,1,2,#6,4,9,5,cymbal,tennis,corn,34,2018/11/26,91,M,0,0,0,0,0,1,0,0,0,1,children
+34,1,2,#9,6,9,6,soccer ball,electric guitar,melon soda float,34,2018/11/26,91,M,0,0,0,0,0,1,0,0,1,2,children
+34,1,2,#9,0,5,7,saxophone,meat,,34,2018/11/26,91,M,0,0,0,0,0,0,0,0,1,2,children
+34,1,2,#6,5,9,8,chocolate parfait,baseball,cap,34,2018/11/26,91,M,0,0,0,0,1,0,0,0,0,1,children
+34,1,2,#9,4,7,9,hamburger,balloon,acoustic guitar,34,2018/11/26,91,M,0,0,0,0,0,0,1,0,0,2,children
+34,1,2,#9,0,6,10,flute,pizza,,34,2018/11/26,91,M,0,0,0,0,1,0,0,0,0,2,children
+34,1,2,#6,5,8,11,violin,basketball,watermelon,34,2018/11/26,91,M,0,0,0,0,1,0,0,0,0,1,children
+34,1,2,#9,0,9,12,ice cream,badminton,,34,2018/11/26,91,M,0,0,0,0,0,0,0,0,1,2,children
+35,1,3,#6,4,7,1,saxophone,cheerleader,hamburger,35,2018/12/2,85,F,0,0,1,0,0,1,0,0,0,1,children
+35,1,3,#9,4,9,2,chocolate parfait,keyboard harmonica,tambourine,35,2018/12/2,85,F,0,0,0,1,0,0,0,0,1,2,children
+35,1,3,#9,0,8,3,violin,corn,,35,2018/12/2,85,F,0,0,0,0,0,0,0,1,0,2,children
+35,1,3,#6,4,9,4,cap,ice cream,tuba,35,2018/12/2,85,F,0,0,0,1,0,0,0,0,1,1,children
+35,1,3,#9,6,8,5,orange,popper,tennis,35,2018/12/2,85,F,0,0,0,0,0,1,0,1,0,2,children
+35,1,3,#6,4,8,6,umbrella,baseball,crepe,35,2018/12/2,85,F,0,0,0,1,0,0,0,1,0,1,children
+35,1,3,#9,0,5,7,acoustic guitar,meat,,35,2018/12/2,85,F,0,0,0,0,1,0,0,0,0,2,children
+35,1,3,#9,6,9,8,badminton,flute,pizza,35,2018/12/2,85,F,0,0,0,0,0,1,0,0,1,2,children
+35,1,3,#9,5,9,9,pop corn,cymbal,basketball,35,2018/12/2,85,F,0,0,0,0,1,0,0,0,1,2,children
+35,1,3,#6,5,8,10,soccer ball,melon soda float,table tennis,35,2018/12/2,85,F,0,0,0,0,1,0,0,1,0,1,children
+35,1,3,#9,5,8,11,watermelon,balloon,handbell,35,2018/12/2,85,F,0,0,0,0,1,0,0,1,0,2,children
+35,1,3,#9,0,9,12,electric guitar,chiffon cake,,35,2018/12/2,85,F,0,0,0,0,0,0,0,0,1,2,children
+36,2,1,#9,0,8,1,cymbal,hamburger,,36,2018/12/3,95,F,0,0,0,0,0,0,0,0,1,2,children
+36,2,1,#9,5,7,2,tuba,soccer ball,chiffon cake,36,2018/12/3,95,F,0,0,0,0,0,0,0,0,1,2,children
+36,2,1,#9,0,5,3,pop corn,saxophone,,36,2018/12/3,95,F,0,0,0,0,0,0,0,0,1,2,children
+36,2,1,#6,6,7,4,ice cream,flute,baseball,36,2018/12/3,95,F,0,0,0,0,0,1,0,0,0,1,children
+36,2,1,#9,5,8,5,handbell,corn,basketball,36,2018/12/3,95,F,0,0,0,0,0,0,0,0,1,2,children
+36,2,1,#9,6,8,6,keyboard harmonica,table tennis,crepe,36,2018/12/3,95,F,0,0,0,0,0,0,0,0,1,2,children
+36,2,1,#6,4,8,7,popper,watermelon,trumpet,36,2018/12/3,95,F,0,0,0,0,0,1,0,0,0,1,children
+36,2,1,#9,0,7,8,melon soda float,umbrella,,36,2018/12/3,95,F,0,0,0,0,0,0,0,0,1,2,children
+36,2,1,#6,5,8,9,balloon,violin,meat,36,2018/12/3,95,F,0,0,0,0,0,1,0,0,0,1,children
+36,2,1,#9,4,8,10,pizza,badminton,tambourine,36,2018/12/3,95,F,0,0,0,0,0,0,0,0,1,2,children
+36,2,1,#9,4,7,11,cheerleader,orange,tennis,36,2018/12/3,95,F,0,0,0,0,0,0,0,0,1,2,children
+36,2,1,#6,5,9,12,electric guitar,chocolate parfait,cap,36,2018/12/3,95,F,0,0,0,0,0,1,0,0,0,1,children
+37,2,3,#9,6,7,1,orange,violin,saxophone,37,2018/12/15,87,F,0,0,0,0,0,0,1,1,0,2,children
+37,2,3,#9,0,6,2,badminton,crepe,,37,2018/12/15,87,F,0,0,0,0,0,1,0,0,0,2,children
+37,2,3,#9,4,8,3,acoustic guitar,popper,meat,37,2018/12/15,87,F,0,0,0,1,0,0,0,1,0,2,children
+37,2,3,#6,5,9,4,tambourine,chocolate parfait,keyboard harmonica,37,2018/12/15,87,F,0,0,0,0,1,0,0,0,1,1,children
+37,2,3,#6,6,7,5,cymbal,handbell,pop corn,37,2018/12/15,87,F,0,0,0,0,0,1,1,0,0,1,children
+37,2,3,#9,0,7,6,baseball,ice cream,,37,2018/12/15,87,F,0,0,0,0,0,0,1,0,0,2,children
+37,2,3,#9,5,7,7,corn,balloon,cheerleader,37,2018/12/15,87,F,0,0,0,0,1,0,1,0,0,2,children
+37,2,3,#6,6,8,8,umbrella,soccer ball,melon soda float,37,2018/12/15,87,F,0,0,0,0,0,1,0,1,0,1,children
+37,2,3,#9,0,4,9,basketball,watermelon,,37,2018/12/15,87,F,0,0,0,1,0,0,0,0,0,2,children
+37,2,3,#6,5,7,10,pizza,cap,tuba,37,2018/12/15,87,F,0,0,0,0,1,0,1,0,0,1,children
+37,2,3,#6,6,9,11,hamburger,tennis,trumpet,37,2018/12/15,87,F,0,0,0,0,0,1,0,0,1,1,children
+37,2,3,#9,4,7,12,chiffon cake,electric guitar,table tennis,37,2018/12/15,87,F,0,0,0,1,0,0,1,0,0,2,children
+38,2,2,#9,0,7,1,balloon,pop corn,,38,2018/12/16,87,F,0,0,0,0,0,0,1,0,0,1,children
+38,2,2,#6,6,8,2,table tennis,electric guitar,chiffon cake,38,2018/12/16,87,F,0,0,0,0,0,1,0,1,0,1,children
+38,2,2,#9,5,7,3,cheerleader,violin,orange,38,2018/12/16,87,F,0,0,0,0,1,0,1,0,0,1,children
+38,2,2,#9,5,9,4,tambourine,chocolate parfait,cap,38,2018/12/16,87,F,0,0,0,0,1,0,0,0,1,3,children
+38,2,2,#6,4,7,5,hamburger,saxophone,trumpet,38,2018/12/16,87,F,0,0,0,1,0,0,1,0,0,1,children
+38,2,2,#9,0,8,6,melon soda float,flute,,38,2018/12/16,87,F,0,0,0,0,0,0,0,1,0,1,children
+38,2,2,#9,5,8,7,popper,watermelon,cymbal,38,2018/12/16,87,F,0,0,0,0,1,0,0,1,0,1,children
+38,2,2,#6,6,9,8,soccer ball,pizza,umbrella,38,2018/12/16,87,F,0,0,0,0,0,1,0,0,1,3,children
+38,2,2,#6,4,8,9,corn,acoustic guitar,basketball,38,2018/12/16,87,F,0,0,0,1,0,0,0,1,0,1,children
+38,2,2,#6,5,7,10,crepe,keyboard harmonica,tuba,38,2018/12/16,87,F,0,0,0,0,1,0,1,0,0,1,children
+38,2,2,#9,0,4,11,tennis,meat,,38,2018/12/16,87,F,0,0,0,1,0,0,0,0,0,1,children
+38,2,2,#9,6,7,12,badminton,baseball,ice cream,38,2018/12/16,87,F,0,0,0,0,0,1,1,0,0,1,children
+39,2,3,#9,4,8,1,acoustic guitar,popper,meat,39,2018/12/24,86,F,0,0,0,0,0,0,0,0,1,2,children
+39,2,3,#9,0,7,2,baseball,ice cream,,39,2018/12/24,86,F,0,0,0,0,0,0,0,0,1,2,children
+39,2,3,#6,6,7,3,cymbal,handbell,pop corn,39,2018/12/24,86,F,0,0,0,0,0,1,0,0,0,1,children
+39,2,3,#6,6,8,4,umbrella,soccer ball,melon soda float,39,2018/12/24,86,F,0,0,0,0,0,1,0,0,0,1,children
+39,2,3,#9,5,7,5,corn,balloon,cheerleader,39,2018/12/24,86,F,0,0,0,0,0,0,0,0,1,2,children
+39,2,3,#9,4,7,6,chiffon cake,electric guitar,table tennis,39,2018/12/24,86,F,0,0,0,0,0,0,0,0,1,2,children
+39,2,3,#9,0,4,7,basketball,watermelon,,39,2018/12/24,86,F,0,0,0,0,0,0,0,0,1,2,children
+39,2,3,#6,5,7,8,pizza,cap,tuba,39,2018/12/24,86,F,0,0,0,0,0,1,0,0,0,1,children
+39,2,3,#6,6,9,9,hamburger,tennis,trumpet,39,2018/12/24,86,F,0,0,0,0,0,1,0,0,0,1,children
+39,2,3,#6,5,9,10,tambourine,chocolate parfait,keyboard harmonica,39,2018/12/24,86,F,0,0,0,0,0,1,0,0,0,1,children
+39,2,3,#9,6,7,11,orange,violin,saxophone,39,2018/12/24,86,F,0,0,0,0,0,0,0,0,1,2,children
+39,2,3,#9,0,6,12,badminton,crepe,,39,2018/12/24,86,F,0,0,0,0,0,0,0,0,1,2,children
+40,2,1,#9,0,7,1,melon soda float,umbrella,,40,2018/12/27,85,F,0,0,0,0,0,0,1,0,0,2,children
+40,2,1,#6,4,8,2,popper,watermelon,trumpet,40,2018/12/27,85,F,0,0,0,1,0,0,0,1,0,1,children
+40,2,1,#9,5,7,3,tuba,soccer ball,chiffon cake,40,2018/12/27,85,F,0,0,0,0,1,0,1,0,0,2,children
+40,2,1,#9,0,5,4,pop corn,saxophone,,40,2018/12/27,85,F,0,0,0,0,1,0,0,0,0,2,children
+40,2,1,#6,5,9,5,electric guitar,chocolate parfait,cap,40,2018/12/27,85,F,0,0,0,0,1,0,0,0,1,1,children
+40,2,1,#9,0,8,6,cymbal,hamburger,,40,2018/12/27,85,F,0,0,0,0,0,0,0,1,0,2,children
+40,2,1,#9,6,8,7,keyboard harmonica,table tennis,crepe,40,2018/12/27,85,F,0,0,0,0,0,1,0,1,0,2,children
+40,2,1,#6,5,8,8,balloon,violin,meat,40,2018/12/27,85,F,0,0,0,0,1,0,0,1,0,1,children
+40,2,1,#6,6,7,9,ice cream,flute,baseball,40,2018/12/27,85,F,0,0,0,0,0,1,1,0,0,1,children
+40,2,1,#9,5,8,10,handbell,corn,basketball,40,2018/12/27,85,F,0,0,0,0,1,0,0,1,0,2,children
+40,2,1,#9,4,8,11,pizza,badminton,tambourine,40,2018/12/27,85,F,0,0,0,1,0,0,0,1,0,2,children
+40,2,1,#9,4,7,12,cheerleader,orange,tennis,40,2018/12/27,85,F,0,0,0,1,0,0,1,0,0,2,children
+41,1,3,#9,6,9,1,badminton,flute,pizza,41,2018/12/28,87,F,0,0,0,0,0,1,0,0,1,1,children
+41,1,3,#9,6,8,2,orange,popper,tennis,41,2018/12/28,87,F,0,0,0,0,0,1,0,1,0,1,children
+41,1,3,#6,4,9,3,cap,ice cream,tuba,41,2018/12/28,87,F,0,0,0,1,0,0,0,0,1,1,children
+41,1,3,#9,5,9,4,pop corn,cymbal,basketball,41,2018/12/28,87,F,0,0,0,0,1,0,0,0,1,1,children
+41,1,3,#9,0,9,5,electric guitar,chiffon cake,,41,2018/12/28,87,F,0,0,0,0,0,0,0,0,1,1,children
+41,1,3,#6,4,7,6,saxophone,cheerleader,hamburger,41,2018/12/28,87,F,0,0,0,1,0,1,0,0,0,1,children
+41,1,3,#6,4,8,7,umbrella,baseball,crepe,41,2018/12/28,87,F,0,0,0,1,0,0,0,1,0,1,children
+41,1,3,#9,0,8,8,violin,corn,,41,2018/12/28,87,F,0,0,0,0,0,0,0,1,0,1,children
+41,1,3,#9,4,9,9,chocolate parfait,keyboard harmonica,tambourine,41,2018/12/28,87,F,0,0,0,1,0,0,0,0,1,1,children
+41,1,3,#9,0,5,10,acoustic guitar,meat,,41,2018/12/28,87,F,0,0,0,0,1,0,0,0,0,1,children
+41,1,3,#6,5,8,11,soccer ball,melon soda float,table tennis,41,2018/12/28,87,F,0,0,0,0,1,0,0,1,0,1,children
+41,1,3,#9,5,8,12,watermelon,ballon,handbell,41,2018/12/28,87,F,0,0,0,0,1,0,0,1,0,1,children
+41,1,2,#9,0,5,1,saxophone,meat,,42,2018/9/16,106,M,0,0,0,0,1,0,0,0,0,2,children
+42,1,2,#9,6,9,2,soccer ball,electric guitar,melon soda float,42,2018/9/16,106,M,0,0,0,0,1,0,0,0,1,2,children
+42,1,2,#6,5,8,3,violin,basketball,watermelon,42,2018/9/16,106,M,0,0,0,0,1,0,0,1,0,1,children
+42,1,2,#9,0,9,4,ice cream,badminton,,42,2018/9/16,106,M,0,0,0,0,0,0,0,0,1,2,children
+42,1,2,#6,4,9,5,cymbal,tennis,corn,42,2018/9/16,106,M,0,0,0,1,0,0,0,0,0,1,children
+42,1,2,#9,0,6,6,flute,pizza,,42,2018/9/16,106,M,0,0,0,0,0,1,0,0,0,2,children
+42,1,2,#9,4,7,7,hamburger,balloon,acoustic guitar,42,2018/9/16,106,M,0,0,0,1,0,0,1,0,0,2,children
+42,1,2,#6,5,9,8,chocolate parfait,baseball,cap,42,2018/9/16,106,M,0,0,0,0,1,0,0,0,0,1,children
+42,1,2,#9,4,9,9,trumpet,pop corn,cheerleader,42,2018/9/16,106,M,0,0,0,1,0,0,0,0,1,2,children
+42,1,2,#9,6,8,10,crepe,tambourine,umbrella,42,2018/9/16,106,M,0,0,0,0,0,1,0,1,0,2,children
+42,1,2,#9,4,8,11,popper,orange,handbell,42,2018/9/16,106,M,0,0,0,1,0,0,0,1,0,2,children
+42,1,2,#6,6,7,12,table tennis,chiffon cake,tuba,42,2018/9/16,106,M,0,0,0,0,0,1,0,0,0,1,children
+42,2,3,#9,0,6,1,badminton,crepe,,43,2018/9/24,105,F,0,0,0,0,0,0,0,0,1,2,children
+43,2,3,#6,6,9,2,hamburger,tennis,trumpet,43,2018/9/24,105,F,0,0,0,0,0,1,0,0,0,1,children
+43,2,3,#6,5,7,3,pizza,cap,tuba,43,2018/9/24,105,F,0,0,0,0,0,0,1,0,0,1,children
+43,2,3,#9,6,7,4,orange,violin,saxophone,43,2018/9/24,105,F,0,0,0,0,0,0,0,0,1,2,children
+43,2,3,#6,6,8,5,umbrella,soccer ball,melon soda float,43,2018/9/24,105,F,0,0,0,0,0,1,0,0,0,1,children
+43,2,3,#9,4,8,6,acoustic guitar,popper,meat,43,2018/9/24,105,F,0,0,0,0,0,0,0,0,1,2,children
+43,2,3,#9,0,7,7,baseball,ice cream,,43,2018/9/24,105,F,0,0,0,0,0,0,0,0,1,2,children
+43,2,3,#6,6,7,8,cymbal,handbell,pop corn,43,2018/9/24,105,F,0,0,0,0,0,1,0,0,0,1,children
+43,2,3,#9,4,7,9,chiffon cake,electric guitar,table tennis,43,2018/9/24,105,F,0,0,0,0,0,0,0,0,1,2,children
+43,2,3,#9,0,4,10,basketball,watermelon,,43,2018/9/24,105,F,0,0,0,0,0,0,0,0,1,2,children
+43,2,3,#6,5,9,11,tambourine,chocolate parfait,keyboard harmonica,43,2018/9/24,105,F,0,0,0,0,0,1,0,0,0,1,children
+43,2,3,#9,5,7,12,corn,balloon,cheerleader,43,2018/9/24,105,F,0,0,0,0,0,0,0,0,1,2,children
+43,1,2,#9,4,7,1,hamburger,balloon,acoustic guitar,44,2018/11/4,104,M,0,0,0,1,0,0,1,0,0,2,children
+44,1,2,#9,0,9,2,ice cream,badminton,,44,2018/11/4,104,M,0,0,0,0,0,0,0,0,1,2,children
+44,1,2,#9,4,8,3,popper,orange,handbell,44,2018/11/4,104,M,0,0,0,1,0,0,0,1,0,2,children
+44,1,2,#6,6,7,4,table tennis,chiffon cake,tuba,44,2018/11/4,104,M,0,0,0,0,0,1,0,0,0,1,children
+44,1,2,#9,4,9,5,trumpet,pop corn,cheerleader,44,2018/11/4,104,M,0,0,0,1,0,0,0,0,1,2,children
+44,1,2,#9,0,6,6,flute,pizza,,44,2018/11/4,104,M,0,0,0,0,0,1,0,0,0,2,children
+44,1,2,#6,5,8,7,violin,basketball,watermelon,44,2018/11/4,104,M,0,0,0,0,1,0,0,0,0,1,children
+44,1,2,#9,6,9,8,soccer ball,electric guitar,melon soda float,44,2018/11/4,104,M,0,0,0,0,0,1,0,0,1,2,children
+44,1,2,#9,0,5,9,saxophone,meat,,44,2018/11/4,104,M,0,0,0,0,1,0,0,0,0,2,children
+44,1,2,#6,5,9,10,chocolate parfait,baseball,cap,44,2018/11/4,104,M,0,0,0,0,1,0,0,0,0,1,children
+44,1,2,#6,4,9,11,cymbal,tennis,corn,44,2018/11/4,104,M,0,0,0,1,0,0,0,0,0,1,children
+44,1,2,#9,6,8,12,crepe,tambourine,umbrella,44,2018/11/4,104,M,0,0,0,0,0,1,0,1,0,2,children
+44,2,1,#9,4,9,1,popper,violin,hamburger,45,2018/11/4,98,F,1,1,1,0,1,1,1,1,0,2,children
+45,2,1,#9,0,9,2,ice cream,tambourine,,45,2018/11/4,98,F,1,1,1,1,1,1,1,1,0,2,children
+45,2,1,#6,5,7,3,meat,handbell,trumpet,45,2018/11/4,98,F,0,0,0,0,0,0,1,0,0,1,children
+45,2,1,#9,5,9,4,table tennis,keyboard harmonica,crepe,45,2018/11/4,98,F,1,1,1,1,0,1,1,1,0,2,children
+45,2,1,#6,4,7,5,cymbal,watermelon,tennis,45,2018/11/4,98,F,1,1,1,0,1,1,0,1,1,1,children
+45,2,1,#9,6,9,6,flute,pizza,badminton,45,2018/11/4,98,F,1,1,1,1,1,0,1,1,0,2,children
+45,2,1,#6,6,9,7,cheerleader,orange,saxophone,45,2018/11/4,98,F,0,0,0,0,0,1,0,0,0,1,children
+45,2,1,#6,6,8,8,chiffon cake,tuba,cap,45,2018/11/4,98,F,0,0,0,0,0,1,0,0,0,1,children
+45,2,1,#9,0,4,9,balloon,pop corn,,45,2018/11/4,98,F,1,1,1,0,1,1,1,1,1,2,children
+45,2,1,#6,4,9,10,electric guitar,chocolate parfait,umbrella,45,2018/11/4,98,F,1,1,1,0,1,1,1,1,0,1,children
+45,2,1,#9,6,7,11,basketball,acoustic guitar,meat,45,2018/11/4,98,F,0,0,0,0,0,1,0,0,0,2,children
+45,2,1,#9,0,6,12,baseball,melon soda float,,45,2018/11/4,98,F,1,1,1,1,1,0,1,1,1,2,children
+45,2,2,#6,5,7,1,crepe,keyboard harmonica,tuba,46,2018/11/11,106,M,0,0,0,0,1,0,1,0,0,1,children
+46,2,2,#9,0,7,2,balloon,pop corn,,46,2018/11/11,106,M,0,0,0,0,0,0,1,0,0,2,children
+46,2,2,#6,6,8,3,table tennis,electric guitar,chiffon cake,46,2018/11/11,106,M,0,0,0,0,0,1,0,1,0,1,children
+46,2,2,#9,5,7,4,cheerleader,violin,orange,46,2018/11/11,106,M,0,0,0,0,1,0,1,0,0,2,children
+46,2,2,#6,6,9,5,soccer ball,pizza,umbrella,46,2018/11/11,106,M,0,0,0,0,0,1,0,0,1,1,children
+46,2,2,#9,5,8,6,popper,watermelon,cymbal,46,2018/11/11,106,M,0,0,0,0,1,0,0,1,0,2,children
+46,2,2,#9,0,8,7,melon soda float,flute,,46,2018/11/11,106,M,0,0,0,0,0,0,0,1,0,2,children
+46,2,2,#6,4,7,8,hamburger,saxophone,trumpet,46,2018/11/11,106,M,0,0,0,1,0,0,1,0,0,1,children
+46,2,2,#9,5,9,9,tambourine,chocolate parfait,cap,46,2018/11/11,106,M,0,0,0,0,1,0,0,0,1,2,children
+46,2,2,#9,0,4,10,tennis,meat,,46,2018/11/11,106,M,0,0,0,1,0,0,0,0,0,2,children
+46,2,2,#9,6,7,11,badminton,baseball,ice cream,46,2018/11/11,106,M,0,0,0,0,0,1,1,0,0,2,children
+46,2,2,#6,4,8,12,corn,acoustic guitar,basketball,46,2018/11/11,106,M,0,0,0,1,0,0,0,1,0,1,children
+46,2,1,#9,6,8,1,keyboard harmonica,table tennis,crepe,47,2018/11/17,106,F,0,0,0,0,0,1,0,1,0,1,children
+47,2,1,#6,5,8,2,balloon,violin,meat,47,2018/11/17,106,F,0,0,0,0,1,0,0,1,0,1,children
+47,2,1,#9,5,7,3,tuba,soccer ball,chiffon cake,47,2018/11/17,106,F,0,0,0,0,1,0,1,0,0,1,children
+47,2,1,#6,4,8,4,popper,watermelon,trumpet,47,2018/11/17,106,F,0,0,0,1,0,0,0,1,0,1,children
+47,2,1,#6,6,7,5,ice cream,flute,baseball,47,2018/11/17,106,F,0,0,0,0,0,1,1,0,0,1,children
+47,2,1,#9,4,7,6,cheerleader,orange,tennis,47,2018/11/17,106,F,0,0,0,1,0,0,1,0,0,1,children
+47,2,1,#9,0,7,7,melon soda float,umbrella,,47,2018/11/17,106,F,0,0,0,0,0,0,1,0,0,1,children
+47,2,1,#9,5,8,8,handbell,corn,basketball,47,2018/11/17,106,F,0,0,0,0,1,0,0,1,0,1,children
+47,2,1,#6,5,9,9,electric guitar,chocolate parfait,cap,47,2018/11/17,106,F,0,0,0,0,1,0,0,0,1,1,children
+47,2,1,#9,0,5,10,pop corn,saxophone,,47,2018/11/17,106,F,0,0,0,0,1,0,0,0,0,1,children
+47,2,1,#9,4,8,11,pizza,badminton,tambourine,47,2018/11/17,106,F,0,0,0,1,0,0,0,1,0,1,children
+47,2,1,#9,0,8,12,cymbal,hamburger,,47,2018/11/17,106,F,0,0,0,0,0,0,0,1,0,1,children
+47,2,3,#6,6,7,1,cymbal,handbell,pop corn,48,2018/11/18,96,F,0,0,0,0,0,1,0,0,0,1,children
+48,2,3,#9,0,6,2,badminton,crepe,,48,2018/11/18,96,F,0,0,0,0,0,1,0,0,0,2,children
+48,2,3,#9,6,7,3,orange,violin,saxophone,48,2018/11/18,96,F,0,0,0,0,0,1,0,0,0,2,children
+48,2,3,#6,5,7,4,pizza,cap,tuba,48,2018/11/18,96,F,0,0,0,0,1,0,0,0,0,1,children
+48,2,3,#6,6,9,5,hamburger,tennis,trumpet,48,2018/11/18,96,F,0,0,0,0,0,1,0,0,0,1,children
+48,2,3,#9,4,7,6,chiffon cake,electric guitar,table tennis,48,2018/11/18,96,F,0,0,0,0,0,0,1,0,0,2,children
+48,2,3,#9,4,8,7,acoustic guitar,popper,meat,48,2018/11/18,96,F,0,0,0,0,0,0,0,1,0,2,children
+48,2,3,#6,6,8,8,umbrella,soccer ball,melon soda float,48,2018/11/18,96,F,0,0,0,0,0,1,0,0,0,1,children
+48,2,3,#9,0,4,9,basketball,watermelon,,48,2018/11/18,96,F,0,0,0,1,0,0,0,0,0,2,children
+48,2,3,#6,5,9,10,tambourine,chocolate parfait,keyboard harmonica,48,2018/11/18,96,F,0,0,0,0,1,0,0,0,0,1,children
+48,2,3,#9,5,7,11,corn,balloon,cheerleader,48,2018/11/18,96,F,0,0,0,0,0,0,1,0,0,2,children
+48,2,3,#9,0,7,12,baseball,ice cream,,48,2018/11/18,96,F,0,0,0,0,0,0,1,0,0,2,children
+48,1,3,#9,0,8,1,violin,corn,,49,2018/11/21,106,F,1,1,1,1,1,1,1,1,1,2,children
+49,1,3,#6,5,8,2,soccer ball,melon soda float,table tennis,49,2018/11/21,106,F,1,1,1,1,1,1,0,0,0,1,children
+49,1,3,#9,5,9,3,pop corn,cymbal,basketball,49,2018/11/21,106,F,1,1,1,1,1,1,1,1,1,2,children
+49,1,3,#6,4,8,4,umbrella,baseball,crepe,49,2018/11/21,106,F,1,1,1,1,1,1,0,0,0,1,children
+49,1,3,#9,6,8,5,orange,popper,tennis,49,2018/11/21,106,F,1,1,1,1,1,1,1,1,1,2,children
+49,1,3,#9,4,9,6,chocolate parfait,keyboard harmonica,tambourine,49,2018/11/21,106,F,1,1,1,1,1,1,1,1,1,2,children
+49,1,3,#9,0,5,7,acoustic guitar,meat,,49,2018/11/21,106,F,1,1,1,1,1,1,1,1,1,2,children
+49,1,3,#6,4,9,8,cap,ice cream,tuba,49,2018/11/21,106,F,1,1,1,1,1,1,1,1,1,2,children
+49,1,3,#9,5,8,9,watermelon,balloon,handbell,49,2018/11/21,106,F,1,1,1,1,1,1,1,1,1,2,children
+49,1,3,#9,0,9,10,electric guitar,chiffon cake,,49,2018/11/21,106,F,1,1,1,1,1,1,1,1,1,2,children
+49,1,3,#6,4,7,11,saxophone,cheerleader,hamburger,49,2018/11/21,106,F,1,1,1,1,1,1,1,1,1,1,children
+49,1,3,#9,6,9,12,badminton,flute,pizza,49,2018/11/21,106,F,1,1,1,1,1,1,1,1,1,2,children
+49,1,3,#6,4,8,1,umbrella,baseball,crepe,50,2018/11/22,101,M,1,1,1,0,1,1,0,1,1,1,children
+50,1,3,#6,4,7,2,saxophone,cheerleader,hamburger,50,2018/11/22,101,M,1,1,1,0,1,1,0,1,1,1,children
+50,1,3,#9,0,9,3,electric guitar,chiffon cake,,50,2018/11/22,101,M,1,1,1,1,1,1,1,1,0,2,children
+50,1,3,#9,5,9,4,pop corn,cymbal,basketball,50,2018/11/22,101,M,1,1,1,1,1,0,1,1,0,2,children
+50,1,3,#6,4,9,5,cap,ice cream,tuba,50,2018/11/22,101,M,1,1,1,1,1,0,1,1,0,1,children
+50,1,3,#9,6,8,6,orange,popper,tennis,50,2018/11/22,101,M,1,1,1,1,1,0,1,0,1,2,children
+50,1,3,#9,6,9,7,badminton,flute,pizza,50,2018/11/22,101,M,1,1,1,1,1,0,1,1,0,2,children
+50,1,3,#9,0,5,8,acoustic guitar,meat,,50,2018/11/22,101,M,1,1,1,1,1,0,1,1,0,2,children
+50,1,3,#6,5,8,9,soccer ball,melon soda float,table tennis,50,2018/11/22,101,M,1,1,1,1,0,1,1,1,0,1,children
+50,1,3,#9,5,8,10,watermelon,balloon,handbell,50,2018/11/22,101,M,1,1,1,1,0,1,1,0,1,1,children
+50,1,3,#9,4,9,11,chocolate parfait,keyboard harmonica,tambourine,50,2018/11/22,101,M,1,1,1,1,0,1,1,1,0,2,children
+50,1,3,#9,0,8,12,violin,corn,,50,2018/11/22,101,M,1,1,1,1,1,1,1,0,1,2,children
+50,2,2,#9,5,8,1,popper,watermelon,cymbal,51,2018/11/22,103,M,0,0,0,0,0,0,0,1,0,2,children
+51,2,2,#6,5,7,2,crepe,keyboard harmonica,tuba,51,2018/11/22,103,M,0,0,0,0,0,0,1,0,0,1,children
+51,2,2,#9,5,7,3,cheerleader,violin,orange,51,2018/11/22,103,M,0,0,0,0,0,0,1,0,0,2,children
+51,2,2,#9,6,7,4,badminton,baseball,ice cream,51,2018/11/22,103,M,0,0,0,0,0,0,0,1,0,2,children
+51,2,2,#9,0,4,5,tennis,meat,,51,2018/11/22,103,M,0,0,0,1,0,0,0,0,0,2,children
+51,2,2,#6,6,9,6,soccer ball,pizza,umbrella,51,2018/11/22,103,M,0,0,0,0,0,1,0,0,0,1,children
+51,2,2,#9,0,7,7,balloon,pop corn,,51,2018/11/22,103,M,0,0,0,0,0,0,1,0,0,2,children
+51,2,2,#6,6,8,8,table tennis,electric guitar,chiffon cake,51,2018/11/22,103,M,0,0,0,0,0,1,0,0,0,1,children
+51,2,2,#6,4,7,9,hamburger,saxophone,trumpet,51,2018/11/22,103,M,0,0,0,0,1,0,0,0,0,1,children
+51,2,2,#9,5,9,10,tambourine,chocolate parfait,cap,51,2018/11/22,103,M,0,0,0,0,0,0,0,0,1,2,children
+51,2,2,#6,4,8,11,corn,acoustic guitar,basketball,51,2018/11/22,103,M,0,0,0,1,0,0,0,0,0,1,children
+51,2,2,#9,0,8,12,melon soda float,flute,,51,2018/11/22,103,M,0,0,0,0,0,0,0,1,0,2,children
+51,2,1,#9,0,9,1,ice cream,tambourine,,52,2018/11/24,106,F,0,0,0,0,0,0,0,0,1,2,children
+52,2,1,#6,6,9,2,cheerleader,orange,saxophone,52,2018/11/24,106,F,0,0,0,0,0,1,0,0,0,1,children
+52,2,1,#9,6,9,3,flute,pizza,badminton,52,2018/11/24,106,F,0,0,0,0,0,0,0,0,1,2,children
+52,2,1,#9,6,7,4,basketball,acoustic guitar,meat,52,2018/11/24,106,F,0,0,0,0,0,1,1,0,0,2,children
+52,2,1,#9,0,6,5,baseball,melon soda float,,52,2018/11/24,106,F,0,0,0,0,0,1,0,0,0,2,children
+52,2,1,#6,4,7,6,cymbal,watermelon,tennis,52,2018/11/24,106,F,0,0,0,1,0,0,0,0,0,1,children
+52,2,1,#6,6,8,7,chiffon cake,tuba,cap,52,2018/11/24,106,F,0,0,0,0,0,1,0,0,0,1,children
+52,2,1,#9,0,4,8,balloon,pop corn,,52,2018/11/24,106,F,0,0,0,1,0,0,0,0,0,2,children
+52,2,1,#6,4,9,9,electric guitar,chocolate parfait,umbrella,52,2018/11/24,106,F,0,0,0,1,0,0,0,0,0,1,children
+52,2,1,#9,4,9,10,popper,violin,hamburger,52,2018/11/24,106,F,0,0,0,0,0,0,0,0,1,2,children
+52,2,1,#9,5,9,11,table tennis,keyboard harmonica,crepe,52,2018/11/24,106,F,0,0,0,0,0,0,0,0,1,2,children
+52,2,1,#6,5,7,12,meat,handbell,trumpet,52,2018/11/24,106,F,0,0,0,0,1,0,0,0,0,1,children
+52,2,1,#9,0,5,1,pop corn,saxophone,,53,2018/11/25,99,M,0,0,0,0,0,0,0,0,1,2,children
+53,2,1,#9,5,7,2,tuba,soccer ball,chiffon cake,53,2018/11/25,99,M,0,0,0,0,0,0,0,0,1,2,children
+53,2,1,#9,0,8,3,cymbal,hamburger,,53,2018/11/25,99,M,0,0,0,0,0,0,0,0,1,2,children
+53,2,1,#6,6,7,4,ice cream,flute,baseball,53,2018/11/25,99,M,0,0,0,0,0,1,0,0,0,1,children
+53,2,1,#6,4,8,5,popper,watermelon,trumpet,53,2018/11/25,99,M,0,0,0,0,0,1,0,0,0,1,children
+53,2,1,#9,6,8,6,keyboard harmonica,table tennis,crepe,53,2018/11/25,99,M,0,0,0,0,0,0,0,0,1,2,children
+53,2,1,#9,4,7,7,cheerleader,orange,tennis,53,2018/11/25,99,M,0,0,0,0,0,0,0,0,1,2,children
+53,2,1,#9,4,8,8,pizza,badminton,tambourine,53,2018/11/25,99,M,0,0,0,0,0,0,0,0,1,2,children
+53,2,1,#6,5,8,9,balloon,violin,meat,53,2018/11/25,99,M,0,0,0,0,0,1,0,0,0,1,children
+53,2,1,#6,5,9,10,electric guitar,chocolate parfait,cap,53,2018/11/25,99,M,0,0,0,0,0,1,0,0,0,1,children
+53,2,1,#9,5,8,11,handbell,corn,basketball,53,2018/11/25,99,M,0,0,0,0,0,0,0,0,1,2,children
+53,2,1,#9,0,7,12,melon soda float,umbrella,,53,2018/11/25,99,M,0,0,0,0,0,0,0,0,1,2,children
+53,2,3,#9,0,4,1,basketball,watermelon,,54,2018/11/25,96,F,0,0,0,1,0,0,0,0,0,2,children
+54,2,3,#6,6,8,2,umbrella,soccer ball,melon soda float,54,2018/11/25,96,F,0,0,0,0,0,1,0,0,0,1,children
+54,2,3,#9,5,7,3,corn,balloon,cheerleader,54,2018/11/25,96,F,0,0,0,0,0,0,1,0,0,2,children
+54,2,3,#9,4,7,4,chiffon cake,electric guitar,table tennis,54,2018/11/25,96,F,0,0,0,0,0,0,1,0,0,2,children
+54,2,3,#6,6,7,5,cymbal,handbell,pop corn,54,2018/11/25,96,F,0,0,0,0,0,1,0,0,0,1,children
+54,2,3,#9,0,6,6,badminton,crepe,,54,2018/11/25,96,F,0,0,0,0,0,1,0,0,0,2,children
+54,2,3,#9,6,7,7,orange,violin,saxophone,54,2018/11/25,96,F,0,0,0,0,0,0,1,0,0,2,children
+54,2,3,#6,5,9,8,tambourine,chocolate parfait,keyboard harmonica,54,2018/11/25,96,F,0,0,0,0,1,0,0,0,0,1,children
+54,2,3,#6,6,9,9,hamburger,tennis,trumpet,54,2018/11/25,96,F,0,0,0,0,1,0,0,0,0,1,children
+54,2,3,#6,5,7,10,pizza,cap,tuba,54,2018/11/25,96,F,0,0,0,0,1,0,0,0,0,1,children
+54,2,3,#9,4,8,11,acoustic guitar,popper,meat,54,2018/11/25,96,F,0,0,0,0,0,0,0,1,0,2,children
+54,2,3,#9,0,7,12,baseball,ice cream,,54,2018/11/25,96,F,0,0,0,0,0,0,1,0,0,2,children
+54,2,2,#6,4,8,1,corn,acoustic guitar,basketball,55,2018/11/26,101,F,1,1,1,0,1,1,0,1,1,1,children
+55,2,2,#9,6,7,2,badminton,baseball,ice cream,55,2018/11/26,101,F,1,1,1,1,1,0,0,1,1,2,children
+55,2,2,#9,5,7,3,cheerleader,violin,orange,55,2018/11/26,101,F,1,1,1,0,1,1,1,0,1,2,children
+55,2,2,#9,0,8,4,melon soda float,flute,,55,2018/11/26,101,F,1,1,1,1,1,1,1,0,1,2,children
+55,2,2,#6,4,7,5,hamburger,saxophone,trumpet,55,2018/11/26,101,F,1,1,1,0,1,1,0,1,1,1,children
+55,2,2,#6,6,8,6,table tennis,electric guitar,chiffon cake,55,2018/11/26,101,F,1,1,1,1,1,0,1,0,1,1,children
+55,2,2,#9,5,8,7,popper,watermelon,cymbal,55,2018/11/26,101,F,1,1,1,1,0,1,1,0,1,2,children
+55,2,2,#9,5,9,8,tambourine,chocolate parfait,cap,55,2018/11/26,101,F,1,1,1,1,0,1,1,1,0,2,children
+55,2,2,#9,0,7,9,balloon,pop corn,,55,2018/11/26,101,F,1,1,1,1,1,1,0,1,1,2,children
+55,2,2,#6,6,9,10,soccer ball,pizza,umbrella,55,2018/11/26,101,F,1,1,1,1,1,0,1,1,0,1,children
+55,2,2,#9,0,4,11,tennis,meat,,55,2018/11/26,101,F,1,1,1,0,1,1,1,1,1,2,children
+55,2,2,#6,5,7,12,crepe,keyboard harmonica,tuba,55,2018/11/26,101,F,1,1,1,1,0,1,0,1,1,1,children
+55,1,2,#9,4,9,1,trumpet,pop corn,cheerleader,56,2018/12/3,97,F,0,0,0,1,0,0,0,0,1,2,children
+56,1,2,#9,6,8,2,crepe,tambourine,umbrella,56,2018/12/3,97,F,0,0,0,0,0,1,0,1,0,2,children
+56,1,2,#9,0,5,3,saxophone,meat,,56,2018/12/3,97,F,0,0,0,0,1,0,0,0,0,2,children
+56,1,2,#6,6,7,4,table tennis,chiffon cake,tuba,56,2018/12/3,97,F,0,0,0,0,0,1,0,0,0,1,children
+56,1,2,#9,4,8,5,popper,orange,handbell,56,2018/12/3,97,F,0,0,0,1,0,0,0,1,0,2,children
+56,1,2,#9,0,9,6,ice cream,badminton,,56,2018/12/3,97,F,0,0,0,0,0,0,0,0,1,2,children
+56,1,2,#6,4,9,7,cymbal,tennis,corn,56,2018/12/3,97,F,0,0,0,1,0,0,0,0,0,1,children
+56,1,2,#9,6,9,8,soccer ball,electric guitar,melon soda float,56,2018/12/3,97,F,0,0,0,0,0,1,0,0,1,2,children
+56,1,2,#9,4,7,9,hamburger,balloon,acoustic guitar,56,2018/12/3,97,F,0,0,0,1,0,0,1,0,0,2,children
+56,1,2,#6,5,9,10,chocolate parfait,baseball,cap,56,2018/12/3,97,F,0,0,0,0,1,0,0,0,0,1,children
+56,1,2,#6,5,8,11,violin,basketball,watermelon,56,2018/12/3,97,F,0,0,0,0,1,0,0,0,0,1,children
+56,1,2,#9,0,6,12,flute,pizza,,56,2018/12/3,97,F,0,0,0,0,0,1,0,0,0,2,children
+56,2,2,#9,0,4,1,tennis,meat,,57,2018/12/2,100,M,0,0,1,0,0,0,0,0,0,2,children
+57,2,2,#9,6,7,2,badminton,baseball,ice cream,57,2018/12/2,100,M,0,0,0,0,0,1,0,0,0,2,children
+57,2,2,#9,5,7,3,cheerleader,violin,orange,57,2018/12/2,100,M,0,0,0,0,1,0,0,0,0,2,children
+57,2,2,#6,6,8,4,table tennis,electric guitar,chiffon cake,57,2018/12/2,100,M,0,0,0,0,0,1,0,0,0,1,children
+57,2,2,#9,0,7,5,balloon,pop corn,,57,2018/12/2,100,M,0,0,0,0,0,0,1,0,0,2,children
+57,2,2,#9,5,9,6,tambourine,chocolate parfait,cap,57,2018/12/2,100,M,0,0,0,0,1,0,0,0,0,2,children
+57,2,2,#6,4,8,7,corn,acoustic guitar,basketball,57,2018/12/2,100,M,0,0,0,0,0,0,0,1,0,2,children
+57,2,2,#6,6,9,8,soccer ball,pizza,umbrella,57,2018/12/2,100,M,0,0,0,0,0,1,0,0,0,1,children
+57,2,2,#9,5,8,9,popper,watermelon,cymbal,57,2018/12/2,100,M,0,0,0,0,1,0,0,0,0,2,children
+57,2,2,#6,5,7,10,crepe,keyboard harmonica,tuba,57,2018/12/2,100,M,0,0,0,0,1,0,0,0,0,1,children
+57,2,2,#6,4,7,11,hamburger,saxophone,trumpet,57,2018/12/2,100,M,0,0,0,1,0,0,0,0,0,1,children
+57,2,2,#9,0,8,12,melon soda float,flute,,57,2018/12/2,100,M,0,0,0,0,0,0,0,1,0,2,children
+57,2,3,#9,4,7,1,chiffon cake,electric guitar,table tennis,58,2018/12/2,100,M,0,0,0,0,0,0,0,0,1,2,children
+58,2,3,#9,5,7,2,corn,balloon,cheerleader,58,2018/12/2,100,M,0,0,0,0,0,0,0,0,1,2,children
+58,2,3,#9,0,6,3,badminton,crepe,,58,2018/12/2,100,M,0,0,0,0,0,0,0,0,1,2,children
+58,2,3,#6,6,7,4,cymbal,handbell,pop corn,58,2018/12/2,100,M,0,0,0,0,0,1,0,0,0,1,children
+58,2,3,#9,0,7,5,baseball,ice cream,,58,2018/12/2,100,M,0,0,0,0,0,0,0,0,1,2,children
+58,2,3,#9,4,8,6,acoustic guitar,popper,meat,58,2018/12/2,100,M,0,0,0,0,0,0,0,0,1,2,children
+58,2,3,#6,5,9,7,tambourine,chocolate parfait,keyboard harmonica,58,2018/12/2,100,M,0,0,0,0,0,1,0,0,0,1,children
+58,2,3,#9,6,7,8,orange,violin,saxophone,58,2018/12/2,100,M,0,0,0,0,0,0,0,0,1,2,children
+58,2,3,#6,5,7,9,pizza,cap,tuba,58,2018/12/2,100,M,0,0,0,0,0,1,0,0,0,1,children
+58,2,3,#9,0,4,10,basketball,watermelon,,58,2018/12/2,100,M,0,0,0,0,0,0,0,0,1,2,children
+58,2,3,#6,6,8,11,umbrella,soccer ball,melon soda float,58,2018/12/2,100,M,0,0,0,0,0,1,0,0,0,1,children
+58,2,3,#6,6,9,12,hamburger,tennis,trumpet,58,2018/12/2,100,M,0,0,0,0,0,1,0,0,0,1,children
+58,2,1,#6,6,9,1,cheerleader,orange,saxophone,59,2018/12/28,102,M,0,0,0,0,0,1,0,0,0,1,children
+59,2,1,#9,5,9,2,table tennis,keyboard harmonica,crepe,59,2018/12/28,102,M,0,0,0,0,0,0,0,0,1,2,children
+59,2,1,#9,6,7,3,basketball,acoustic guitar,meat,59,2018/12/28,102,M,0,0,0,0,0,0,1,0,0,2,children
+59,2,1,#6,6,8,4,chiffon cake,tuba,cap,59,2018/12/28,102,M,0,0,0,0,0,1,0,0,0,1,children
+59,2,1,#9,0,4,5,balloon,pop corn,,59,2018/12/28,102,M,0,0,0,1,0,0,0,0,0,2,children
+59,2,1,#9,6,9,6,flute,pizza,badminton,59,2018/12/28,102,M,0,0,0,0,0,0,0,0,1,2,children
+59,2,1,#6,4,7,7,cymbal,watermelon,tennis,59,2018/12/28,102,M,0,0,0,1,0,0,0,0,0,1,children
+59,2,1,#6,4,9,8,electric guitar,chocolate parfait,umbrella,59,2018/12/28,102,M,0,0,0,1,0,0,0,0,0,1,children
+59,2,1,#9,4,9,9,popper,violin,hamburger,59,2018/12/28,102,M,0,0,0,0,0,0,0,0,1,2,children
+59,2,1,#9,0,6,10,baseball,melon soda float,,59,2018/12/28,102,M,0,0,0,0,0,1,0,0,0,2,children
+59,2,1,#6,5,7,11,meat,handbell,trumpet,59,2018/12/28,102,M,0,0,0,0,1,0,0,0,0,2,children
+59,2,1,#9,0,9,12,ice cream,tambourine,,59,2018/12/28,102,M,0,0,0,0,0,0,0,0,1,2,children
+59,1,1,#6,4,7,1,cymbal,watermelon,tennis,60,2018/9/10,111,F,0,0,1,0,0,0,0,0,0,1,children
+60,1,1,#9,5,9,2,table tennis,keyboard harmonica,crepe,60,2018/9/10,111,F,0,0,0,0,0,0,0,0,1,2,children
+60,1,1,#9,0,4,3,balloon,pop corn,,60,2018/9/10,111,F,0,0,0,0,0,0,0,0,1,2,children
+60,1,1,#6,6,8,4,chiffon cake,tuba,cap,60,2018/9/10,111,F,0,0,0,0,1,0,0,0,0,1,children
+60,1,1,#9,4,9,5,popper,violin,hamburger,60,2018/9/10,111,F,0,0,0,0,0,0,0,0,1,2,children
+60,1,1,#6,4,9,6,electric guitar,chocolate parfait,umbrella,60,2018/9/10,111,F,0,0,0,0,0,1,0,0,0,1,children
+60,1,1,#9,6,7,7,basketball,acoustic guitar,meat,60,2018/9/10,111,F,0,0,0,0,0,0,0,0,1,2,children
+60,1,1,#9,0,6,8,baseball,melon soda float,,60,2018/9/10,111,F,0,0,0,0,0,0,0,0,1,2,children
+60,1,1,#6,5,7,9,corn,handbell,trumpet,60,2018/9/10,111,F,0,0,0,0,0,1,0,0,0,1,children
+60,1,1,#9,0,9,10,ice cream,tambourine,,60,2018/9/10,111,F,0,0,0,0,0,0,0,0,1,2,children
+60,1,1,#6,6,9,11,cheerleader,orange,saxophone,60,2018/9/10,111,F,0,0,0,0,0,1,0,0,0,1,children
+60,1,1,#9,6,9,12,flute,pizza,badminton,60,2018/9/10,111,F,0,0,0,0,0,0,0,0,1,2,children
+60,2,1,#9,4,7,1,cheerleader,orange,tennis,61,2018/9/16,123,M,0,0,0,0,0,0,0,0,1,2,children
+61,2,1,#9,6,8,2,keyboard harmonica,table tennis,crepe,61,2018/9/16,123,M,0,0,0,0,0,0,0,0,1,2,children
+61,2,1,#9,5,8,3,handbell,corn,basketball,61,2018/9/16,123,M,0,0,0,0,0,0,0,0,1,2,children
+61,2,1,#6,6,7,4,ice cream,flute,baseball,61,2018/9/16,123,M,0,0,0,0,1,0,0,0,0,1,children
+61,2,1,#9,0,5,5,pop corn,saxophone,,61,2018/9/16,123,M,0,0,0,0,0,0,0,0,1,2,children
+61,2,1,#9,5,7,6,tuba,soccer ball,chiffon cake,61,2018/9/16,123,M,0,0,0,0,0,0,0,0,1,2,children
+61,2,1,#6,4,8,7,popper,watermelon,trumpet,61,2018/9/16,123,M,0,0,0,0,0,1,0,0,0,1,children
+61,2,1,#6,5,9,8,electric guitar,chocolate parfait,cap,61,2018/9/16,123,M,0,0,0,0,0,1,0,0,0,1,children
+61,2,1,#9,0,8,9,cymbal,hamburger,,61,2018/9/16,123,M,0,0,0,0,0,0,0,0,1,2,children
+61,2,1,#9,4,8,10,pizza,badminton,tambourine,61,2018/9/16,123,M,0,0,0,0,0,0,0,0,1,2,children
+61,2,1,#6,5,8,11,balloon,violin,meat,61,2018/9/16,123,M,0,0,0,0,0,1,0,0,0,1,children
+61,2,1,#9,0,7,12,melon soda float,umbrella,,61,2018/9/16,123,M,0,0,0,0,0,0,0,0,1,2,children
+61,1,2,#9,6,8,1,crepe,tambourine,umbrella,62,2018/9/22,117,F,0,0,0,0,0,1,0,1,0,2,children
+62,1,2,#9,0,5,2,saxophone,meat,,62,2018/9/22,117,F,0,0,0,0,1,0,0,0,0,2,children
+62,1,2,#6,6,7,3,table tennis,chiffon cake,tuba,62,2018/9/22,117,F,0,0,0,0,0,1,1,0,0,1,children
+62,1,2,#9,4,7,4,hamburger,balloon,acoustic guitar,62,2018/9/22,117,F,0,0,0,1,0,0,1,0,0,2,children
+62,1,2,#9,0,9,5,ice cream,badminton,,62,2018/9/22,117,F,0,0,0,0,0,0,0,0,1,2,children
+62,1,2,#6,5,8,6,violin,basketball,watermelon,62,2018/9/22,117,F,0,0,0,0,1,0,0,1,0,1,children
+62,1,2,#6,5,9,7,chocolate parfait,baseball,cap,62,2018/9/22,117,F,0,0,0,0,1,0,0,0,1,1,children
+62,1,2,#9,4,8,8,popper,orange,handbell,62,2018/9/22,117,F,0,0,0,1,0,0,0,1,0,2,children
+62,1,2,#9,6,9,9,soccer ball,electric guitar,melon soda float,62,2018/9/22,117,F,0,0,0,0,0,1,0,0,1,2,children
+62,1,2,#6,4,9,10,cymbal,tennis,corn,62,2018/9/22,117,F,0,0,0,1,0,0,0,0,1,1,children
+62,1,2,#9,0,6,11,flute,pizza,,62,2018/9/22,117,F,0,0,0,0,0,1,0,0,0,2,children
+62,1,2,#9,4,9,12,trumpet,pop corn,cheerleader,62,2018/9/22,117,F,0,0,0,1,0,0,0,0,1,2,children
+62,2,1,#9,0,8,1,cymbal,hamburger,,63,2018/9/22,118,M,0,0,0,0,0,0,0,1,0,2,children
+63,2,1,#9,6,8,2,keyboard harmonica,table tennis,crepe,63,2018/9/22,118,M,0,0,0,0,0,1,0,1,0,2,children
+63,2,1,#6,5,8,3,balloon,violin,meat,63,2018/9/22,118,M,0,0,0,0,1,0,0,1,0,1,children
+63,2,1,#9,5,7,4,tuba,soccer ball,chiffon cake,63,2018/9/22,118,M,0,0,0,0,1,0,1,0,0,2,children
+63,2,1,#9,0,5,5,pop corn,saxophone,,63,2018/9/22,118,M,0,0,0,0,1,0,0,0,0,2,children
+63,2,1,#9,4,8,6,pizza,badminton,tambourine,63,2018/9/22,118,M,0,0,0,1,0,0,0,1,0,2,children
+63,2,1,#6,4,8,7,popper,watermelon,trumpet,63,2018/9/22,118,M,0,0,0,1,0,0,0,1,0,1,children
+63,2,1,#6,5,9,8,electric guitar,chocolate parfait,cap,63,2018/9/22,118,M,0,0,0,0,1,0,0,0,1,1,children
+63,2,1,#9,4,7,9,cheerleader,orange,tennis,63,2018/9/22,118,M,0,0,0,1,0,0,1,0,0,2,children
+63,2,1,#9,0,7,10,melon soda float,umbrella,,63,2018/9/22,118,M,0,0,0,0,0,0,1,0,0,2,children
+63,2,1,#9,5,8,11,handbell,corn,basketball,63,2018/9/22,118,M,0,0,0,0,1,0,0,1,0,2,children
+63,2,1,#6,6,7,12,ice cream,flute,baseball,63,2018/9/22,118,M,0,0,0,0,0,1,1,0,0,1,children
+63,1,3,#9,0,5,1,acoustic guitar,meat,,64,2018/9/24,117,F,0,0,0,0,0,0,0,0,1,2,children
+64,1,3,#9,4,9,2,chocolate parfait,keyboard harmonica,tambourine,64,2018/9/24,117,F,0,0,0,0,0,0,0,0,1,2,children
+64,1,3,#6,4,7,3,saxophone,cheerleader,hamburger,64,2018/9/24,117,F,0,0,0,0,0,1,0,0,0,1,children
+64,1,3,#6,4,8,4,umbrella,baseball,crepe,64,2018/9/24,117,F,0,0,0,0,0,1,0,0,0,1,children
+64,1,3,#9,0,8,5,violin,corn,,64,2018/9/24,117,F,0,0,0,0,0,0,0,0,1,2,children
+64,1,3,#6,5,8,6,soccer ball,melon soda float,table tennis,64,2018/9/24,117,F,0,0,0,0,0,1,0,0,0,1,children
+64,1,3,#9,5,9,7,pop corn,cymbal,basketball,64,2018/9/24,117,F,0,0,0,0,0,0,0,0,1,2,children
+64,1,3,#9,6,9,8,badminton,flute,pizza,64,2018/9/24,117,F,0,0,0,0,0,0,0,0,1,2,children
+64,1,3,#9,6,8,9,orange,popper,tennis,64,2018/9/24,117,F,0,0,0,0,0,0,0,0,1,2,children
+64,1,3,#6,4,9,10,cap,ice cream,tuba,64,2018/9/24,117,F,0,0,0,0,0,1,0,0,0,1,children
+64,1,3,#9,5,8,11,watermelon,balloon,handbell,64,2018/9/24,117,F,0,0,0,0,0,0,0,0,1,2,children
+64,1,3,#9,0,9,12,electric guitar,chiffon cake,,64,2018/9/24,117,F,0,0,0,0,0,0,0,0,1,2,children
+64,2,2,#9,0,8,1,melon soda float,flute,,65,2018/9/24,108,F,0,0,0,0,0,0,0,1,0,2,children
+65,2,2,#6,4,7,2,hamburger,saxophone,trumpet,65,2018/9/24,108,F,0,0,0,1,0,0,0,0,0,1,children
+65,2,2,#6,6,9,3,soccer ball,pizza,umbrella,65,2018/9/24,108,F,0,0,0,0,0,1,0,0,0,1,children
+65,2,2,#9,0,7,4,balloon,pop corn,,65,2018/9/24,108,F,0,0,0,0,0,0,1,0,0,2,children
+65,2,2,#6,5,7,5,crepe,keyboard harmonica,tuba,65,2018/9/24,108,F,0,0,0,0,1,0,0,0,0,1,children
+65,2,2,#9,0,4,6,tennis,meat,,65,2018/9/24,108,F,0,0,0,1,0,0,0,0,0,2,children
+65,2,2,#6,6,8,7,table tennis,electric guitar,chiffon cake,65,2018/9/24,108,F,0,0,0,0,0,1,0,0,0,1,children
+65,2,2,#9,5,7,8,cheerleader,violin,orange,65,2018/9/24,108,F,0,0,0,0,1,0,0,0,0,2,children
+65,2,2,#9,6,7,9,badminton,baseball,ice cream,65,2018/9/24,108,F,0,0,0,0,0,1,0,0,0,2,children
+65,2,2,#6,4,8,10,corn,acoustic guitar,basketball,65,2018/9/24,108,F,0,0,0,1,0,0,0,0,0,1,children
+65,2,2,#9,5,9,11,tambourine,chocolate parfait,cap,65,2018/9/24,108,F,0,0,0,0,0,0,0,0,1,2,children
+65,2,2,#9,5,8,12,popper,watermelon,cymbal,65,2018/9/24,108,F,0,0,0,0,1,0,0,0,0,2,children
+65,2,1,#9,0,4,1,balloon,pop corn,,66,2018/9/28,108,F,0,0,0,0,0,0,0,0,1,2,children
+66,2,1,#9,6,9,2,flute,pizza,badminton,66,2018/9/28,108,F,0,0,0,0,0,0,0,0,1,2,children
+66,2,1,#6,6,9,3,cheerleader,orange,saxophone,66,2018/9/28,108,F,0,0,0,0,0,1,0,0,0,1,children
+66,2,1,#9,0,9,4,ice cream,tambourine,,66,2018/9/28,108,F,0,0,0,0,0,0,0,0,1,2,children
+66,2,1,#9,6,7,5,basketball,acoustic guitar,meat,66,2018/9/28,108,F,0,0,0,0,0,0,0,0,1,2,children
+66,2,1,#9,5,9,6,table tennis,keyboard harmonica,crepe,66,2018/9/28,108,F,0,0,0,0,0,0,0,0,1,2,children
+66,2,1,#6,4,7,7,cymbal,watermelon,tennis,66,2018/9/28,108,F,0,0,0,0,0,1,0,0,0,1,children
+66,2,1,#6,6,8,8,chiffon cake,tuba,cap,66,2018/9/28,108,F,0,0,0,0,0,1,0,0,0,1,children
+66,2,1,#9,4,9,9,popper,violin,hamburger,66,2018/9/28,108,F,0,0,0,0,0,0,0,0,1,2,children
+66,2,1,#9,0,6,10,baseball,melon soda float,,66,2018/9/28,108,F,0,0,0,0,0,0,0,0,1,2,children
+66,2,1,#6,5,7,11,meat,handbell,trumpet,66,2018/9/28,108,F,0,0,0,0,0,1,0,0,0,1,children
+66,2,1,#6,4,9,12,electric guitar,chocolate parfait,umbrella,66,2018/9/28,108,F,0,0,0,0,0,1,0,0,0,1,children
+66,2,3,#9,0,7,1,baseball,ice cream,,67,2018/9/29,127,F,0,0,0,0,0,0,1,0,0,2,children
+67,2,3,#9,4,8,2,acoustic guitar,popper,meat,67,2018/9/29,127,F,0,0,0,0,0,0,0,1,0,2,children
+67,2,3,#9,4,7,3,chiffon cake,electric guitar,table tennis,67,2018/9/29,127,F,0,0,0,0,0,0,1,0,0,2,children
+67,2,3,#6,6,9,4,hamburger,tennis,trumpet,67,2018/9/29,127,F,0,0,0,0,0,1,0,0,0,1,children
+67,2,3,#9,0,6,5,badminton,crepe,,67,2018/9/29,127,F,0,0,0,0,0,1,0,0,0,2,children
+67,2,3,#6,6,7,6,cymbal,handbell,pop corn,67,2018/9/29,127,F,0,0,0,0,0,1,0,0,0,1,children
+67,2,3,#6,5,7,7,pizza,cap,tuba,67,2018/9/29,127,F,0,0,0,0,1,0,0,0,0,1,children
+67,2,3,#9,6,7,8,orange,violin,saxophone,67,2018/9/29,127,F,0,0,0,0,0,0,1,0,0,2,children
+67,2,3,#6,6,8,9,umbrella,soccer ball,melon soda float,67,2018/9/29,127,F,0,0,0,0,0,1,0,0,0,1,children
+67,2,3,#9,0,4,10,basketball,watermelon,,67,2018/9/29,127,F,0,0,0,1,0,0,0,0,0,2,children
+67,2,3,#6,5,9,11,tambourine,chocolate parfait,keyboard harmonica,67,2018/9/29,127,F,0,0,0,0,1,0,0,0,0,1,children
+67,2,3,#9,5,7,12,corn,balloon,cheerleader,67,2018/9/29,127,F,0,0,0,0,0,0,1,0,0,2,children
+67,1,3,#9,0,8,1,violin,corn,,68,2018/9/30,117,M,0,0,0,0,0,0,0,1,0,2,children
+68,1,3,#6,4,8,2,umbrella,baseball,crepe,68,2018/9/30,117,M,0,0,0,1,0,0,0,0,0,1,children
+68,1,3,#9,0,5,3,acoustic guitar,meat,,68,2018/9/30,117,M,0,0,0,0,1,0,0,0,0,2,children
+68,1,3,#9,6,9,4,badminton,flute,pizza,68,2018/9/30,117,M,0,0,0,0,0,0,0,0,1,2,children
+68,1,3,#9,5,9,5,pop corn,cymbal,basketball,68,2018/9/30,117,M,0,0,0,0,0,0,0,0,1,2,children
+68,1,3,#6,4,9,6,cap,ice cream,tuba,68,2018/9/30,117,M,0,0,0,0,0,1,0,0,0,1,children
+68,1,3,#9,6,8,7,orange,popper,tennis,68,2018/9/30,117,M,0,0,0,0,0,0,0,1,0,2,children
+68,1,3,#9,0,9,8,electric guitar,chiffon cake,,68,2018/9/30,117,M,0,0,0,0,0,0,0,0,1,2,children
+68,1,3,#6,4,7,9,saxophone,cheerleader,hamburger,68,2018/9/30,117,M,0,0,0,1,0,0,0,0,0,1,children
+68,1,3,#9,4,9,10,chocolate parfait,keyboard harmonica,tambourine,68,2018/9/30,117,M,0,0,0,0,0,0,0,0,1,2,children
+68,1,3,#9,5,8,11,watermelon,balloon,handbell,68,2018/9/30,117,M,0,0,0,0,0,0,0,1,0,2,children
+68,1,3,#6,5,8,12,soccer ball,melon soda float,table tennis,68,2018/9/30,117,M,0,0,0,1,0,0,0,0,0,1,children
+68,2,2,#9,5,7,1,cheerleader,violin,orange,69,2018/9/30,125,F,0,0,0,0,1,0,1,1,0,2,children
+69,2,2,#9,6,7,2,badminton,baseball,ice cream,69,2018/9/30,125,F,0,0,0,0,1,0,1,0,0,2,children
+69,2,2,#6,4,8,3,corn,acoustic guitar,basketball,69,2018/9/30,125,F,0,0,0,0,1,0,0,1,0,1,children
+69,2,2,#9,5,9,4,tambourine,chocolate parfait,cap,69,2018/9/30,125,F,0,0,0,0,1,0,0,0,1,2,children
+69,2,2,#9,5,8,5,popper,watermelon,cymbal,69,2018/9/30,125,F,0,0,0,0,1,0,0,1,0,2,children
+69,2,2,#6,6,9,6,soccer ball,pizza,umbrella,69,2018/9/30,125,F,0,0,0,0,0,1,0,0,0,1,children
+69,2,2,#9,0,7,7,balloon,pop corn,,69,2018/9/30,125,F,0,0,0,0,0,0,1,0,0,2,children
+69,2,2,#6,5,7,8,crepe,keyboard harmonica,tuba,69,2018/9/30,125,F,0,0,0,0,1,0,1,0,0,2,children
+69,2,2,#9,0,4,9,tennis,meat,,69,2018/9/30,125,F,0,0,0,1,0,0,0,0,0,2,children
+69,2,2,#6,6,8,10,table tennis,electric guitar,chiffon cake,69,2018/9/30,125,F,0,0,0,0,1,0,0,0,0,1,children
+69,2,2,#6,4,7,11,hamburger,saxophone,trumpet,69,2018/9/30,125,F,0,0,0,0,0,1,1,1,1,1,children
+69,2,2,#9,0,8,12,melon soda float,flute,,69,2018/9/30,125,F,0,0,0,0,0,0,0,1,0,2,children
+69,1,2,#9,4,7,1,hamburger,balloon,acoustic guitar,70,2018/10/4,108,M,1,0,1,1,0,0,1,0,0,2,children
+70,1,2,#6,6,7,2,table tennis,chiffon cake,tuba,70,2018/10/4,108,M,0,0,0,0,0,1,0,0,0,1,children
+70,1,2,#9,4,9,3,trumpet,pop corn,cheerleader,70,2018/10/4,108,M,0,0,0,1,0,0,0,0,1,2,children
+70,1,2,#9,6,8,4,crepe,tambourine,umbrella,70,2018/10/4,108,M,0,0,0,0,0,1,0,1,0,2,children
+70,1,2,#6,5,8,5,violin,basketball,watermelon,70,2018/10/4,108,M,0,0,0,0,1,0,0,1,0,1,children
+70,1,2,#9,0,6,6,flute,pizza,,70,2018/10/4,108,M,0,0,0,0,0,1,0,1,0,2,children
+70,1,2,#9,4,8,7,popper,orange,handbell,70,2018/10/4,108,M,0,0,0,1,0,0,0,1,0,2,children
+70,1,2,#9,0,9,8,ice cream,badminton,,70,2018/10/4,108,M,0,0,0,0,0,0,0,0,1,2,children
+70,1,2,#6,4,9,9,cymbal,tennis,corn,70,2018/10/4,108,M,0,0,0,1,0,0,0,0,1,1,children
+70,1,2,#6,5,9,10,chocolate parfait,baseball,cap,70,2018/10/4,108,M,0,0,0,0,1,0,0,0,1,1,children
+70,1,2,#9,0,5,11,saxophone,meat,,70,2018/10/4,108,M,0,0,0,0,1,0,0,0,0,2,children
+70,1,2,#9,6,9,12,soccer ball,electric guitar,melon soda float,70,2018/10/4,108,M,0,0,0,0,0,1,0,0,1,2,children
+70,1,2,#9,4,7,1,hamburger,balloon,acoustic guitar,71,2018/10/6,115,F,0,0,0,0,0,0,1,0,0,2,children
+71,1,2,#9,0,9,2,ice cream,badminton,,71,2018/10/6,115,F,0,0,0,0,0,0,0,0,1,2,children
+71,1,2,#9,4,9,3,trumpet,pop corn,cheerleader,71,2018/10/6,115,F,0,0,0,0,0,0,0,0,1,2,children
+71,1,2,#6,6,7,4,table tennis,chiffon cake,tuba,71,2018/10/6,115,F,0,0,0,0,0,1,0,0,0,1,children
+71,1,2,#9,4,8,5,popper,orange,handbell,71,2018/10/6,115,F,0,0,0,0,0,0,0,1,0,2,children
+71,1,2,#9,0,6,6,flute,pizza,,71,2018/10/6,115,F,0,0,0,1,0,0,0,0,0,2,children
+71,1,2,#6,4,9,7,cymbal,tennis,corn,71,2018/10/6,115,F,0,0,0,1,0,0,0,0,0,1,children
+71,1,2,#6,5,9,8,chocolate parfait,baseball,cap,71,2018/10/6,115,F,0,0,0,0,1,0,0,0,0,1,children
+71,1,2,#9,0,5,9,saxophone,meat,,71,2018/10/6,115,F,1,1,1,1,1,1,1,1,1,2,children
+71,1,2,#9,6,9,10,soccer ball,electric guitar,melon soda float,71,2018/10/6,115,F,0,0,0,0,0,0,0,0,1,2,children
+71,1,2,#6,5,8,11,violin,basketball,watermelon,71,2018/10/6,115,F,0,0,0,0,1,0,0,0,0,1,children
+71,1,2,#9,6,8,12,crepe,tambourine,umbrella,71,2018/10/6,115,F,0,0,0,0,0,0,0,1,0,2,children
+71,2,2,#9,0,8,1,melon soda float,flute,,72,2018/10/13,120,M,0,0,0,0,0,0,0,1,0,2,children
+72,2,2,#6,4,7,2,hamburger,saxophone,trumpet,72,2018/10/13,120,M,0,0,1,0,0,0,1,0,0,1,children
+72,2,2,#6,5,7,3,crepe,keyboard harmonica,tuba,72,2018/10/13,120,M,0,0,0,0,1,0,1,0,0,1,children
+72,2,2,#9,5,7,4,cheerleader,violin,orange,72,2018/10/13,120,M,0,0,0,0,1,0,1,0,0,2,children
+72,2,2,#9,5,9,5,tambourine,chocolate parfait,cap,72,2018/10/13,120,M,0,0,0,0,1,0,0,0,1,2,children
+72,2,2,#6,4,8,6,corn,acoustic guitar,basketball,72,2018/10/13,120,M,0,0,0,1,0,0,0,1,0,1,children
+72,2,2,#6,6,8,7,table tennis,electric guitar,chiffon cake,72,2018/10/13,120,M,0,0,0,0,0,1,0,1,0,1,children
+72,2,2,#9,0,4,8,tennis,meat,,72,2018/10/13,120,M,0,0,0,1,0,0,0,0,0,2,children
+72,2,2,#6,6,9,9,soccer ball,pizza,umbrella,72,2018/10/13,120,M,0,0,0,0,0,1,0,0,1,1,children
+72,2,2,#9,5,8,10,popper,watermelon,cymbal,72,2018/10/13,120,M,0,0,0,0,1,0,0,1,0,2,children
+72,2,2,#9,6,7,11,badminton,baseball,ice cream,72,2018/10/13,120,M,0,0,0,0,0,1,1,0,0,2,children
+72,2,2,#9,0,7,12,balloon,pop corn,,72,2018/10/13,120,M,0,0,0,0,0,0,1,0,0,2,children
+72,2,1,#9,0,5,1,pop corn,saxophone,,73,2018/10/14,125,F,0,0,0,0,1,0,0,0,0,2,children
+73,2,1,#9,4,8,2,pizza,badminton,tambourine,73,2018/10/14,125,F,0,0,0,1,0,0,0,1,0,2,children
+73,2,1,#6,4,8,3,popper,watermelon,trumpet,73,2018/10/14,125,F,0,0,0,1,0,0,0,1,0,1,children
+73,2,1,#6,6,7,4,ice cream,flute,baseball,73,2018/10/14,125,F,0,0,0,0,0,1,0,0,0,1,children
+73,2,1,#9,0,8,5,cymbal,hamburger,,73,2018/10/14,125,F,0,0,0,0,0,0,0,1,0,2,children
+73,2,1,#6,5,9,6,electric guitar,chocolate parfait,cap,73,2018/10/14,125,F,0,0,0,0,1,0,0,0,0,1,children
+73,2,1,#9,4,7,7,cheerleader,orange,tennis,73,2018/10/14,125,F,0,0,0,0,0,0,1,0,0,2,children
+73,2,1,#9,0,7,8,melon soda float,umbrella,,73,2018/10/14,125,F,0,0,0,0,0,0,1,0,0,2,children
+73,2,1,#6,5,8,9,balloon,violin,meat,73,2018/10/14,125,F,0,0,0,0,1,0,0,0,0,1,children
+73,2,1,#9,5,7,10,tuba,soccer ball,chiffon cake,73,2018/10/14,125,F,0,0,0,0,0,0,0,0,1,2,children
+73,2,1,#9,5,8,11,handbell,corn,basketball,73,2018/10/14,125,F,0,0,0,0,0,0,0,1,1,2,children
+73,2,1,#9,6,8,12,keyboard harmonica,table tennis,crepe,73,2018/10/14,125,F,0,0,0,0,0,0,0,1,1,2,children
+73,1,3,#9,0,9,1,electric guitar,chiffon cake,,74,2018/10/28,122,F,0,0,0,0,0,0,0,0,1,2,children
+74,1,3,#9,5,9,2,pop corn,cymbal,basketball,74,2018/10/28,122,F,0,0,0,0,1,0,0,0,1,2,children
+74,1,3,#6,4,8,3,umbrella,baseball,crepe,74,2018/10/28,122,F,0,0,0,1,0,0,0,0,0,1,children
+74,1,3,#6,4,7,4,saxophone,cheerleader,hamburger,74,2018/10/28,122,F,0,0,0,1,0,0,0,0,0,1,children
+74,1,3,#6,4,9,5,cap,ice cream,tuba,74,2018/10/28,122,F,0,0,0,1,0,0,0,0,0,1,children
+74,1,3,#9,0,8,6,violin,corn,,74,2018/10/28,122,F,0,0,0,0,0,0,0,1,0,2,children
+74,1,3,#9,6,9,7,badminton,flute,pizza,74,2018/10/28,122,F,0,0,0,0,0,1,0,0,1,2,children
+74,1,3,#9,6,8,8,orange,popper,tennis,74,2018/10/28,122,F,0,0,0,0,0,1,0,1,0,2,children
+74,1,3,#6,5,8,9,soccer ball,melon soda float,table tennis,74,2018/10/28,122,F,0,0,0,0,1,0,0,0,0,1,children
+74,1,3,#9,0,5,10,acoustic guitar,meat,,74,2018/10/28,122,F,0,0,0,0,1,0,0,0,0,2,children
+74,1,3,#9,4,9,11,chocolate parfait,keyboard harmonica,tambourine,74,2018/10/28,122,F,0,0,0,1,0,0,0,0,1,2,children
+74,1,3,#9,5,8,12,watermelon,balloon,handbell,74,2018/10/28,122,F,0,0,0,0,1,0,0,1,0,2,children
+74,2,3,#6,5,7,1,pizza,cap,tuba,75,2018/10/29,124,M,0,0,0,0,1,0,1,0,0,1,children
+75,2,3,#9,5,7,2,corn,balloon,cheerleader,75,2018/10/29,124,M,0,0,0,0,1,0,1,0,0,2,children
+75,2,3,#9,4,7,3,chiffon cake,electric guitar,table tennis,75,2018/10/29,124,M,0,0,0,1,0,0,1,0,0,2,children
+75,2,3,#9,0,4,4,basketball,watermelon,,75,2018/10/29,124,M,0,0,0,1,0,0,0,0,0,2,children
+75,2,3,#6,5,9,5,tambourine,chocolate parfait,keyboard harmonica,75,2018/10/29,124,M,0,0,0,0,1,0,0,0,1,1,children
+75,2,3,#6,6,9,6,hamburger,tennis,trumpet,75,2018/10/29,124,M,0,0,0,0,0,1,0,0,1,1,children
+75,2,3,#9,0,7,7,baseball,ice cream,,75,2018/10/29,124,M,0,0,0,0,0,0,1,0,0,2,children
+75,2,3,#9,4,8,8,acoustic guitar,popper,meat,75,2018/10/29,124,M,0,0,0,1,0,0,0,1,0,2,children
+75,2,3,#6,6,8,9,umbrella,soccer ball,melon soda float,75,2018/10/29,124,M,0,0,0,0,0,1,0,1,0,1,children
+75,2,3,#6,6,7,10,cymbal,handbell,pop corn,75,2018/10/29,124,M,0,0,0,0,0,1,1,0,0,1,children
+75,2,3,#9,0,6,11,badminton,crepe,,75,2018/10/29,124,M,0,0,0,0,0,1,0,0,0,2,children
+75,2,3,#9,6,7,12,orange,violin,saxophone,75,2018/10/29,124,M,0,0,0,0,0,1,1,0,0,2,children
+75,2,1,#9,5,7,1,tuba,soccer ball,chiffon cake,76,2018/10/29,122,M,0,0,0,0,1,0,1,0,0,2,children
+76,2,1,#6,5,8,2,balloon,violin,meat,76,2018/10/29,122,M,0,0,0,0,1,0,0,1,0,1,children
+76,2,1,#9,4,8,3,pizza,badminton,tambourine,76,2018/10/29,122,M,0,0,0,1,0,0,0,1,0,2,children
+76,2,1,#9,4,7,4,cheerleader,orange,tennis,76,2018/10/29,122,M,0,0,0,1,0,0,1,0,0,2,children
+76,2,1,#6,6,7,5,ice cream,flute,baseball,76,2018/10/29,122,M,0,0,0,0,0,1,1,0,0,1,children
+76,2,1,#9,5,8,6,handbell,corn,basketball,76,2018/10/29,122,M,0,0,0,0,1,0,0,1,0,2,children
+76,2,1,#9,0,7,7,melon soda float,umbrella,,76,2018/10/29,122,M,0,0,0,0,0,0,1,0,0,2,children
+76,2,1,#6,4,8,8,popper,watermelon,trumpet,76,2018/10/29,122,M,0,0,0,1,0,0,0,1,0,1,children
+76,2,1,#6,5,9,9,electric guitar,chocolate parfait,cap,76,2018/10/29,122,M,0,0,0,0,1,0,0,0,1,1,children
+76,2,1,#9,0,5,10,pop corn,saxophone,,76,2018/10/29,122,M,0,0,0,0,1,0,0,0,0,2,children
+76,2,1,#9,6,8,11,keyboard harmonica,table tennis,crepe,76,2018/10/29,122,M,0,0,0,0,0,1,0,1,0,2,children
+76,2,1,#9,0,8,12,cymbal,hamburger,,76,2018/10/29,122,M,0,0,0,0,0,0,0,1,0,2,children
+76,2,3,#6,6,9,1,hamburger,tennis,trumpet,77,2018/11/2,123,M,0,0,0,0,0,1,0,0,0,1,children
+77,2,3,#9,0,7,2,baseball,ice cream,,77,2018/11/2,123,M,0,0,0,0,0,0,0,0,1,2,children
+77,2,3,#6,6,7,3,cymbal,handbell,pop corn,77,2018/11/2,123,M,0,0,0,0,0,1,0,0,0,1,children
+77,2,3,#9,0,6,4,badminton,crepe,,77,2018/11/2,123,M,0,0,0,0,0,0,0,0,1,2,children
+77,2,3,#9,4,8,5,acoustic guitar,popper,meat,77,2018/11/2,123,M,0,0,0,0,0,0,0,1,0,2,children
+77,2,3,#6,6,8,6,umbrella,soccer ball,melon soda float,77,2018/11/2,123,M,0,0,0,0,0,1,0,0,0,1,children
+77,2,3,#9,0,4,7,basketball,watermelon,,77,2018/11/2,123,M,0,0,0,1,0,0,0,0,0,2,children
+77,2,3,#6,5,7,8,pizza,cap,tuba,77,2018/11/2,123,M,0,0,0,0,1,0,0,0,0,1,children
+77,2,3,#9,5,7,9,corn,balloon,cheerleader,77,2018/11/2,123,M,0,0,0,0,0,0,1,0,0,2,children
+77,2,3,#6,5,9,10,tambourine,chocolate parfait,keyboard harmonica,77,2018/11/2,123,M,0,0,0,0,1,0,0,0,0,1,children
+77,2,3,#9,6,7,11,orange,violin,saxophone,77,2018/11/2,123,M,0,0,0,0,0,0,1,0,0,2,children
+77,2,3,#9,4,7,12,chiffon cake,electric guitar,table tennis,77,2018/11/2,123,M,0,0,0,0,0,0,1,0,0,2,children
+77,2,1,#9,0,9,1,ice cream,tambourine,,78,2018/11/11,118,M,0,0,0,0,0,0,0,0,1,2,children
+78,2,1,#6,4,7,2,cymbal,watermelon,tennis,78,2018/11/11,118,M,0,0,0,0,0,1,0,0,0,1,children
+78,2,1,#9,6,9,3,flute,pizza,badminton,78,2018/11/11,118,M,0,0,0,0,0,0,0,0,1,2,children
+78,2,1,#9,6,7,4,basketball,acoustic guitar,meat,78,2018/11/11,118,M,0,0,0,0,0,0,0,0,1,2,children
+78,2,1,#9,5,9,5,table tennis,keyboard harmonica,crepe,78,2018/11/11,118,M,0,0,0,0,0,0,0,0,1,2,children
+78,2,1,#6,5,7,6,meat,handbell,trumpet,78,2018/11/11,118,M,0,0,0,0,0,1,0,0,0,1,children
+78,2,1,#9,0,6,7,baseball,melon soda float,,78,2018/11/11,118,M,0,0,0,0,0,0,0,0,1,2,children
+78,2,1,#6,6,9,8,cheerleader,orange,saxophone,78,2018/11/11,118,M,0,0,0,0,0,1,0,0,0,1,children
+78,2,1,#6,4,9,9,electric guitar,chocolate parfait,umbrella,78,2018/11/11,118,M,0,0,0,0,0,1,0,0,0,1,children
+78,2,1,#9,4,9,10,popper,violin,hamburger,78,2018/11/11,118,M,0,0,0,0,0,0,0,0,1,2,children
+78,2,1,#6,6,8,11,chiffon cake,tuba,cap,78,2018/11/11,118,M,0,0,0,0,0,1,0,0,0,1,children
+78,2,1,#9,0,4,12,balloon,pop corn,,78,2018/11/11,118,M,0,0,0,0,0,0,0,0,1,2,children
+78,1,2,#9,6,8,1,crepe,tambourine,umbrella,79,2018/11/18,130,M,0,0,0,0,0,0,0,1,0,2,children
+79,1,2,#9,0,5,2,saxophone,meat,,79,2018/11/18,130,M,0,0,0,0,1,0,0,0,0,2,children
+79,1,2,#6,6,7,3,table tennis,chiffon cake,tuba,79,2018/11/18,130,M,0,0,0,0,0,1,0,0,0,1,children
+79,1,2,#9,4,9,4,trumpet,pop corn,cheerleader,79,2018/11/18,130,M,0,0,0,0,0,0,0,0,1,2,children
+79,1,2,#9,0,6,5,flute,pizza,,79,2018/11/18,130,M,0,0,0,0,0,0,1,0,0,2,children
+79,1,2,#6,4,9,6,cymbal,tennis,corn,79,2018/11/18,130,M,0,0,0,0,0,0,0,0,1,1,children
+79,1,2,#9,0,9,7,ice cream,badminton,,79,2018/11/18,130,M,0,0,0,0,0,0,0,0,1,2,children
+79,1,2,#9,4,8,8,popper,orange,handbell,79,2018/11/18,130,M,0,0,0,0,0,0,0,1,0,2,children
+79,1,2,#6,5,9,9,chocolate parfait,baseball,cap,79,2018/11/18,130,M,0,0,0,0,0,0,0,0,1,1,children
+79,1,2,#9,4,7,10,hamburger,balloon,acoustic guitar,79,2018/11/18,130,M,0,0,0,0,0,0,1,0,0,2,children
+79,1,2,#9,6,9,11,soccer ball,electric guitar,melon soda float,79,2018/11/18,130,M,0,0,0,0,0,0,0,0,1,2,children
+79,1,2,#6,5,8,12,violin,basketball,watermelon,79,2018/11/18,130,M,0,0,0,0,0,0,0,1,0,1,children
+79,2,1,#9,5,9,1,table tennis,keyboard harmonica,crepe,80,2018/11/18,117,F,0,0,0,0,1,0,0,0,1,2,children
+80,2,1,#9,0,4,2,balloon,pop corn,,80,2018/11/18,117,F,0,0,0,1,0,0,0,0,0,2,children
+80,2,1,#9,6,9,3,flute,pizza,badminton,80,2018/11/18,117,F,0,0,0,0,0,1,0,0,1,2,children
+80,2,1,#6,5,7,4,meat,handbell,trumpet,80,2018/11/18,117,F,0,0,0,0,1,0,1,0,0,1,children
+80,2,1,#9,0,9,5,ice cream,tambourine,,80,2018/11/18,117,F,0,0,0,0,0,0,0,0,1,2,children
+80,2,1,#6,4,7,6,cymbal,watermelon,tennis,80,2018/11/18,117,F,0,0,0,1,0,0,1,0,0,2,children
+80,2,1,#9,0,6,7,baseball,melon soda float,,80,2018/11/18,117,F,0,0,0,0,0,1,0,0,0,2,children
+80,2,1,#6,6,9,8,cheerleader,orange,saxophone,80,2018/11/18,117,F,0,0,0,0,0,1,0,0,1,1,children
+80,2,1,#6,4,9,9,electric guitar,chocolate parfait,umbrella,80,2018/11/18,117,F,0,0,0,1,0,0,0,0,1,1,children
+80,2,1,#9,6,7,10,basketball,acoustic guitar,meat,80,2018/11/18,117,F,0,0,0,0,0,1,1,0,0,2,children
+80,2,1,#6,6,8,11,chiffon cake,tuba,cap,80,2018/11/18,117,F,0,0,0,0,0,1,0,1,0,1,children
+80,2,1,#9,4,9,12,popper,violin,hamburger,80,2018/11/18,117,F,0,0,0,1,0,0,0,0,1,2,children
+80,2,1,#6,4,7,1,cymbal,watermelon,tennis,81,2018/11/26,120,M,0,0,1,0,0,0,0,0,0,1,children
+81,2,1,#9,0,9,2,ice cream,tambourine,,81,2018/11/26,120,M,0,0,0,0,0,0,0,0,1,2,children
+81,2,1,#6,6,9,3,cheerleader,orange,saxophone,81,2018/11/26,120,M,0,0,0,0,0,1,0,0,0,1,children
+81,2,1,#9,5,9,4,table tennis,keyboard harmonica,crepe,81,2018/11/26,120,M,0,0,0,0,1,0,0,0,1,2,children
+81,2,1,#9,0,4,5,balloon,pop corn,,81,2018/11/26,120,M,0,0,0,1,0,0,0,0,0,2,children
+81,2,1,#6,4,9,6,electric guitar,chocolate parfait,umbrella,81,2018/11/26,120,M,0,0,0,1,0,0,0,0,0,1,children
+81,2,1,#9,6,7,7,basketball,acoustic guitar,meat,81,2018/11/26,120,M,0,0,0,0,0,1,1,0,0,2,children
+81,2,1,#6,6,8,8,chiffon cake,tuba,cap,81,2018/11/26,120,M,0,0,0,0,0,1,0,0,0,1,children
+81,2,1,#9,4,9,9,popper,violin,hamburger,81,2018/11/26,120,M,0,0,0,1,0,0,0,0,1,2,children
+81,2,1,#9,6,9,10,flute,pizza,badminton,81,2018/11/26,120,M,0,0,0,0,0,1,0,0,1,2,children
+81,2,1,#6,5,7,11,meat,handbell,trumpet,81,2018/11/26,120,M,0,0,0,0,1,0,0,0,0,1,children
+81,2,1,#9,0,6,12,baseball,melon soda float,,81,2018/11/26,120,M,0,0,0,0,0,1,0,0,0,2,children
+81,2,2,#6,4,8,1,corn,acoustic guitar,basketball,82,2018/12/24,118,M,0,0,0,1,0,0,0,0,0,1,children
+82,2,2,#9,5,9,2,tambourine,chocolate parfait,cap,82,2018/12/24,118,M,0,0,0,0,1,0,0,0,1,2,children
+82,2,2,#9,0,4,3,tennis,meat,,82,2018/12/24,118,M,0,0,0,1,0,0,0,0,0,2,children
+82,2,2,#6,5,7,4,crepe,keyboard harmonica,tuba,82,2018/12/24,118,M,0,0,0,0,1,0,0,0,0,1,children
+82,2,2,#9,0,7,5,balloon,pop corn,,82,2018/12/24,118,M,0,0,0,0,0,0,1,0,0,2,children
+82,2,2,#9,6,7,6,badminton,baseball,ice cream,82,2018/12/24,118,M,0,0,0,0,0,1,1,0,0,2,children
+82,2,2,#9,5,8,7,popper,watermelon,cymbal,82,2018/12/24,118,M,0,0,0,0,1,0,0,1,0,2,children
+82,2,2,#6,6,8,8,table tennis,electric guitar,chiffon cake,82,2018/12/24,118,M,0,0,0,0,0,1,0,0,0,1,children
+82,2,2,#9,5,7,9,cheerleader,violin,orange,82,2018/12/24,118,M,0,0,0,0,1,0,1,0,0,2,children
+82,2,2,#9,0,8,10,melon soda float,flute,,82,2018/12/24,118,M,0,0,0,0,0,0,0,1,0,2,children
+82,2,2,#6,4,7,11,hamburger,saxophone,trumpet,82,2018/12/24,118,M,0,0,0,1,0,0,0,0,0,1,children
+82,2,2,#6,6,9,12,soccer ball,pizza,umbrella,82,2018/12/24,118,M,0,0,0,0,0,1,0,0,0,1,children
